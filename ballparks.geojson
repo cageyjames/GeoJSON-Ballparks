@@ -63,6 +63,8 @@
 { "type": "Feature", "properties": { "League": "IL", "Team": "Louisville Bats", "Ballpark": "Louisville Slugger Field", "Lat": 38.256186, "Long": -85.744653 }, "geometry": { "type": "Point", "coordinates": [ -85.74465, 38.256186 ] } },
 { "type": "Feature", "properties": { "League": "IL", "Team": "Toledo Mud Hens", "Ballpark": "Fifth Third Field", "Lat": 41.648314, "Long": -83.538986 }, "geometry": { "type": "Point", "coordinates": [ -83.538986, 41.648314 ] } },
 { "type": "Feature", "properties": { "League": "Mexican", "Team": "Rieleros de Aguascalientes", "Ballpark": "Parque Alberto Romo Chávez", "Lat": 21.879776, "Long": -102.273542 }, "geometry": { "type": "Point", "coordinates": [ -102.273542, 21.879776 ] } },
-{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Vaqueros Laguna", "Ballpark": "Estadio Revolución", "Lat": 25.539575, "Long": -103.429178 }, "geometry": { "type": "Point", "coordinates": [ -103.429178, 25.539575 ] } }
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Vaqueros Laguna", "Ballpark": "Estadio Revolución", "Lat": 25.539575, "Long": -103.429178 }, "geometry": { "type": "Point", "coordinates": [ -103.429178, 25.539575 ] } },
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Diablos Rojos del México", "Ballpark": "Foro Sol", "Lat": 19.404889, "Long": -99.095944 }, "geometry": { "type": "Point", "coordinates": [ -99.095944, 19.404889 ] } },
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Acereros de Monclova", "Ballpark": "Estadio De Béisbol Monclova", "Lat": 26.906914, "Long": -101.444117 }, "geometry": { "type": "Point", "coordinates": [-101.444117, 26.906914 ] } }
 ]
 }
