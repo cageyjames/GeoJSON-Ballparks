@@ -88,6 +88,14 @@
 { "type": "Feature", "properties": { "League": "EL", "Team": "Altoona Curve", "Ballpark": "Peoples Natural Gas Field", "Lat": 40.473611, "Long": -78.394722 }, "geometry": { "type": "Point", "coordinates": [ -78.394722, 40.473611 ] } },
 { "type": "Feature", "properties": { "League": "EL", "Team": "Erie SeaWolves", "Ballpark": "Jerry Uht Park", "Lat": 42.126944, "Long": -80.080000 }, "geometry": { "type": "Point", "coordinates": [ -80.080000, 42.126944 ] } },
 { "type": "Feature", "properties": { "League": "EL", "Team": "Harrisburg Senators", "Ballpark": "Metro Bank Park", "Lat": 40.256428, "Long": -76.889977 }, "geometry": { "type": "Point", "coordinates": [ -76.889977, 40.256428 ] } },
-{ "type": "Feature", "properties": { "League": "EL", "Team": "Richmond Flying Squirrels", "Ballpark": "The Diamond", "Lat": 37.571806, "Long": -77.463733 }, "geometry": { "type": "Point", "coordinates": [ -77.463733, 37.571806 ] } }
+{ "type": "Feature", "properties": { "League": "EL", "Team": "Richmond Flying Squirrels", "Ballpark": "The Diamond", "Lat": 37.571806, "Long": -77.463733 }, "geometry": { "type": "Point", "coordinates": [ -77.463733, 37.571806 ] } },
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Piratas de Campeche", "Ballpark": "Estadio Nelson Barrera", "Lat": 19.845797, "Long": -90.516906 }, "geometry": { "type": "Point", "coordinates": [ -90.516906, 19.845797 ] } },
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Delfines de Ciudad del Carmen", "Ballpark": "Estadio Resurgimiento", "Lat": 18.647458, "Long": -91.819320 }, "geometry": { "type": "Point", "coordinates": [ 
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Pericos de Puebla", "Ballpark": "Estadio Hermanos Serdán", "Lat": 19.075358, "Long": -98.1649 }, "geometry": { "type": "Point", "coordinates": [ -91.819320, 19.075358 ] } },
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Guerreros de Oaxaca", "Ballpark": "Eduardo Vasconcelos Stadium", "Lat": 17.07, "Long": -96.713 }, "geometry": { "type": "Point", "coordinates": [ -96.713, 17.07 ] } },
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Tigres de Quintana Roo", "Ballpark": "Estadio de Béisbol Beto Ávila", "Lat": 21.152525, "Long": -86.836861 }, "geometry": { "type": "Point", "coordinates": [ -86.836861, 21.152525 ] } },
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Olmecas de Tabasco", "Ballpark": "Estadio Centenario 27 de Febrero", "Lat": 17.976667, "Long": -92.944167 }, "geometry": { "type": "Point", "coordinates": [ -92.944167, 17.976667 ] } },
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Rojos del Águila de Veracruz", "Ballpark": "Estadio Universitario Beto Avila", "Lat": 19.165097, "Long": -96.122736 }, "geometry": { "type": "Point", "coordinates": [ -96.122736, 19.165097 ] } },
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Leones de Yucatán", "Ballpark": "Estadio de Béisbol Kukulkán", "Lat": 20.941211, "Long": -89.595983 }, "geometry": { "type": "Point", "coordinates": [ -89.595983, 20.941211 ] } }
 ]
 }
