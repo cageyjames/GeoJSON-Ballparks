@@ -69,6 +69,7 @@
 { "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Sultanes de Monterrey", "Ballpark": "Estadio de Beisbol Monterrey", "Lat": 25.718517, "Long": -100.31575 }, "geometry": { "type": "Point", "coordinates": [ -100.31575, 25.718517 ] } },
 { "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Toros de Tijuana", "Ballpark": "Estadio Gasmart", "Lat": 32.483212, "Long": -116.91748 }, "geometry": { "type": "Point", "coordinates": [ -116.91748, 32.483212 ] } },
 { "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Broncos de Reynosa", "Ballpark": "Estadio Adolfo López Mateos", "Lat": 26.078825, "Long": -98.312292 }, "geometry": { "type": "Point", "coordinates": [ -98.312292, 26.078825 ] } },
-{ "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Saraperos de Saltillo", "Ballpark": "Estadio de Béisbol Francisco I. Madero", "Lat": 25.433653, "Long": -100.978806 }, "geometry": { "type": "Point", "coordinates": [ -100.978806, 25.433653 ] } }
+{ "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Saraperos de Saltillo", "Ballpark": "Estadio de Béisbol Francisco I. Madero", "Lat": 25.433653, "Long": -100.978806 }, "geometry": { "type": "Point", "coordinates": [ -100.978806, 25.433653 ] } },
+{ "type": "Feature", "properties": { "League": "EL", "Team": "Portland Sea Dogs", "Ballpark": "Hadlock Field", "Lat": 43.656694, "Long": -70.278278 }, "geometry": { "type": "Point", "coordinates": [ -70.278278, 43.656694 ] } }
 ]
 }
