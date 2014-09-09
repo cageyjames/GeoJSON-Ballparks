@@ -65,6 +65,10 @@
 { "type": "Feature", "properties": { "League": "Mexican", "Team": "Rieleros de Aguascalientes", "Ballpark": "Parque Alberto Romo Chávez", "Lat": 21.879776, "Long": -102.273542 }, "geometry": { "type": "Point", "coordinates": [ -102.273542, 21.879776 ] } },
 { "type": "Feature", "properties": { "League": "Mexican", "Team": "Vaqueros Laguna", "Ballpark": "Estadio Revolución", "Lat": 25.539575, "Long": -103.429178 }, "geometry": { "type": "Point", "coordinates": [ -103.429178, 25.539575 ] } },
 { "type": "Feature", "properties": { "League": "Mexican", "Team": "Diablos Rojos del México", "Ballpark": "Foro Sol", "Lat": 19.404889, "Long": -99.095944 }, "geometry": { "type": "Point", "coordinates": [ -99.095944, 19.404889 ] } },
-{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Acereros de Monclova", "Ballpark": "Estadio De Béisbol Monclova", "Lat": 26.906914, "Long": -101.444117 }, "geometry": { "type": "Point", "coordinates": [-101.444117, 26.906914 ] } }
+{ "type": "Feature", "properties": { "League": "Mexican", "Team": "Acereros de Monclova", "Ballpark": "Estadio De Béisbol Monclova", "Lat": 26.906914, "Long": -101.444117 }, "geometry": { "type": "Point", "coordinates": [ -101.444117, 26.906914 ] } },
+{ "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Sultanes de Monterrey", "Ballpark": "Estadio de Beisbol Monterrey", "Lat": 25.718517, "Long": -100.31575 }, "geometry": { "type": "Point", "coordinates": [ -100.31575, 25.718517 ] } },
+{ "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Toros de Tijuana", "Ballpark": "Estadio Gasmart", "Lat": 32.483212, "Long": -116.91748 }, "geometry": { "type": "Point", "coordinates": [ -116.91748, 32.483212 ] } },
+{ "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Broncos de Reynosa", "Ballpark": "Estadio Adolfo López Mateos", "Lat": 26.078825, "Long": -98.312292 }, "geometry": { "type": "Point", "coordinates": [ -98.312292, 26.078825 ] } },
+{ "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Saraperos de Saltillo", "Ballpark": "Estadio de Béisbol Francisco I. Madero" "Lat": 25.433653, "Long": -100.978806 }, "geometry": { "type": "Point", "coordinates": [ -100.978806, 25.433653 ] } }
 ]
 }
