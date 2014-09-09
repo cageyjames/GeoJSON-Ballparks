@@ -62,7 +62,6 @@
 { "type": "Feature", "properties": { "League": "IL", "Team": "Indianapolis Indians", "Ballpark": "Victory Field", "Lat": 39.765, "Long": -86.168333 }, "geometry": { "type": "Point", "coordinates": [ -86.168333, 39.765 ] } },
 { "type": "Feature", "properties": { "League": "IL", "Team": "Louisville Bats", "Ballpark": "Louisville Slugger Field", "Lat": 38.256186, "Long": -85.744653 }, "geometry": { "type": "Point", "coordinates": [ -85.74465, 38.256186 ] } },
 { "type": "Feature", "properties": { "League": "IL", "Team": "Toledo Mud Hens", "Ballpark": "Fifth Third Field", "Lat": 41.648314, "Long": -83.538986 }, "geometry": { "type": "Point", "coordinates": [ -83.538986, 41.648314 ] } },
-<<<<<<< HEAD
 { "type": "Feature", "properties": { "League": "Mexican", "Team": "Rieleros de Aguascalientes", "Ballpark": "Parque Alberto Romo Chávez", "Lat": 21.879776, "Long": -102.273542 }, "geometry": { "type": "Point", "coordinates": [ -102.273542, 21.879776 ] } },
 { "type": "Feature", "properties": { "League": "Mexican", "Team": "Vaqueros Laguna", "Ballpark": "Estadio Revolución", "Lat": 25.539575, "Long": -103.429178 }, "geometry": { "type": "Point", "coordinates": [ -103.429178, 25.539575 ] } },
 { "type": "Feature", "properties": { "League": "Mexican", "Team": "Diablos Rojos del México", "Ballpark": "Foro Sol", "Lat": 19.404889, "Long": -99.095944 }, "geometry": { "type": "Point", "coordinates": [ -99.095944, 19.404889 ] } },
@@ -72,9 +71,7 @@
 { "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Broncos de Reynosa", "Ballpark": "Estadio Adolfo López Mateos", "Lat": 26.078825, "Long": -98.312292 }, "geometry": { "type": "Point", "coordinates": [ -98.312292, 26.078825 ] } },
 { "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Saraperos de Saltillo", "Ballpark": "Estadio de Béisbol Francisco I. Madero", "Lat": 25.433653, "Long": -100.978806 }, "geometry": { "type": "Point", "coordinates": [ -100.978806, 25.433653 ] } },
 { "type": "Feature", "properties": { "League": "EL", "Team": "Portland Sea Dogs", "Ballpark": "Hadlock Field", "Lat": 43.656694, "Long": -70.278278 }, "geometry": { "type": "Point", "coordinates": [ -70.278278, 43.656694 ] } }
-=======
 { "type": "Feature", "properties": { "League": "CL", "Team": "Potomac Nationals", "Ballpark": "Pfitzner Stadium", "Lat": 38.68396, "Long": -77.35214 }, "geometry": { "type": "Point", "coordinates": [ -77.35214, 38.68396 ] } },
 { "type": "Feature", "properties": { "League": "EL", "Team": "Bowie Baysox", "Ballpark": "Prince George's Stadium", "Lat": 38.94546, "Long": -76.70934 }, "geometry": { "type": "Point", "coordinates": [ -76.70934, 38.94546 ] } }
->>>>>>> 15f0543709b954ce47bc6a3e83735279d2d0aadb
 ]
 }
