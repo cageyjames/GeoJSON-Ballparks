@@ -61,6 +61,8 @@
 { "type": "Feature", "properties": { "League": "IL", "Team": "Columbus Clippers", "Ballpark": "Huntington Park", "Lat": 39.968619, "Long": -83.010743 }, "geometry": { "type": "Point", "coordinates": [ -83.010743, 39.968619 ] } },
 { "type": "Feature", "properties": { "League": "IL", "Team": "Indianapolis Indians", "Ballpark": "Victory Field", "Lat": 39.765, "Long": -86.168333 }, "geometry": { "type": "Point", "coordinates": [ -86.168333, 39.765 ] } },
 { "type": "Feature", "properties": { "League": "IL", "Team": "Louisville Bats", "Ballpark": "Louisville Slugger Field", "Lat": 38.256186, "Long": -85.744653 }, "geometry": { "type": "Point", "coordinates": [ -85.74465, 38.256186 ] } },
-{ "type": "Feature", "properties": { "League": "IL", "Team": "Toledo Mud Hens", "Ballpark": "Fifth Third Field", "Lat": 41.648314, "Long": -83.538986 }, "geometry": { "type": "Point", "coordinates": [ -83.538986, 41.648314 ] } }
+{ "type": "Feature", "properties": { "League": "IL", "Team": "Toledo Mud Hens", "Ballpark": "Fifth Third Field", "Lat": 41.648314, "Long": -83.538986 }, "geometry": { "type": "Point", "coordinates": [ -83.538986, 41.648314 ] } },
+{ "type": "Feature", "properties": { "League": "CL", "Team": "Potomac Nationals", "Ballpark": "Pfitzner Stadium", "Lat": 38.68396, "Long": -77.35214 }, "geometry": { "type": "Point", "coordinates": [ -77.35214, 38.68396 ] } },
+{ "type": "Feature", "properties": { "League": "EL", "Team": "Bowie Baysox", "Ballpark": "Prince George's Stadium", "Lat": 38.94546, "Long": -76.70934 }, "geometry": { "type": "Point", "coordinates": [ -76.70934, 38.94546 ] } }
 ]
 }
