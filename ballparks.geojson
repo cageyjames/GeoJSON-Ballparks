@@ -70,8 +70,8 @@
 { "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Toros de Tijuana", "Ballpark": "Estadio Gasmart", "Lat": 32.483212, "Long": -116.91748 }, "geometry": { "type": "Point", "coordinates": [ -116.91748, 32.483212 ] } },
 { "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Broncos de Reynosa", "Ballpark": "Estadio Adolfo López Mateos", "Lat": 26.078825, "Long": -98.312292 }, "geometry": { "type": "Point", "coordinates": [ -98.312292, 26.078825 ] } },
 { "type": "Feature", "properties": { "Leauge": "Mexican", "Team": "Saraperos de Saltillo", "Ballpark": "Estadio de Béisbol Francisco I. Madero", "Lat": 25.433653, "Long": -100.978806 }, "geometry": { "type": "Point", "coordinates": [ -100.978806, 25.433653 ] } },
-{ "type": "Feature", "properties": { "League": "EL", "Team": "Portland Sea Dogs", "Ballpark": "Hadlock Field", "Lat": 43.656694, "Long": -70.278278 }, "geometry": { "type": "Point", "coordinates": [ -70.278278, 43.656694 ] } }
-{ "type": "Feature", "properties": { "League": "CL", "Team": "Potomac Nationals", "Ballpark": "Pfitzner Stadium", "Lat": 38.68396, "Long": -77.35214 }, "geometry": { "type": "Point", "coordinates": [ -77.35214, 38.68396 ] } }
-{ "type": "Feature", "properties": { "League": "EL", "Team": "Bowie Baysox", "Ballpark": "Prince George's Stadium", "Lat": 38.94546, "Long": -76.70934 }, "geometry": { "type": "Point", "coordinates": [ -76.70934, 38.94546 ] } },
+{ "type": "Feature", "properties": { "League": "EL", "Team": "Portland Sea Dogs", "Ballpark": "Hadlock Field", "Lat": 43.656694, "Long": -70.278278 }, "geometry": { "type": "Point", "coordinates": [ -70.278278, 43.656694 ] } },
+{ "type": "Feature", "properties": { "League": "CL", "Team": "Potomac Nationals", "Ballpark": "Pfitzner Stadium", "Lat": 38.68396, "Long": -77.35214 }, "geometry": { "type": "Point", "coordinates": [ -77.35214, 38.68396 ] } },
+{ "type": "Feature", "properties": { "League": "EL", "Team": "Bowie Baysox", "Ballpark": "Prince George's Stadium", "Lat": 38.94546, "Long": -76.70934 }, "geometry": { "type": "Point", "coordinates": [ -76.70934, 38.94546 ] } }
 ]
 }
