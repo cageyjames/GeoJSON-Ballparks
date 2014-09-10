@@ -5,7 +5,7 @@ Ballparks of [MLB](http://mlb.com) and [Minor League AAA](http://www.milb.com/) 
 
 The goal is to get all professional baseball team ballparks in GeoJSON format.  This includes the [Mexican League](http://www.milb.com/index.jsp?sid=l125) as well as AA and A teams.  I'd also like to get independent baseball league teams in the database but they don't always play in the same ballparks year after year.
 
-*Finished*
+**Finished**
 
 1. Major League Baseball (American League and National League)
 2. Pacific Coast League (Class Triple-A)
@@ -13,7 +13,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 4. Mexican League (Class Triple-A)
 5. Eastern League (Class Double-A)
 
-*Todo*
+**To-Do**
 
 1. Southern League (Class Double-A)
 2. Texas League (Class Double-A)
@@ -23,3 +23,9 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 6. South Atlantic League (Class A)
 7. Midwest League (Class A)
 8. Spring Training (Cactus and Grapefruit Leagues)
+
+**Suggestions**
+
+1. Rookie Leagues
+2. Summer Leagues (college or independent)
+3. Independent Leagues
