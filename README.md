@@ -16,13 +16,13 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 7. Texas League (Class Double-A)
 8. California League (Class A-Advanced)
 9. Carolina League (Class A-Advanced)
+10. Florida State League (Class A-Advanced)
 
 **To-Do**
 
-1. Florida State League (Class A-Advanced)
-2. South Atlantic League (Class A)
-3. Midwest League (Class A)
-4. Spring Training (Cactus and Grapefruit Leagues)
+1. South Atlantic League (Class A)
+2. Midwest League (Class A)
+3. Spring Training (Cactus and Grapefruit Leagues)
 
 **Suggestions**
 
