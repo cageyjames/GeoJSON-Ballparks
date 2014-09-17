@@ -18,11 +18,12 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 9. Carolina League (Class A-Advanced)
 10. Florida State League (Class A-Advanced)
 11. South Atlantic League (Class A)
+12. Midwest League (Class A)
 
 **To-Do**
 
-1. Midwest League (Class A)
-2. Spring Training (Cactus and Grapefruit Leagues)
+1. Spring Training Cactus League
+2. Spring Training Grapefruit League
 
 **Suggestions**
 
