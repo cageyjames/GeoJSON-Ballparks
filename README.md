@@ -22,11 +22,11 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 
 **To-Do**
 
-1. Spring Training Cactus League
-2. Spring Training Grapefruit League
+1. Cactus League (Spring Training)
+2. Grapefruit League (Spring Training)
 
 **Suggestions**
 
 1. Rookie Leagues
-2. Summer Leagues (college or independent) - [Example](https://gist.github.com/oeon/54626316c56a76e4db67)
-3. Independent Leagues
+2. Summer Leagues (College) - [Example](https://gist.github.com/oeon/54626316c56a76e4db67)
+3. Independent Leagues - [Example](http://www.americanassociationbaseball.com)
