@@ -28,6 +28,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 3. China Baseball League (China)
 4. Korea Baseball Championship (South Korea)
 5. Chinese Professional Baseball League (Taiwan) 
+6. Australian Baseball League
 
 **Suggestions**
 
