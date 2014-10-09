@@ -19,16 +19,16 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 10. Florida State League (Class A-Advanced)
 11. South Atlantic League (Class A)
 12. Midwest League (Class A)
-13. Nippon Professional Baseball (International)
+13. Nippon Professional Baseball (Japan)
+14. Korea Baseball Championship (South Korea)
 
 **To-Do**
 
 1. Cactus League (Spring Training)
 2. Grapefruit League (Spring Training)
 3. China Baseball League (China)
-4. Korea Baseball Championship (South Korea)
-5. Chinese Professional Baseball League (Taiwan) 
-6. Australian Baseball League
+4. Chinese Professional Baseball League (Taiwan) 
+5. Australian Baseball League
 
 **Suggestions**
 
