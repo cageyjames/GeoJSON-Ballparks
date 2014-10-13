@@ -23,7 +23,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 14. Korea Baseball Championship (South Korea)
 15. Chinese Professional Baseball League (Taiwan)
 16. Australian Baseball League (Australia)
-17. 1. Bundesliga (Germany)
+17. Bundesliga (Germany)
 
 **To-Do**
 
