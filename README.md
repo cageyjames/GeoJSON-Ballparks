@@ -24,12 +24,13 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 15. Chinese Professional Baseball League (Taiwan)
 16. Australian Baseball League (Australia)
 17. Bundesliga (Germany)
+18. Cactus League (Spring Training)
+19. College Ballparks
 
 **To-Do**
 
-1. Cactus League (Spring Training)
-2. Grapefruit League (Spring Training)
-3. China Baseball League (China)
+1. Grapefruit League (Spring Training)
+2. China Baseball League (China)
 
 **Suggestions**
 
