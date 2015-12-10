@@ -26,7 +26,8 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 17. Bundesliga (Germany)
 18. Cactus League (Spring Training)
 19. College Ballparks
-20. Cape Cod Baseball League (Amateur)
+20. Cape Cod Baseball League (Amateur)  
+21. Coastal Plain League (Summer/Collegiate)  
 
 **To-Do**
 
