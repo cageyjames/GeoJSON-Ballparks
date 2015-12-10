@@ -1,7 +1,7 @@
 GeoJSON-Ballparks
 =================
 
-Ballparks of [MLB](http://mlb.com), [MLB Minor League](http://www.milb.com/), [Mexican League](http://www.milb.com/index.jsp?sid=l125), [Nippon Professional Baseball](http://www.npb.or.jp), [Korea Baseball Championship](http://www.koreabaseball.com/), [Chinese Professional Baseball League](http://www.cpbl.com.tw), [Australian Baseball League](http://web.theabl.com.au) and [Bundesliga](http://baseball-bundesliga.de/) teams in [GeoJSON](http://geojson.org).
+Ballparks of [MLB](http://mlb.com), [MLB Minor League](http://www.milb.com/), [Mexican League](http://www.milb.com/index.jsp?sid=l125), [Nippon Professional Baseball](http://www.npb.or.jp), [Korea Baseball Championship](http://www.koreabaseball.com/), [Chinese Professional Baseball League](http://www.cpbl.com.tw), [Australian Baseball League](http://web.theabl.com.au), [Bundesliga](http://baseball-bundesliga.de/) and [Cape Code Baseball League](http://www.capecodbaseball.org/) teams in [GeoJSON](http://geojson.org).
 
 The goal is to get all professional baseball team ballparks in GeoJSON format.  I'd also like to get independent baseball league teams in the database but they don't always play in the same ballparks year after year.  Internationally the focus is on Asian major professional baseball leagues but Latin American Teams (Columbia, Dominican Republic, etc) and Europe (Italy and The Netherlands) are goals as well.
 
@@ -26,6 +26,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 17. Bundesliga (Germany)
 18. Cactus League (Spring Training)
 19. College Ballparks
+20. Cape Cod Baseball League (Amateur)
 
 **To-Do**
 
