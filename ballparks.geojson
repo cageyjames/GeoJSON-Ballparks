@@ -4634,4 +4634,22 @@
       }
     }
   ]
-}
+},
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "College",
+        "League": "Pacific 12",
+        "Team": "Arizona Wildcats",
+        "Ballpark": "Hi Corbett Field",
+        "Lat": 32.213333,
+        "Long": -110.919167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.919167,
+          32.213333
+        ]
+      }
+    }
