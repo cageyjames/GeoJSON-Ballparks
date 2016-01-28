@@ -4652,4 +4652,274 @@
           32.213333
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Atlanta Braves",
+        "Ballpark": "Champion Stadium",
+        "Lat": 28.337083,
+        "Long": -81.556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.556,
+          28.337083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Baltimore Orioles",
+        "Ballpark": "Ed Smith Stadium",
+        "Lat": 27.347778,
+        "Long": -82.517222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.517222,
+          27.347778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Boston Red Sox",
+        "Ballpark": "jetBlue Park at Fenway South",
+        "Lat": 26.548056,
+        "Long": -81.763333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.763333,
+          26.548056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Detroit Tigers",
+        "Ballpark": "Joker Marchant Stadium",
+        "Lat": 28.074722,
+        "Long": -81.950833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.950833,
+          28.074722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Houston Astros",
+        "Ballpark": "Osceola County Stadium",
+        "Lat": 28.298333,
+        "Long": -81.363889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.363889,
+          28.298333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "St. Louis Cardinals",
+        "Ballpark": "Roger Dean Stadium",
+        "Lat": 26.891111,
+        "Long": -80.116389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.116389,
+          26.891111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Florida Marlins",
+        "Ballpark": "Roger Dean Stadium",
+        "Lat": 26.891111,
+        "Long": -80.116389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.116389,
+          26.891111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Minnesota Twins",
+        "Ballpark": "Hammond Stadium",
+        "Lat": 26.538333,
+        "Long": -81.841944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.841944,
+          26.538333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "New York Mets",
+        "Ballpark": "Tradition Field",
+        "Lat": 27.325281,
+        "Long": -80.404494
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.404494,
+          27.325281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "New York Yankees",
+        "Ballpark": "George M. Steinbrenner Field",
+        "Lat": 27.980278,
+        "Long": -82.506667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.506667,
+          27.980278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Philadelphia Phillies",
+        "Ballpark": "Bright House Field",
+        "Lat": 27.971667,
+        "Long": -82.731667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.731667,
+          27.971667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Pittsburgh Pirates",
+        "Ballpark": "McKechnie Field",
+        "Lat": 27.485833,
+        "Long": -82.570278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.570278,
+          27.485833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Tampa Bay Rays",
+        "Ballpark": "Charlotte Sports Park",
+        "Lat": 26.999167,
+        "Long": -82.181667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.181667,
+          26.999167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Toronto Blue Jays",
+        "Ballpark": "Florida Auto Exchange Stadium",
+        "Lat": 28.003611,
+        "Long": -82.786389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.786389,
+          28.003611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Class": "Spring Training",
+        "League": "Grapefruit",
+        "Team": "Washington Nationals",
+        "Ballpark": "Space Coast Stadium",
+        "Lat": 28.256944,
+        "Long": -80.739444
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.739444,
+          28.256944
+        ]
+      }
     }
