@@ -27,14 +27,14 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 18. Cactus League (Spring Training)
 19. Cape Cod Baseball League (Amateur)  
 20. Coastal Plain League (Summer/Collegiate)
+21. Grapefruit League (Spring Training)
 
 **Ongoing**
 1. Pac-12 College Ballparks  
 
 **To-Do**
 
-1. Grapefruit League (Spring Training)
-2. China Baseball League (China)
+1. China Baseball League (China)
 
 **Suggestions**
 
