@@ -3669,5 +3669,19 @@
       "Lat": "10.26054",
       "Long": "-67.61131"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-67.97983, 10.17528]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Navegantes del Magallanes",
+      "Ballpark": "Estadio José Bernardo Pérez de Valencia",
+      "Lat": "10.17528",
+      "Long": "-67.97983"
+    }
   }]
 }
