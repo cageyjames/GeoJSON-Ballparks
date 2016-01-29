@@ -2637,7 +2637,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [126.880978, 37.530706]
+      "coordinates": [126.867189, 37.498400]
     },
     "properties": {
       "Class": "Other",
@@ -2658,8 +2658,8 @@
       "League": "Korea Baseball Championship",
       "Team": "Samsung Lions",
       "Ballpark": "Daegu Samsung Lions Park",
-      "Lat": "35.840833",
-      "Long": "128.680833"
+      "Lat": "35.880975",
+      "Long": "128.586572"
     }
   }, {
     "type": "Feature",
