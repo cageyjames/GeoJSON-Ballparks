@@ -3627,5 +3627,19 @@
       "Lat": "10.67300",
       "Long": "-71.64801"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-63.86520, 10.97582]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Bravos de Margarita",
+      "Ballpark": "Stadium Nueva Esparta",
+      "Lat": "10.97582",
+      "Long": "-63.86520"
+    }
   }]
 }
