@@ -3747,5 +3747,75 @@
       "Lat": "10.67300",
       "Long": "-71.64801"
     }
+  },{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-63.86520, 10.97582]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Bravos de Margarita",
+      "Ballpark": "Stadium Nueva Esparta",
+      "Lat": "10.97582",
+      "Long": "-63.86520"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-64.63076, 10.20595]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Caribes de Anzoátegui",
+      "Ballpark": "Alfonso Chico Carrasquel",
+      "Lat": "10.20595",
+      "Long": "-64.63076"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-67.61131, 10.26054]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Tigres de Aragua",
+      "Ballpark": "Estadio José Pérez Colmenares",
+      "Lat": "10.26054",
+      "Long": "-67.61131"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-67.97983, 10.17528]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Navegantes del Magallanes",
+      "Ballpark": "Estadio José Bernardo Pérez de Valencia",
+      "Lat": "10.17528",
+      "Long": "-67.97983"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-69.35726, 10.06096]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Cardenales de Lara",
+      "Ballpark": "Estadio Antonio Herrera Gutiérrez",
+      "Lat": "10.06096",
+      "Long": "-69.35726"
+    }
   }]
 }

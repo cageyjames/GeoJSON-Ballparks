@@ -29,11 +29,11 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 20. Coastal Plain League (Summer/Collegiate)
 21. Grapefruit League (Spring Training)
 22. Honkbal Hoofdklasse (Netherlands)
+23. Venezuelan Professional Baseball League (Venezuela)
 
 **Ongoing**
 
 1. Pac-12 College Ballparks  
-2. Venezuelan Professional Baseball League (Venezuela)
 
 **To-Do**
 
