@@ -3641,5 +3641,19 @@
       "Lat": "10.97582",
       "Long": "-63.86520"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-64.63076, 10.20595]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Caribes de Anzoátegui",
+      "Ballpark": "Alfonso Chico Carrasquel",
+      "Lat": "10.20595",
+      "Long": "-64.63076"
+    }
   }]
 }
