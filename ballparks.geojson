@@ -2651,15 +2651,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [128.586572, 35.880975]
+      "coordinates": [128.680833, 35.840833]
     },
     "properties": {
       "Class": "Other",
       "League": "Korea Baseball Championship",
       "Team": "Samsung Lions",
       "Ballpark": "Daegu Samsung Lions Park",
-      "Lat": "35.880975",
-      "Long": "128.586572"
+      "Lat": "35.840833",
+      "Long": "128.680833"
     }
   }, {
     "type": "Feature",
