@@ -3613,5 +3613,19 @@
       "Lat": "10.48977",
       "Long": "-66.88368"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.64801, 10.67300]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Águilas del Zulia",
+      "Ballpark": "Estadio Luis Aparicio 'El Grande'",
+      "Lat": "10.67300",
+      "Long": "-71.64801"
+    }
   }]
 }
