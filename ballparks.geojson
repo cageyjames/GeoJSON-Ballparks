@@ -3817,5 +3817,96 @@
       "Lat": "10.06096",
       "Long": "-69.35726"
     }
-  }]
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [116.269389, 39.864953]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "China Baseball League",
+      "Team": "Beijing Tigers",
+      "Ballpark": "Fengtai Softball Field",
+      "Lat": "39.864953",
+      "Long": "116.269389"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [104.031269, 30.693659]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "China Baseball League",
+      "Team": "Sichuan Dragons",
+      "Ballpark": "Jinnui Stadium",
+      "Lat": "30.693659",
+      "Long": "104.031269"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [117.186893, 39.074261]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "China Baseball League",
+      "Team": "Tianjin Lions",
+      "Ballpark": "Tian Ti Dodger Stadium",
+      "Lat": "39.074261",
+      "Long": "117.186893"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.317168, 23.142167]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "China Baseball League",
+      "Team": "Guangdong Leopards",
+      "Ballpark": "Tianhe Stadium",
+      "Lat": "23.142167",
+      "Long": "113.317168"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [120.380672, 31.532140]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "China Baseball League",
+      "Team": "Jiangsu Pegasus",
+      "Ballpark": "Jiangsu Wuxi Baseball Stadium",
+      "Lat": "31.532140",
+      "Long": "120.380672"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [121.483734, 31.129747]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "China Baseball League",
+      "Team": "Shanghai Golden Eagles",
+      "Ballpark": "Shanghai Sports Palace",
+      "Lat": "31.129747",
+      "Long": "121.483734"
+    }
+  }
+]
 }
