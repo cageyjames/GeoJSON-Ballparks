@@ -2643,9 +2643,9 @@
       "Class": "Other",
       "League": "Korea Baseball Championship",
       "Team": "Nexen Heroes",
-      "Ballpark": "Mokdong Baseball Stadium",
-      "Lat": "37.530706",
-      "Long": "126.880978"
+      "Ballpark": "Gocheok Sky Dome",
+      "Lat": "37.498400",
+      "Long": "126.867189"
     }
   }, {
     "type": "Feature",
@@ -2657,9 +2657,9 @@
       "Class": "Other",
       "League": "Korea Baseball Championship",
       "Team": "Samsung Lions",
-      "Ballpark": "Daegu Baseball Stadium",
-      "Lat": "35.880975",
-      "Long": "128.586572"
+      "Ballpark": "Daegu Samsung Lions Park",
+      "Lat": "35.840833",
+      "Long": "128.680833"
     }
   }, {
     "type": "Feature",
