@@ -3600,4 +3600,132 @@
       "Long": "-80.0624"
     }
   }]
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.630765, 52.408196]
+  },
+  "properties": {
+    "Class": "Other",
+    "League": "Honkbal Hoofdklasse",
+    "Team": "DSS Haarlem",
+    "Ballpark": "Pim Mulier Stadium",
+    "Lat": "52.408196",
+    "Long": "4.630765"
+  }
+}]
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.630765, 52.408196]
+  },
+  "properties": {
+    "Class": "Other",
+    "League": "Honkbal Hoofdklasse",
+    "Team": "Corendon Kinheim",
+    "Ballpark": "Pim Mulier Stadium",
+    "Lat": "52.408196",
+    "Long": "4.630765"
+  }
+}]
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.439090, 51.924035]
+  },
+  "properties": {
+    "Class": "Other",
+    "League": "Honkbal Hoofdklasse",
+    "Team": "Curaçao Neptunus",
+    "Ballpark": "Neptunus Familiestadion",
+    "Lat": "51.924035",
+    "Long": "4.439090"
+  }
+}]
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.799491, 52.367093]
+  },
+  "properties": {
+    "Class": "Other",
+    "League": "Honkbal Hoofdklasse",
+    "Team": "L&D Amsterdam Pirates",
+    "Ballpark": "Pirates Playground, Sportpark Ookmee",
+    "Lat": "52.367093",
+    "Long": "4.799491"
+  }
+}]
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.688890, 51.799604]
+  },
+  "properties": {
+    "Class": "Other",
+    "League": "Honkbal Hoofdklasse",
+    "Team": "Mampaey The Hawks",
+    "Ballpark": "Sportpark Krommedijk",
+    "Lat": "51.799604",
+    "Long": "4.688890"
+  }
+}]
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.167921, 52.261233]
+  },
+  "properties": {
+    "Class": "Other",
+    "League": "Honkbal Hoofdklasse",
+    "Team": "Mr Cocker HCAW",
+    "Ballpark": "Baseball Valley",
+    "Lat": "52.261233",
+    "Long": "5.167921"
+  }
+}]
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.035137, 52.094415]
+  },
+  "properties": {
+    "Class": "Other",
+    "League": "Honkbal Hoofdklasse",
+    "Team": "UVV Utrecht",
+    "Ballpark": "UVV Stadium",
+    "Lat": "52.094415",
+    "Long": "5.035137"
+  }
+}]
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.629775, 52.298438]
+  },
+  "properties": {
+    "Class": "Other",
+    "League": "Honkbal Hoofdklasse",
+    "Team": "Vaessen Pioniers",
+    "Ballpark": "Sportpark Pioniers",
+    "Lat": "52.298438",
+    "Long": "4.629775"
+  }
+}]
 }
