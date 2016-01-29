@@ -3596,8 +3596,22 @@
       "League": "Coastal Plain League",
       "Team": "Thomasville HiToms",
       "Ballpark": "Finch Field",
-      "Lat": "35.9128",
+      "Lat": "10.48977",
       "Long": "-80.0624"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-66.88368, 10.48977]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Leones del Caracas and Tiburones de La Guaira",
+      "Ballpark": "Estadio Universitario de Caracas UCV",
+      "Lat": "10.48977",
+      "Long": "-66.88368"
     }
   }]
 }
