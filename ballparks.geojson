@@ -3683,5 +3683,19 @@
       "Lat": "10.17528",
       "Long": "-67.97983"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-69.35726, 10.06096]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Cardenales de Lara",
+      "Ballpark": "Estadio Antonio Herrera Gutiérrez",
+      "Lat": "10.06096",
+      "Long": "-69.35726"
+    }
   }]
 }
