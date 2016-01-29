@@ -3655,5 +3655,19 @@
       "Lat": "10.20595",
       "Long": "-64.63076"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-67.61131, 10.26054]
+    },
+    "properties": {
+      "Class": "Majors",
+      "League": "Venezuelan Professional Baseball League",
+      "Team": "Tigres de Aragua",
+      "Ballpark": "Estadio José Pérez Colmenares",
+      "Lat": "10.26054",
+      "Long": "-67.61131"
+    }
   }]
 }
