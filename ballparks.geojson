@@ -4482,15 +4482,45 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-75.409067, 9.278232]
+      "coordinates": [-75.409067, 3.422060]
     },
     "properties": {
       "Class": "Other",
       "League": "Colombian Professional Baseball League",
-      "Team": "Toros de Sincelejo",
-      "Ballpark": "20 de enero",
-      "Lat": "9.278232",
+      "Team": "Toros de Cali",
+      "Ballpark": "Miguel Chávez del Valle",
+      "Lat": "3.422060",
       "Long": "-75.409067"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.59, 6.259444]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Colombian Professional Baseball League",
+      "Team": "Potros de Medellín",
+      "Ballpark": "Luis Alberto Villegas",
+      "Lat": "6.259444",
+      "Long": "-75.59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.0975, 4.662778]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Colombian Professional Baseball League",
+      "Team": " Águilas de Bogotá",
+      "Ballpark": "Estadio Distrital Hermes Barros Cabas",
+      "Lat": "4.662778",
+      "Long": "-74.0975"
     }
   }
 ]
