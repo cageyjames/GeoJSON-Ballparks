@@ -4222,6 +4222,126 @@
       "Lat": "18.416667",
       "Long": "-66.073056"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-107.390803, 24.798994]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Mexican Pacific League",
+      "Team": "Tomateros de Culiacán",
+      "Ballpark": "Estadio BBVA Bancomer",
+      "Lat": "24.798994",
+      "Long": "-107.390803"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-103.381503, 20.727471]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Mexican Pacific League",
+      "Team": "Charros de Jalisco",
+      "Ballpark": "Estadio Telmex de Atletismo",
+      "Lat": "20.727471",
+      "Long": "-103.381503"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-106.432342, 23.235872]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Mexican Pacific League",
+      "Team": "Venados de Mazatlán",
+      "Ballpark": "Estadio Teodoro Mariscal",
+      "Lat": "23.235872,",
+      "Long": "-106.432342"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-115.444336, 32.655736]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Mexican Pacific League",
+      "Team": "Águilas de Mexicali",
+      "Ballpark": "Estadio B-Air",
+      "Lat": "32.655736,",
+      "Long": "-115.444336"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-109.954472, 27.492747]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Mexican Pacific League",
+      "Team": "Yaquis de Obregón",
+      "Ballpark": "Estadio Tomás Oroz Gaytán",
+      "Lat": "27.492747",
+      "Long": "-109.954472"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-109.4513, 27.062778]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Mexican Pacific League",
+      "Team": "Mayos de Navojoa",
+      "Ballpark": "Estadio Manuel \"Ciclón\" Echeverría",
+      "Lat": "27.062778",
+      "Long": "-109.4513"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.051514, 29.063569]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Mexican Pacific League",
+      "Team": "Naranjeros de Hermosillo",
+      "Ballpark": "Estadio Sonora",
+      "Lat": "29.063569",
+      "Long": "-111.051514"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-108.974661, 25.803039]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Mexican Pacific League",
+      "Team": "Cañeros de Los Mochis",
+      "Ballpark": "Estadio Emilio Ibarra Almada",
+      "Lat": "25.803039",
+      "Long": "-108.974661"
+    }
   }
 ]
 }
