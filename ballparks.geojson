@@ -4342,6 +4342,96 @@
       "Lat": "25.803039",
       "Long": "-108.974661"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [120.992778, 14.561667]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Baseball Philippines",
+      "Team": "Alabang Tigers",
+      "Ballpark": "Rizal Memorial Sports Complex",
+      "Lat": "14.561667",
+      "Long": "120.992778"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [120.992778, 14.561667]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Baseball Philippines",
+      "Team": "Manila Sharks",
+      "Ballpark": "Rizal Memorial Sports Complex",
+      "Lat": "14.561667",
+      "Long": "120.992778"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [120.992778, 14.561667]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Baseball Philippines",
+      "Team": "Forward Taguig Patriots",
+      "Ballpark": "Rizal Memorial Sports Complex",
+      "Lat": "14.561667",
+      "Long": "120.992778"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [121.067384, 14.527392]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Baseball Philippines",
+      "Team": "Dumaguete Uni-bikers",
+      "Ballpark": "Felino Marcelino Baseball Stadium",
+      "Lat": "14.527392",
+      "Long": "121.067384"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [121.067384, 14.527392]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Baseball Philippines",
+      "Team": "Batangas Bulls",
+      "Ballpark": "Felino Marcelino Baseball Stadium",
+      "Lat": "14.527392",
+      "Long": "121.067384"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [120.992778, 14.561667]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Baseball Philippines",
+      "Team": "Cebu Dolphins",
+      "Ballpark": "Rizal Memorial Sports Complex",
+      "Lat": "14.561667",
+      "Long": "120.992778"
+    }
   }
 ]
 }

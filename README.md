@@ -35,6 +35,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 26. [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic)
 27. [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico)
 28. [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico)
+29. [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) (Philippines)
 
 **Ongoing**
 
@@ -46,7 +47,6 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 * [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
 * [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua)
 * [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia)
-* [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) (Philippines)
 * [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
 * [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
