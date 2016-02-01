@@ -32,6 +32,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 23. [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela)
 24. [China Baseball League](https://en.wikipedia.org/wiki/China_Baseball_League) (China)
 25. [Pecos League](http://pecosleague.com/) (Independent)
+26. [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic)
 
 **Ongoing**
 
@@ -39,26 +40,25 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 
 **To-Do**
 
-1. [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic)
-2. [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico)
-3. [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico)
-4. [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
-5. [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua)
-6. [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia)
-7. [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) (Philippines)
-8. [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
-9. [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
-10. [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
-11. [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
-12. [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
-13. [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
-14. [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
-15. [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
-16. [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
-17. [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
-18. [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
-19. [Frontier League](http://www.frontierleague.com/) (Independent)
-20. [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)
+* [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico)
+* [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico)
+* [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
+* [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua)
+* [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia)
+* [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) (Philippines)
+* [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
+* [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
+* [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
+* [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
+* [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
+* [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
+* [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
+* [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
+* [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
+* [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
+* [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
+* [Frontier League](http://www.frontierleague.com/) (Independent)
+* [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)
 
 **Suggestions**
 

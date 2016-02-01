@@ -4072,6 +4072,96 @@
       "Lat": "32.929164",
       "Long": "-105.948705"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.708889, 19.466944]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Dominican Professional Baseball League",
+      "Team": "Águilas Cibaeñas",
+      "Ballpark": "Estadio Cibao",
+      "Lat": "19.466944",
+      "Long": "-70.708889"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-69.303333, 18.464167]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Dominican Professional Baseball League",
+      "Team": "Estrellas Orientales",
+      "Ballpark": "Estadio Tetelo Vargas",
+      "Lat": "18.464167",
+      "Long": "-69.303333"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.244652, 19.282427]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Dominican Professional Baseball League",
+      "Team": "Gigantes del Cibao",
+      "Ballpark": "Estadio Julian Javier",
+      "Lat": "19.282427",
+      "Long": "-70.244652"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-69.926419, 18.488161]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Dominican Professional Baseball League",
+      "Team": "Leones del Escogido",
+      "Ballpark": "Estadio Quisqueya",
+      "Lat": "18.488161",
+      "Long": "-69.926419"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-69.926419, 18.488161]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Dominican Professional Baseball League",
+      "Team": "Tigres del Licey",
+      "Ballpark": "Estadio Quisqueya",
+      "Lat": "18.488161",
+      "Long": "-69.926419"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-68.988858, 18.434237]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Dominican Professional Baseball League",
+      "Team": "Toros del Este",
+      "Ballpark": "Estadio Quisqueya",
+      "Lat": "18.434237",
+      "Long": "-68.988858"
+    }
   }
 ]
 }
