@@ -3599,126 +3599,118 @@
       "Lat": "35.9128",
       "Long": "-80.0624"
     }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [4.630765, 52.408196]
-  },
-  "properties": {
-    "Class": "Other",
-    "League": "Honkbal Hoofdklasse",
-    "Team": "DSS Haarlem",
-    "Ballpark": "Pim Mulier Stadium",
-    "Lat": "52.408196",
-    "Long": "4.630765"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [4.630765, 52.408196]
-  },
-  "properties": {
-    "Class": "Other",
-    "League": "Honkbal Hoofdklasse",
-    "Team": "Corendon Kinheim",
-    "Ballpark": "Pim Mulier Stadium",
-    "Lat": "52.408196",
-    "Long": "4.630765"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [4.439090, 51.924035]
-  },
-  "properties": {
-    "Class": "Other",
-    "League": "Honkbal Hoofdklasse",
-    "Team": "Curaçao Neptunus",
-    "Ballpark": "Neptunus Familiestadion",
-    "Lat": "51.924035",
-    "Long": "4.439090"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [4.799491, 52.367093]
-  },
-  "properties": {
-    "Class": "Other",
-    "League": "Honkbal Hoofdklasse",
-    "Team": "L&D Amsterdam Pirates",
-    "Ballpark": "Pirates Playground, Sportpark Ookmee",
-    "Lat": "52.367093",
-    "Long": "4.799491"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [4.688890, 51.799604]
-  },
-  "properties": {
-    "Class": "Other",
-    "League": "Honkbal Hoofdklasse",
-    "Team": "Mampaey The Hawks",
-    "Ballpark": "Sportpark Krommedijk",
-    "Lat": "51.799604",
-    "Long": "4.688890"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [5.167921, 52.261233]
-  },
-  "properties": {
-    "Class": "Other",
-    "League": "Honkbal Hoofdklasse",
-    "Team": "Mr Cocker HCAW",
-    "Ballpark": "Baseball Valley",
-    "Lat": "52.261233",
-    "Long": "5.167921"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [5.035137, 52.094415]
-  },
-  "properties": {
-    "Class": "Other",
-    "League": "Honkbal Hoofdklasse",
-    "Team": "UVV Utrecht",
-    "Ballpark": "UVV Stadium",
-    "Lat": "52.094415",
-    "Long": "5.035137"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [4.629775, 52.298438]
-  },
-  "properties": {
-    "Class": "Other",
-    "League": "Honkbal Hoofdklasse",
-    "Team": "Vaessen Pioniers",
-    "Ballpark": "Sportpark Pioniers",
-    "Lat": "52.298438",
-    "Long": "4.629775"
-  }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [4.630765, 52.408196]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Honkbal Hoofdklasse",
+      "Team": "DSS Haarlem",
+      "Ballpark": "Pim Mulier Stadium",
+      "Lat": "52.408196",
+      "Long": "4.630765"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [4.630765, 52.408196]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Honkbal Hoofdklasse",
+      "Team": "Corendon Kinheim",
+      "Ballpark": "Pim Mulier Stadium",
+      "Lat": "52.408196",
+      "Long": "4.630765"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [4.439090, 51.924035]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Honkbal Hoofdklasse",
+      "Team": "Curaçao Neptunus",
+      "Ballpark": "Neptunus Familiestadion",
+      "Lat": "51.924035",
+      "Long": "4.439090"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [4.799491, 52.367093]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Honkbal Hoofdklasse",
+      "Team": "L&D Amsterdam Pirates",
+      "Ballpark": "Pirates Playground, Sportpark Ookmee",
+      "Lat": "52.367093",
+      "Long": "4.799491"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [4.688890, 51.799604]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Honkbal Hoofdklasse",
+      "Team": "Mampaey The Hawks",
+      "Ballpark": "Sportpark Krommedijk",
+      "Lat": "51.799604",
+      "Long": "4.688890"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.167921, 52.261233]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Honkbal Hoofdklasse",
+      "Team": "Mr Cocker HCAW",
+      "Ballpark": "Baseball Valley",
+      "Lat": "52.261233",
+      "Long": "5.167921"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.035137, 52.094415]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Honkbal Hoofdklasse",
+      "Team": "UVV Utrecht",
+      "Ballpark": "UVV Stadium",
+      "Lat": "52.094415",
+      "Long": "5.035137"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [4.629775, 52.298438]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Honkbal Hoofdklasse",
+      "Team": "Vaessen Pioniers",
+      "Ballpark": "Sportpark Pioniers",
+      "Lat": "52.298438",
+      "Long": "4.629775"
+    }
   }, {
     "type": "Feature",
     "geometry": {
@@ -3747,7 +3739,7 @@
       "Lat": "10.67300",
       "Long": "-71.64801"
     }
-  },{
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3817,8 +3809,7 @@
       "Lat": "10.06096",
       "Long": "-69.35726"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3832,8 +3823,7 @@
       "Lat": "39.864953",
       "Long": "116.269389"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3847,8 +3837,7 @@
       "Lat": "30.693659",
       "Long": "104.031269"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3862,8 +3851,7 @@
       "Lat": "39.074261",
       "Long": "117.186893"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3877,8 +3865,7 @@
       "Lat": "23.142167",
       "Long": "113.317168"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3892,8 +3879,7 @@
       "Lat": "31.532140",
       "Long": "120.380672"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3907,8 +3893,7 @@
       "Lat": "31.129747",
       "Long": "121.483734"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3922,8 +3907,7 @@
       "Lat": "37.960334",
       "Long": "-100.866827"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3937,8 +3921,7 @@
       "Lat": "38.369645",
       "Long": "-98.798990"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3952,8 +3935,7 @@
       "Lat": "35.695790",
       "Long": "-105.934922"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3967,8 +3949,7 @@
       "Lat": "39.012596",
       "Long": "-95.615635"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3982,8 +3963,7 @@
       "Lat": "37.167176",
       "Long": "-104.517213"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -3997,8 +3977,7 @@
       "Lat": "32.176675",
       "Long": "-110.933367"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4012,8 +3991,7 @@
       "Lat": "31.410556",
       "Long": "-109.879722"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4027,8 +4005,7 @@
       "Lat": "30.373",
       "Long": "-103.6645"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4042,8 +4019,7 @@
       "Lat": "32.329624",
       "Long": "-106.775985"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4057,8 +4033,7 @@
       "Lat": "33.364085",
       "Long": "-104.509432"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4072,8 +4047,7 @@
       "Lat": "32.929164",
       "Long": "-105.948705"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4087,8 +4061,7 @@
       "Lat": "19.466944",
       "Long": "-70.708889"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4102,8 +4075,7 @@
       "Lat": "18.464167",
       "Long": "-69.303333"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4117,8 +4089,7 @@
       "Lat": "19.282427",
       "Long": "-70.244652"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4132,8 +4103,7 @@
       "Lat": "18.488161",
       "Long": "-69.926419"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4147,8 +4117,7 @@
       "Lat": "18.488161",
       "Long": "-69.926419"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4162,8 +4131,7 @@
       "Lat": "18.434237",
       "Long": "-68.988858"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4177,8 +4145,7 @@
       "Lat": "18.226223",
       "Long": "-66.034184"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4192,8 +4159,7 @@
       "Lat": "18.376667",
       "Long": "-65.949167"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4207,8 +4173,7 @@
       "Lat": "18.192939",
       "Long": "-67.154989"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4222,8 +4187,7 @@
       "Lat": "18.416667",
       "Long": "-66.073056"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4237,8 +4201,7 @@
       "Lat": "24.798994",
       "Long": "-107.390803"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4252,8 +4215,7 @@
       "Lat": "20.727471",
       "Long": "-103.381503"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4267,8 +4229,7 @@
       "Lat": "23.235872,",
       "Long": "-106.432342"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4282,8 +4243,7 @@
       "Lat": "32.655736,",
       "Long": "-115.444336"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4297,8 +4257,7 @@
       "Lat": "27.492747",
       "Long": "-109.954472"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4312,8 +4271,7 @@
       "Lat": "27.062778",
       "Long": "-109.4513"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4327,8 +4285,7 @@
       "Lat": "29.063569",
       "Long": "-111.051514"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4342,8 +4299,7 @@
       "Lat": "25.803039",
       "Long": "-108.974661"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4357,8 +4313,7 @@
       "Lat": "14.561667",
       "Long": "120.992778"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4372,8 +4327,7 @@
       "Lat": "14.561667",
       "Long": "120.992778"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4387,8 +4341,7 @@
       "Lat": "14.561667",
       "Long": "120.992778"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4402,8 +4355,7 @@
       "Lat": "14.527392",
       "Long": "121.067384"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4417,8 +4369,7 @@
       "Lat": "14.527392",
       "Long": "121.067384"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4432,8 +4383,7 @@
       "Lat": "14.561667",
       "Long": "120.992778"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4447,8 +4397,7 @@
       "Lat": "10.995759",
       "Long": "-74.784055"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4462,8 +4411,7 @@
       "Lat": "10.404187",
       "Long": "-75.495334"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4477,8 +4425,7 @@
       "Lat": "8.765967",
       "Long": "-75.867827"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4492,8 +4439,7 @@
       "Lat": "3.422060",
       "Long": "-75.409067"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4507,8 +4453,7 @@
       "Lat": "6.259444",
       "Long": "-75.59"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4522,6 +4467,5 @@
       "Lat": "4.662778",
       "Long": "-74.0975"
     }
-  }
-]
+  }]
 }
