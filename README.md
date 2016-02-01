@@ -31,6 +31,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 22. [Honkbal Hoofdklasse](http://www.honkbalsite.comve) (Netherlands)
 23. [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela)
 24. [China Baseball League](https://en.wikipedia.org/wiki/China_Baseball_League) (China)
+25. [Pecos League](http://pecosleague.com/) (Independent)
 
 **Ongoing**
 
@@ -58,7 +59,6 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 18. [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
 19. [Frontier League](http://www.frontierleague.com/) (Independent)
 20. [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)
-21. [Pecos League](http://pecosleague.com/) (Independent)
 
 **Suggestions**
 

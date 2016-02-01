@@ -3907,6 +3907,171 @@
       "Lat": "31.129747",
       "Long": "121.483734"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-100.866827, 37.960334]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Garden City Wind",
+      "Ballpark": "Clint Lightner Field",
+      "Lat": "37.960334",
+      "Long": "-100.866827"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-98.798990, 38.369645]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Great Bend Boom",
+      "Ballpark": "Al Burns Memorial Field",
+      "Lat": "38.369645",
+      "Long": "-98.798990"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-105.934922, 35.695790]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Santa Fe Fuego",
+      "Ballpark": "Fort Marcy Park",
+      "Lat": "35.695790",
+      "Long": "-105.934922"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-95.615635, 39.012596]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Topeka Train Robbers",
+      "Ballpark": "Lake Shawnee Park",
+      "Lat": "39.012596",
+      "Long": "-95.615635"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-104.517213, 37.167176]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Trinidad Triggers",
+      "Ballpark": "Trinidad Central Park",
+      "Lat": "37.167176",
+      "Long": "-104.517213"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-110.933367, 32.176675]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Tucson Saguaros",
+      "Ballpark": "Kino Veterans Memorial Stadium",
+      "Lat": "32.176675",
+      "Long": "-110.933367"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-109.879722, 31.410556]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Tucson Saguaros",
+      "Ballpark": "Warren Ballpark",
+      "Lat": "31.410556",
+      "Long": "-109.879722"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-103.6645, 30.373]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Alpine Cowboys",
+      "Ballpark": "Kokernot Field",
+      "Lat": "30.373",
+      "Long": "-103.6645"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-106.775985, 32.329624]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Las Cruces Vaqueros",
+      "Ballpark": "Apodoca Park",
+      "Lat": "32.329624",
+      "Long": "-106.775985"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-104.509432, 33.364085]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "Roswell Invaders",
+      "Ballpark": "Joe Bauman Stadium",
+      "Lat": "33.364085",
+      "Long": "-104.509432"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-105.948705, 32.929164]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pecos League",
+      "Team": "White Sands PupFish",
+      "Ballpark": "Griggs Sports Complex",
+      "Lat": "32.929164",
+      "Long": "-105.948705"
+    }
   }
 ]
 }
