@@ -4462,10 +4462,71 @@
     "properties": {
       "Class": "Other",
       "League": "Colombian Professional Baseball League",
-      "Team": " Águilas de Bogotá",
+      "Team": "Águilas de Bogotá",
       "Ballpark": "Estadio Distrital Hermes Barros Cabas",
       "Lat": "4.662778",
       "Long": "-74.0975"
     }
-  }]
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.283036, 12.149603]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Nicaraguan Professional Baseball League",
+      "Team": "Indios del Bóer",
+      "Ballpark": "Dennis Martínez National Stadium",
+      "Lat": "12.149603",
+      "Long": "-86.283036"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.1408, 12.6378]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Nicaraguan Professional Baseball League",
+      "Team": "Tigres del Chinandega",
+      "Ballpark": "Estadio Efraín Tijerino",
+      "Lat": "12.6378",
+      "Long": "-87.1408"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-85.821332, 11.440290]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Nicaraguan Professional Baseball League",
+      "Team": "Gigantes de Rivas",
+      "Ballpark": "Estadio Yamil Rios Ugarte",
+      "Lat": "11.440290",
+      "Long": "-85.821332"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-85.963968, 11.937717]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Nicaraguan Professional Baseball League",
+      "Team": "Orientales de Granada",
+      "Ballpark": "Estadio Roque Tadeo Zavala",
+      "Lat": "11.937717",
+      "Long": "-85.963968"
+    }
+  }
+]
 }
