@@ -4432,6 +4432,66 @@
       "Lat": "14.561667",
       "Long": "120.992778"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.784055, 10.995759]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Colombian Professional Baseball League",
+      "Team": "Caimanes de Barranquilla",
+      "Ballpark": "Estadio Tomás Arrieta",
+      "Lat": "10.995759",
+      "Long": "-74.784055"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.495334, 10.404187]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Colombian Professional Baseball League",
+      "Team": "Tigres de Cartagena",
+      "Ballpark": "Estadio Once de Noviembre",
+      "Lat": "10.404187",
+      "Long": "-75.495334"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.867827, 8.765967]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Colombian Professional Baseball League",
+      "Team": "Leones de Montería",
+      "Ballpark": "Estadio 18 de Junio",
+      "Lat": "8.765967",
+      "Long": "-75.867827"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.409067, 9.278232]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Colombian Professional Baseball League",
+      "Team": "Toros de Sincelejo",
+      "Ballpark": "20 de enero",
+      "Lat": "9.278232",
+      "Long": "-75.409067"
+    }
   }
 ]
 }
