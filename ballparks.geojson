@@ -4162,6 +4162,66 @@
       "Lat": "18.434237",
       "Long": "-68.988858"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-66.034184, 18.226223]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Liga de Béisbol Profesional Roberto Clemente",
+      "Team": "Criollos de Caguas",
+      "Ballpark": "Parque Yldefonso Solá Morales",
+      "Lat": "18.226223",
+      "Long": "-66.034184"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-65.949167, 18.376667]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Liga de Béisbol Profesional Roberto Clemente",
+      "Team": "Gigantes de Carolina",
+      "Ballpark": "Roberto Clemente Stadium",
+      "Lat": "18.376667",
+      "Long": "-65.949167"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-67.154989, 18.192939]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Liga de Béisbol Profesional Roberto Clemente",
+      "Team": "Indios de Mayagüez",
+      "Ballpark": "Isidoro García Stadium",
+      "Lat": "18.192939",
+      "Long": "-67.154989"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-66.073056, 18.416667]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Liga de Béisbol Profesional Roberto Clemente",
+      "Team": "Cangrejeros de Santurce",
+      "Ballpark": "Hiram Bithorn Stadium",
+      "Lat": "18.416667",
+      "Long": "-66.073056"
+    }
   }
 ]
 }
