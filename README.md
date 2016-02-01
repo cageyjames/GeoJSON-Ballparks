@@ -44,7 +44,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 
 **To-Do**
 
-* [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series)
+* [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba)
 * [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
 * [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua)
 * [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
