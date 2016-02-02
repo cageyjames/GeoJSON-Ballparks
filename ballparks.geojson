@@ -5052,6 +5052,66 @@
       "Lat": "45.43735",
       "Long": "8.59555"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-121.889241, 38.022001]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pacific Association of Professional Baseball Clubs",
+      "Team": "Pittsburg Diamonds",
+      "Ballpark": "City Park Field #1",
+      "Lat": "38.022001",
+      "Long": "-121.889241"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.528109, 37.969030]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pacific Association of Professional Baseball Clubs",
+      "Team": "San Rafael Pacifics",
+      "Ballpark": "Albert Park",
+      "Lat": "37.969030",
+      "Long": "-122.528109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.457494, 38.297142]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pacific Association of Professional Baseball Clubs",
+      "Team": "Sonoma Stompers",
+      "Ballpark": "Arnold Field",
+      "Lat": "38.297142",
+      "Long": "-122.457494"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.244400, 38.096513]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Pacific Association of Professional Baseball Clubs",
+      "Team": "Vallejo Admirals",
+      "Ballpark": "Wilson Park",
+      "Lat": "38.096513",
+      "Long": "-122.244400"
+    }
   }
 ]
 }
