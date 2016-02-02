@@ -41,6 +41,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 32. [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
 33. [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba)
 34. [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
+35. [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
 
 **Ongoing**
 
@@ -48,7 +49,6 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 
 **To-Do**
 
-* [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
 * [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
