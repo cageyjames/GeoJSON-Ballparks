@@ -4872,6 +4872,66 @@
       "Lat": "20.034444",
       "Long": "-75.812222"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.975920, 8.106940]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Panamanian Professional Baseball League",
+      "Team": "Indios de Veraguas",
+      "Ballpark": "Estadio Omar Torrijos Herrera",
+      "Lat": "8.106940",
+      "Long": "-80.975920"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.357427, 8.491685]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Panamanian Professional Baseball League",
+      "Team": "Caballos de Coclé",
+      "Ballpark": "Estadio de Penonomé",
+      "Lat": "8.491685",
+      "Long": "-80.357427"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.5453, 9.041311]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Panamanian Professional Baseball League",
+      "Team": "Aguilas Metropolitanas de Panamá",
+      "Ballpark": "Estadio Nacional Rodney Carew",
+      "Lat": "9.041311",
+      "Long": "-79.5453"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.5453, 9.041311]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Panamanian Professional Baseball League",
+      "Team": "Nacionales de Panamá",
+      "Ballpark": "Estadio Nacional Rodney Carew",
+      "Lat": "9.041311",
+      "Long": "-79.5453"
+    }
   }
 ]
 }
