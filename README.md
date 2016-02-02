@@ -38,6 +38,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 29. [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) (Philippines)
 30. [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia)
 31. [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua)
+32. [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
 
 **Ongoing**
 
@@ -57,7 +58,6 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 * [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
 * [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
 * [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
-* [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
 * [Frontier League](http://www.frontierleague.com/) (Independent)
 * [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)
 
