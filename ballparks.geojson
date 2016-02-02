@@ -4617,6 +4617,261 @@
       "Lat": "46.347778",
       "Long": "-72.556389"
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.809722, 21.882222]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Isla de la Juventud",
+      "Ballpark": "Estadio Cristóbal Labra",
+      "Lat": "21.882222",
+      "Long": "-82.809722"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.588333, 23.038056]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Matanzas",
+      "Ballpark": "Victoria de Girón Stadium",
+      "Lat": "23.038056",
+      "Long": "-81.588333"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.692778, 22.423611]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Pinar del Río",
+      "Ballpark": "Estadio Capitán San Luis",
+      "Lat": "22.423611",
+      "Long": "-83.692778"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.376111, 23.118333]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Industriales",
+      "Ballpark": "Estadio Latinoamericano",
+      "Lat": "23.118333",
+      "Long": "-82.376111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.444167, 22.130833]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Cienfuegos",
+      "Ballpark": "Cinco de Septiembre Stadium",
+      "Lat": "22.130833",
+      "Long": "-80.444167"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.4275, 21.936111]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Sancti Spíritus",
+      "Ballpark": "José Antonio Huelga Stadium",
+      "Lat": "21.936111",
+      "Long": "-79.4275"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.674049, 22.924807]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Artemisa",
+      "Ballpark": "Estadio de Guanajay",
+      "Lat": "22.924807",
+      "Long": "-82.674049"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.144722, 22.963889]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Mayabeque",
+      "Ballpark": "Estadio Nelson Fernández",
+      "Lat": "22.963889",
+      "Long": "-82.144722"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.911389, 21.378611]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Camagüey",
+      "Ballpark": "Estadio Cándido González",
+      "Lat": "21.378611",
+      "Long": "-77.911389"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-78.770311, 21.847603]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Ciego de Ávila",
+      "Ballpark": "José Ramón Cepero Stadium",
+      "Lat": "21.847603",
+      "Long": "-78.770311"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.944722, 20.963611]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Las Tunas",
+      "Ballpark": "Julio Antonio Mella Stadium",
+      "Lat": "20.963611",
+      "Long": "-76.944722"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.955, 22.404167]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Naranjas de Villa Clara",
+      "Ballpark": "Estadio Augusto César Sandino",
+      "Lat": "22.404167",
+      "Long": "-79.955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.63, 20.3675]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Granma",
+      "Ballpark": "Mártires de Barbados Stadium",
+      "Lat": "20.3675",
+      "Long": "-76.63"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.197778, 20.136667]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Guantánamo Indios",
+      "Ballpark": "Nguyen Van Troi Stadium",
+      "Lat": "20.136667",
+      "Long": "-75.197778"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.244722, 20.8875]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Holguín",
+      "Ballpark": "Calixto García Íñiguez Stadium",
+      "Lat": "20.8875",
+      "Long": "-76.244722"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.812222, 20.034444]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Santiago de Cuba",
+      "Ballpark": "Estadio Guillermón Moncada",
+      "Lat": "20.034444",
+      "Long": "-75.812222"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.812222, 20.034444]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Cuban National Series",
+      "Team": "Santiago de Cuba",
+      "Ballpark": "Estadio Guillermón Moncada",
+      "Lat": "20.034444",
+      "Long": "-75.812222"
+    }
   }
 ]
 }
