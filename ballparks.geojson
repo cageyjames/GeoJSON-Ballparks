@@ -5377,5 +5377,117 @@
       "Lat": "36.562778",
       "Long": "-82.598611"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.203, 47.967]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Northwest League",
+      "Team": "Everett AquaSox",
+      "Ballpark": "Everett Memorial Stadium",
+      "Lat": "47.967",
+      "Long": "-122.203"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.345, 47.662]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Northwest League",
+      "Team": "Spokane Indians",
+      "Ballpark": "Avista Stadium",
+      "Lat": "47.662",
+      "Long": "-117.345"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-119.172, 46.267]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Northwest League",
+      "Team": "Tri-City Dust Devils",
+      "Ballpark": "Gesa Stadium",
+      "Lat": "46.267",
+      "Long": "-119.172"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.1063, 49.2431]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Northwest League",
+      "Team": "Vancouver Canadians",
+      "Ballpark": "Nat Bailey Stadium",
+      "Lat": "49.2431",
+      "Long": "-123.1063"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-116.279, 43.656]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Northwest League",
+      "Team": "Boise Hawks",
+      "Ballpark": "Memorial Stadium",
+      "Lat": "43.656",
+      "Long": "-116.279"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.066, 44.059]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Northwest League",
+      "Team": "Eugene Emeralds",
+      "Ballpark": "Memorial Stadium",
+      "Lat": "44.059",
+      "Long": "-123.066"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.9082, 45.5536]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Northwest League",
+      "Team": "Hillsboro Hops",
+      "Ballpark": "Ron Tonkin Field",
+      "Lat": "45.5536",
+      "Long": "-122.9082"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.994011, 45.015075]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Northwest League",
+      "Team": "Salem-Keizer Volcanoes",
+      "Ballpark": "Volcanoes Stadium",
+      "Lat": "45.015075",
+      "Long": "-122.994011"
+    }
   }]
 }

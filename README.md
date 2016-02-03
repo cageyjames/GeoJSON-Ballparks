@@ -45,6 +45,7 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 36. [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)]
 37. [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
 38. [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
+39. [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
 
 **Ongoing**
 
@@ -55,7 +56,6 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
 * [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
-* [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
 * [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
 * [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
 * [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
