@@ -5153,8 +5153,7 @@
       "Lat": "43.009174",
       "Long": "-78.178722"
     }
-  }
-  , {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5168,8 +5167,7 @@
       "Lat": "40.811944",
       "Long": "-77.850833"
     }
-  }
-  , {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5183,62 +5181,201 @@
       "Lat": "39.64473",
       "Long": "-79.995838"
     }
-  }  , {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.047067, 41.242347]
-      },
-      "properties": {
-        "Class": "Short Season Single-A",
-        "League": "New York-Penn League",
-        "Team": "Williamsport Crosscutters",
-        "Ballpark": "BB&T Ballpark at Historic Bowman Field",
-        "Lat": "41.242347",
-        "Long": "-77.047067"
-      }
-    }, {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-72.107072, 41.573875]
-        },
-        "properties": {
-          "Class": "Short Season Single-A",
-          "League": "New York-Penn League",
-          "Team": "Connecticut Tigers",
-          "Ballpark": "Senator Thomas J. Dodd Memorial Stadium",
-          "Lat": "41.573875",
-          "Long": "-72.107072"
-        }
-      }, {
-          "type": "Feature",
-          "geometry": {
-            "type": "Point",
-            "coordinates": [-71.318114, 42.65327]
-          },
-          "properties": {
-            "Class": "Short Season Single-A",
-            "League": "New York-Penn League",
-            "Team": "Lowell Spinners",
-            "Ballpark": "Edward A. LeLacheur Park",
-            "Lat": "42.65327",
-            "Long": "-71.318114"
-          }
-        }, {
-            "type": "Feature",
-            "geometry": {
-              "type": "Point",
-              "coordinates": [ -73.680464, 42.695329]
-            },
-            "properties": {
-              "Class": "Short Season Single-A",
-              "League": "New York-Penn League",
-              "Team": "Tri-City ValleyCats",
-              "Ballpark": "Joseph L. Bruno Stadium",
-              "Lat": "42.695329",
-              "Long": " -73.680464"
-            }
-          }
-  ]
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.047067, 41.242347]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Williamsport Crosscutters",
+      "Ballpark": "BB&T Ballpark at Historic Bowman Field",
+      "Lat": "41.242347",
+      "Long": "-77.047067"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.107072, 41.573875]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Connecticut Tigers",
+      "Ballpark": "Senator Thomas J. Dodd Memorial Stadium",
+      "Lat": "41.573875",
+      "Long": "-72.107072"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.318114, 42.65327]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Lowell Spinners",
+      "Ballpark": "Edward A. LeLacheur Park",
+      "Lat": "42.65327",
+      "Long": "-71.318114"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.680464, 42.695329]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Tri-City ValleyCats",
+      "Ballpark": "Joseph L. Bruno Stadium",
+      "Lat": "42.695329",
+      "Long": "-73.680464"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.246389, 37.249444]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Bluefield Blue Jays",
+      "Ballpark": "Bowen Field",
+      "Lat": "37.249444",
+      "Long": "-81.246389"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.408333, 36.088056]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Burlington Royals",
+      "Ballpark": "Burlington Athletic Stadium",
+      "Lat": "36.088056",
+      "Long": "-79.408333"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.3725, 36.575833]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Danville Braves",
+      "Ballpark": "American Legion Field",
+      "Lat": "36.575833",
+      "Long": "-79.3725"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-81.105278, 37.358333]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Princeton Rays",
+      "Ballpark": "H. P. Hunnicutt Field",
+      "Lat": "37.358333",
+      "Long": "-81.105278"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.775556, 37.039306]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Pulaski Yankees",
+      "Ballpark": "Calfee Park",
+      "Lat": "37.039306",
+      "Long": "-80.775556"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.199251, 36.601968]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Bristol Pirates",
+      "Ballpark": "DeVault Memorial Stadium",
+      "Lat": "36.601968",
+      "Long": "-82.199251"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.232183, 36.354899]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Elizabethton Twins",
+      "Ballpark": "Joe O'Brien Field",
+      "Lat": "36.354899",
+      "Long": "-82.232183"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.756115, 36.173149]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Greeneville Astros",
+      "Ballpark": "Pioneer Park",
+      "Lat": "36.173149",
+      "Long": "-82.756115"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.340833, 36.318611]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Johnson City Cardinals",
+      "Ballpark": "Howard Johnson Field",
+      "Lat": "36.318611",
+      "Long": "-82.340833"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.598611, 36.562778]
+    },
+    "properties": {
+      "Class": "Rookie Advanced",
+      "League": "Appalachian League",
+      "Team": "Kingsport Mets",
+      "Ballpark": "Hunter Wright Stadium",
+      "Lat": "36.562778",
+      "Long": "-82.598611"
+    }
+  }]
 }
