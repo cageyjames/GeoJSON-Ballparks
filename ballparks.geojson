@@ -5815,6 +5815,20 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
+      "coordinates": [-96.7492, 43.559721]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Sioux Falls Canaries",
+      "Ballpark": "Sioux Falls Stadium",
+      "Lat": "43.559721",
+      "Long": "-96.7492"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
       "coordinates": [-93.085099, 44.950172]
     },
     "properties": {
