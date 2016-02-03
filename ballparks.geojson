@@ -5797,5 +5797,173 @@
       "Lat": "40.276874",
       "Long": "-111.717234"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-96.804269, 46.898489]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Fargo-Moorhead RedHawks",
+      "Ballpark": "Newman Outdoor Field",
+      "Lat": "46.898489",
+      "Long": "-96.804269"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-93.085099, 44.950172]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "St. Paul Saints",
+      "Ballpark": "CHS Field",
+      "Lat": "44.950172",
+      "Long": "-93.085099"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.133314, 49.893831]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Winnipeg Goldeyes",
+      "Ballpark": "Shaw Park",
+      "Lat": "49.893831",
+      "Long": "-97.133314"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.332217, 41.602869]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Gary SouthShore RailCats",
+      "Ballpark": "U.S. Steel Yard",
+      "Lat": "41.602869",
+      "Long": "-87.332217"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-94.830833, 39.124444]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Kansas City T-Bones",
+      "Ballpark": "CommunityAmerica Ballpark",
+      "Lat": "39.124444",
+      "Long": "-94.830833"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-96.71391, 40.82279]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Lincoln Saltdogs",
+      "Ballpark": "Haymarket Park",
+      "Lat": "40.82279",
+      "Long": "-96.71391"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-96.364217, 42.443047]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Sioux City Explorers",
+      "Ballpark": "Lewis and Clark Park",
+      "Lat": "42.443047",
+      "Long": "-96.364217"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-99.45544, 27.55399]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Laredo Lemurs",
+      "Ballpark": "Uni-Trade Stadium",
+      "Lat": "27.55399",
+      "Long": "-99.45544"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-94.49883, 37.08883]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Joplin Blasters",
+      "Ballpark": "Joe Becker Stadium",
+      "Lat": "37.08883",
+      "Long": "-94.49883"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.345833, 37.681389]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Wichita Wingnuts",
+      "Ballpark": "Lawrence–Dumont Stadium",
+      "Lat": "37.681389",
+      "Long": "-97.345833"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-101.799649, 35.206334]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Amarillo Thunderheads",
+      "Ballpark": "Potter County Memorial Stadium",
+      "Lat": "35.206334",
+      "Long": "-101.799649"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-96.98635, 32.768219]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "American Association of Independent Professional Baseball",
+      "Team": "Grand Prairie AirHogs",
+      "Ballpark": "QuikTrip Park",
+      "Lat": "32.768219",
+      "Long": "-96.98635"
+    }
   }]
 }

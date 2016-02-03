@@ -47,6 +47,7 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 38. [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
 39. [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
 40. [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
+41. [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
 
 **Ongoing**
 
@@ -57,7 +58,6 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
 * [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
-* [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
 * [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
 * [Frontier League](http://www.frontierleague.com/) (Independent)
 * [Liga Paralela de Béisbol en Venezuela](https://en.wikipedia.org/wiki/Liga_Paralela_de_Béisbol_en_Venezuela) (Venezuela)
