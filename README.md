@@ -42,7 +42,7 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 33. [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba)
 34. [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
 35. [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
-36. [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)]
+36. [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)
 37. [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
 38. [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
 39. [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
