@@ -2867,7 +2867,7 @@
       "Class": "Other",
       "League": "Bundesliga Nord",
       "Team": "Dohren Wild Farmers",
-      "Ballpark": null,
+      "Ballpark": "Sportanlage SV Dohren",
       "Lat": "53.304959",
       "Long": "9.716093"
     }
@@ -2881,7 +2881,7 @@
       "Class": "Other",
       "League": "Bundesliga Nord",
       "Team": "Cologne Cardinals",
-      "Ballpark": null,
+      "Ballpark": "Circlewood Stadium",
       "Lat": "50.940152",
       "Long": "6.870436"
     }
@@ -2895,7 +2895,7 @@
       "Class": "Other",
       "League": "Bundesliga Nord",
       "Team": "Bonn Capitals",
-      "Ballpark": null,
+      "Ballpark": "Baseballstadion Rheinaue",
       "Lat": "50.708838",
       "Long": "7.152363"
     }
@@ -2965,7 +2965,7 @@
       "Class": "Other",
       "League": "Bundesliga Süd",
       "Team": "Tübingen Hawks",
-      "Ballpark": null,
+      "Ballpark": "Hawks Field",
       "Lat": "48.513326",
       "Long": "9.08212"
     }
@@ -3007,7 +3007,7 @@
       "Class": "Other",
       "League": "Bundesliga Süd",
       "Team": "Mainz Athletics",
-      "Ballpark": null,
+      "Ballpark": "Mainz Athletics Ballpark am",
       "Lat": "50.011395",
       "Long": "8.234345"
     }
@@ -3021,7 +3021,7 @@
       "Class": "Other",
       "League": "Bundesliga Süd",
       "Team": "Heideheim Heideköpfe",
-      "Ballpark": null,
+      "Ballpark": "New Heideköpfe Ballpark",
       "Lat": "48.666562",
       "Long": "10.137791"
     }
