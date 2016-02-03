@@ -3253,6 +3253,132 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
+      "coordinates": [-110.919167, 32.213333]
+    },
+    "properties": {
+      "Class": "College",
+      "League": "Pacific 12",
+      "Team": "Arizona Wildcats",
+      "Ballpark": "Hi Corbett Field",
+      "Lat": "32.213333",
+      "Long": "-110.919167"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.263333, 37.869444]
+    },
+    "properties": {
+      "Class": "College",
+      "League": "Pacific 12",
+      "Team": "California Golden Bears",
+      "Ballpark": "Evans Diamond",
+      "Lat": "37.869444",
+      "Long": "-122.263333"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.066, 44.059]
+    },
+    "properties": {
+      "Class": "College",
+      "League": "Pacific 12",
+      "Team": "Oregon Ducks",
+      "Ballpark": "PK Park",
+      "Lat": "44.059",
+      "Long": "-123.066"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.2776, 44.5632]
+    },
+    "properties": {
+      "Class": "College",
+      "League": "Pacific 12",
+      "Team": "Oregon State Beavers",
+      "Ballpark": "Goss Stadium at Coleman Field",
+      "Lat": "44.5632",
+      "Long": "-123.2776"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.459306, 34.059194]
+    },
+    "properties": {
+      "Class": "College",
+      "League": "Pacific 12",
+      "Team": "UCLA Bruins",
+      "Ballpark": "Jackie Robinson Stadium",
+      "Lat": "34.059194",
+      "Long": "-118.459306"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.2898, 34.0235]
+    },
+    "properties": {
+      "Class": "College",
+      "League": "Pacific 12",
+      "Team": "USC Trojans",
+      "Ballpark": "Dedeaux Field",
+      "Lat": "34.0235",
+      "Long": "-118.2898"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.892778, 40.740556]
+    },
+    "properties": {
+      "Class": "College",
+      "League": "Pacific 12",
+      "Team": "Utah Utes",
+      "Ballpark": "Smith's Ballpark",
+      "Lat": "40.740556",
+      "Long": "-111.892778"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.299, 47.655]
+    },
+    "properties": {
+      "Class": "College",
+      "League": "Pacific 12",
+      "Team": "Washington Huskies",
+      "Ballpark": "Husky Ballpark",
+      "Lat": "47.655",
+      "Long": "-122.299"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.155, 46.735]
+    },
+    "properties": {
+      "Class": "College",
+      "League": "Pacific 12",
+      "Team": "Washington State Cougars",
+      "Ballpark": "Bailey–Brayton Field",
+      "Lat": "46.735",
+      "Long": "-117.155"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
       "coordinates": [-70.5778, 41.7442]
     },
     "properties": {

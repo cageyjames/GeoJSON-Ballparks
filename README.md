@@ -48,10 +48,7 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 39. [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
 40. [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
 41. [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
-
-**Ongoing**
-
-1. Pac-12 College Ballparks  
+42. [Pac-12 Conference Baseball](http://pac-12.com/sport/baseball) (College)
 
 **To-Do**
 
