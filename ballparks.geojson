@@ -2371,20 +2371,6 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-73.1876349449158, 44.4818942947744]
-    },
-    "properties": {
-      "Class": "Short Season Single-A",
-      "League": "New York-Penn League",
-      "Team": "Vermont Lake Monsters",
-      "Ballpark": "Centennial Field",
-      "Lat": "44.4818942",
-      "Long": "-73.18763494"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
       "coordinates": [136.947314, 35.185981]
     },
     "properties": {
@@ -4467,8 +4453,7 @@
       "Lat": "4.662778",
       "Long": "-74.0975"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4482,8 +4467,7 @@
       "Lat": "12.149603",
       "Long": "-86.283036"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4497,8 +4481,7 @@
       "Lat": "12.6378",
       "Long": "-87.1408"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4512,8 +4495,7 @@
       "Lat": "11.440290",
       "Long": "-85.821332"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4527,8 +4509,7 @@
       "Lat": "11.937717",
       "Long": "-85.963968"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4542,8 +4523,7 @@
       "Lat": "40.868734",
       "Long": "-74.195247"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4557,8 +4537,7 @@
       "Lat": "45.420142",
       "Long": "-75.653569"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4572,8 +4551,7 @@
       "Lat": "46.818611",
       "Long": "-71.233497"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4587,8 +4565,7 @@
       "Lat": "41.17",
       "Long": "-74.037"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4602,8 +4579,7 @@
       "Lat": "41.125917",
       "Long": "-74.710122"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4617,8 +4593,7 @@
       "Lat": "46.347778",
       "Long": "-72.556389"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4632,8 +4607,7 @@
       "Lat": "21.882222",
       "Long": "-82.809722"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4647,8 +4621,7 @@
       "Lat": "23.038056",
       "Long": "-81.588333"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4662,8 +4635,7 @@
       "Lat": "22.423611",
       "Long": "-83.692778"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4677,8 +4649,7 @@
       "Lat": "23.118333",
       "Long": "-82.376111"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4692,8 +4663,7 @@
       "Lat": "22.130833",
       "Long": "-80.444167"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4707,8 +4677,7 @@
       "Lat": "21.936111",
       "Long": "-79.4275"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4722,8 +4691,7 @@
       "Lat": "22.924807",
       "Long": "-82.674049"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4737,8 +4705,7 @@
       "Lat": "22.963889",
       "Long": "-82.144722"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4752,8 +4719,7 @@
       "Lat": "21.378611",
       "Long": "-77.911389"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4767,8 +4733,7 @@
       "Lat": "21.847603",
       "Long": "-78.770311"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4782,8 +4747,7 @@
       "Lat": "20.963611",
       "Long": "-76.944722"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4797,8 +4761,7 @@
       "Lat": "22.404167",
       "Long": "-79.955"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4812,8 +4775,7 @@
       "Lat": "20.3675",
       "Long": "-76.63"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4827,8 +4789,7 @@
       "Lat": "20.136667",
       "Long": "-75.197778"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4842,8 +4803,7 @@
       "Lat": "20.8875",
       "Long": "-76.244722"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4857,8 +4817,7 @@
       "Lat": "20.034444",
       "Long": "-75.812222"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4872,8 +4831,7 @@
       "Lat": "20.034444",
       "Long": "-75.812222"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4887,8 +4845,7 @@
       "Lat": "8.106940",
       "Long": "-80.975920"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4902,8 +4859,7 @@
       "Lat": "8.491685",
       "Long": "-80.357427"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4917,8 +4873,7 @@
       "Lat": "9.041311",
       "Long": "-79.5453"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4932,8 +4887,7 @@
       "Lat": "9.041311",
       "Long": "-79.5453"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4947,8 +4901,7 @@
       "Lat": "41.468889",
       "Long": "12.680278"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4962,8 +4915,7 @@
       "Lat": "44.383204",
       "Long": "12.068811"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4977,8 +4929,7 @@
       "Lat": "43.97",
       "Long": "12.4739"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -4992,8 +4943,7 @@
       "Lat": "44.062218",
       "Long": "12.538792"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5007,8 +4957,7 @@
       "Lat": "44.502262",
       "Long": "11.282526"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5022,8 +4971,7 @@
       "Lat": "44.793194",
       "Long": "10.300361"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5037,8 +4985,7 @@
       "Lat": "42.753708",
       "Long": "11.104"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5052,8 +4999,7 @@
       "Lat": "45.43735",
       "Long": "8.59555"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5067,8 +5013,7 @@
       "Lat": "38.022001",
       "Long": "-121.889241"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5082,8 +5027,7 @@
       "Lat": "37.969030",
       "Long": "-122.528109"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5097,8 +5041,7 @@
       "Lat": "38.297142",
       "Long": "-122.457494"
     }
-  },
-  {
+  }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
@@ -5112,6 +5055,190 @@
       "Lat": "38.096513",
       "Long": "-122.244400"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.1876349449158, 44.4818942947744]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Vermont Lake Monsters",
+      "Ballpark": "Centennial Field",
+      "Lat": "44.4818942",
+      "Long": "-73.18763494"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.185985, 39.530873]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Aberdeen IronBirds",
+      "Ballpark": "Leidos Field at Ripken Stadium",
+      "Lat": "39.530873",
+      "Long": "-76.185985"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.984353, 40.574547]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Brooklyn Cyclones",
+      "Ballpark": "MCU Park",
+      "Lat": "40.574547",
+      "Long": "-73.984353"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.961067, 41.527911]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Hudson Valley Renegades",
+      "Ballpark": "Dutchess Stadium",
+      "Lat": "41.527911",
+      "Long": "-73.961067"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.076428, 40.645575]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Staten Island Yankees",
+      "Ballpark": "Richmond County Bank Ballpark",
+      "Lat": "40.645575",
+      "Long": "-74.076428"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.585232, 42.9416]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Auburn Doubledays",
+      "Ballpark": "Falcon Park",
+      "Lat": "42.9416",
+      "Long": "-76.585232"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-78.178722, 43.009174]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "Batavia Muckdogs",
+      "Ballpark": "Dwyer Stadium",
+      "Lat": "43.009174",
+      "Long": "-78.178722"
+    }
   }
-]
+  , {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.850833, 40.811944]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "State College Spikes",
+      "Ballpark": "Medlar Field at Lubrano Park",
+      "Lat": "40.811944",
+      "Long": "-77.850833"
+    }
+  }
+  , {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-79.995838, 39.64473]
+    },
+    "properties": {
+      "Class": "Short Season Single-A",
+      "League": "New York-Penn League",
+      "Team": "West Virginia Black Bears",
+      "Ballpark": "Monongalia County Ballpark",
+      "Lat": "39.64473",
+      "Long": "-79.995838"
+    }
+  }  , {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.047067, 41.242347]
+      },
+      "properties": {
+        "Class": "Short Season Single-A",
+        "League": "New York-Penn League",
+        "Team": "Williamsport Crosscutters",
+        "Ballpark": "BB&T Ballpark at Historic Bowman Field",
+        "Lat": "41.242347",
+        "Long": "-77.047067"
+      }
+    }, {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-72.107072, 41.573875]
+        },
+        "properties": {
+          "Class": "Short Season Single-A",
+          "League": "New York-Penn League",
+          "Team": "Connecticut Tigers",
+          "Ballpark": "Senator Thomas J. Dodd Memorial Stadium",
+          "Lat": "41.573875",
+          "Long": "-72.107072"
+        }
+      }, {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-71.318114, 42.65327]
+          },
+          "properties": {
+            "Class": "Short Season Single-A",
+            "League": "New York-Penn League",
+            "Team": "Lowell Spinners",
+            "Ballpark": "Edward A. LeLacheur Park",
+            "Lat": "42.65327",
+            "Long": "-71.318114"
+          }
+        }, {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [ -73.680464, 42.695329]
+            },
+            "properties": {
+              "Class": "Short Season Single-A",
+              "League": "New York-Penn League",
+              "Team": "Tri-City ValleyCats",
+              "Ballpark": "Joseph L. Bruno Stadium",
+              "Lat": "42.695329",
+              "Long": " -73.680464"
+            }
+          }
+  ]
 }

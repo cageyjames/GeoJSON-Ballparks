@@ -43,6 +43,7 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 34. [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
 35. [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
 36. [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)]
+37. [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
 
 **Ongoing**
 
@@ -54,7 +55,6 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
 * [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
-* [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
 * [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
 * [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
 * [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
