@@ -6105,5 +6105,131 @@
       "Lat": "32.768219",
       "Long": "-96.98635"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.310833, 40.048611]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Atlantic League of Professional Baseball",
+      "Team": "Lancaster Barnstormers",
+      "Ballpark": "Clipper Magazine Stadium",
+      "Lat": "40.048611",
+      "Long": "-76.310833"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.903611, 38.5625]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Atlantic League of Professional Baseball",
+      "Team": "Southern Maryland Blue Crabs",
+      "Ballpark": "Regency Furniture Stadium",
+      "Lat": "38.5625",
+      "Long": "-76.903611"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-95.647222, 29.622778]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Atlantic League of Professional Baseball",
+      "Team": "Sugar Land Skeeters",
+      "Ballpark": "Constellation Field",
+      "Lat": "29.622778",
+      "Long": "-95.647222"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.729167, 39.9675]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Atlantic League of Professional Baseball",
+      "Team": "York Revolution",
+      "Ballpark": "PeoplesBank Park",
+      "Lat": "39.9675",
+      "Long": "-76.729167"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.1875, 41.171944]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Atlantic League of Professional Baseball",
+      "Team": "Bridgeport Bluefish",
+      "Ballpark": "The Ballpark at Harbor Yard",
+      "Lat": "41.171944",
+      "Long": "-73.1875"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-73.192222, 40.765]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Atlantic League of Professional Baseball",
+      "Team": "Long Island Ducks",
+      "Ballpark": "Bethpage Ballpark",
+      "Lat": "40.765",
+      "Long": "-73.192222"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.775211, 41.648506]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Atlantic League of Professional Baseball",
+      "Team": "New Britain Bees",
+      "Ballpark": "New Britain Stadium",
+      "Lat": "41.648506",
+      "Long": "-72.775211"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.553056, 40.560556]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Atlantic League of Professional Baseball",
+      "Team": "Somerset Patriots",
+      "Ballpark": "TD Bank Ballpark",
+      "Lat": "40.560556",
+      "Long": "-74.553056"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-76.092275, 36.766319]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Atlantic League of Professional Baseball",
+      "Team": "Virginia Beach Neptunes",
+      "Ballpark": "Wheeler Field",
+      "Lat": "36.766319",
+      "Long": "-76.092275"
+    }
   }]
 }
