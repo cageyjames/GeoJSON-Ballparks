@@ -3,7 +3,7 @@ GeoJSON-Ballparks
 
 Ballparks of Professional teams in [GeoJSON](http://geojson.org).
 
-The goal is to get all professional baseball team ballparks in GeoJSON format.  I'd also like to get independent baseball league teams in the database but they don't always play in the same ballparks year after year.  Internationally the focus is on Asian major professional baseball leagues but Latin American Teams (Columbia, Dominican Republic, etc) and Europe (Italy is left) are goals as well.
+The original goal is to get all professional baseball team ballparks in GeoJSON format.  I'm using Wikipedia to define "[Professional Baseball](https://en.wikipedia.org/wiki/Professional_baseball)" but it is only for a guide.  My initial goal was to get all the North and South American teams (majors to rookie) mapped and then top tier teams from around the world.  Below is a list of teams that have been mapped, ones that are currently being worked on and a to-do list.  If you know of any teams outside of the New World that hasn't been mapped or isn't in the list below, I encourage you to add it so we can get it in.  Right now we're only using points to map the stadiums.  There has been some discussion on making polygons of the ballparks, but that will be for a later time.
 
 **Finished**
 
@@ -60,7 +60,24 @@ The goal is to get all professional baseball team ballparks in GeoJSON format.  
 * [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
 * [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
 * [Frontier League](http://www.frontierleague.com/) (Independent)
+* [Liga Paralela de Béisbol en Venezuela](https://en.wikipedia.org/wiki/Liga_Paralela_de_Béisbol_en_Venezuela) (Venezuela)
+* [Veracruz Winter League](https://en.wikipedia.org/wiki/Veracruz_Winter_League) (Mexico)
+* [Eastern League](http://tinyurl.com/hnjz4gk) (Japan)
+* [Western League](http://tinyurl.com/zohqt3x) (Japan)
+* [Miyazaki Phoenix League](https://en.wikipedia.org/wiki/Miyazaki_Phoenix_League) (Japan)
+* [Baseball Challenge League](https://en.wikipedia.org/wiki/Baseball_Challenge_League) (Japan)
+* [Shikoku Island League Plus](https://en.wikipedia.org/wiki/Shikoku_Island_League_Plus) (Japan)
+* [Japan Women's Baseball League](https://en.wikipedia.org/wiki/Japan_Women%27s_Baseball_League) (Japan)
+* [KBO Futures League](https://en.wikipedia.org/wiki/KBO_Futures_League) (South Korea)
+* [Taiwan Baseball Summer League](https://en.wikipedia.org/wiki/Taiwan_Baseball_Summer_League) (Taiwan)
+* [Italian Baseball League 2D](https://en.wikipedia.org/wiki/Italian_Baseball_League_2D) (Italy)
+* [Honkbal Overgangsklasse](https://en.wikipedia.org/wiki/Honkbal_Overgangsklasse) (Netherlands)
+* [Honkbal Rookie League](https://en.wikipedia.org/wiki/Honkbal_Rookie_League) (Netherlands)
+* [Greater Brisbane League](https://en.wikipedia.org/wiki/Greater_Brisbane_League) (Australia)
+* [New South Wales Major League](https://en.wikipedia.org/wiki/New_South_Wales_Major_League) (Australia)
 
 **Suggestions**
 
-1. Summer Leagues (College) - [Example](https://gist.github.com/oeon/54626316c56a76e4db67)
+* Summer Leagues (College) - [Example](https://gist.github.com/oeon/54626316c56a76e4db67)
+* [NCAA Baseball](https://en.wikipedia.org/wiki/College_baseball) (298 Teams!)
+* [NCAA Softball](https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_softball_programs)
