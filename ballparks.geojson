@@ -6231,5 +6231,173 @@
       "Lat": "36.766319",
       "Long": "-76.092275"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.0779, 41.525711]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Joliet Slammers",
+      "Ballpark": "Silver Cross Field",
+      "Lat": "41.525711",
+      "Long": "-88.0779"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-82.058473, 41.46373]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Lake Erie Crushers",
+      "Ballpark": "All Pro Freight Stadium",
+      "Lat": "41.46373",
+      "Long": "-82.058473"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.118089, 41.992828]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Schaumburg Boomers",
+      "Ballpark": "Schaumburg Boomers Stadium",
+      "Lat": "41.992828",
+      "Long": "-88.118089"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-85.660615, 44.68173]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Traverse City Beach Bums",
+      "Ballpark": "Wuerfel Park",
+      "Lat": "44.68173",
+      "Long": "-85.660615"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.283611, 40.154167]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Washington Wild Things",
+      "Ballpark": "Consol Energy Park",
+      "Lat": "40.154167",
+      "Long": "-80.283611"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.731688, 41.637056]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Windy City ThunderBolts",
+      "Ballpark": "Standard Bank Stadium",
+      "Lat": "41.637056",
+      "Long": "-87.731688"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-87.562222, 37.992778]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Evansville Otters",
+      "Ballpark": "Bosse Field",
+      "Lat": "37.992778",
+      "Long": "-87.562222"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-84.638479, 38.982156]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Florence Freedom",
+      "Ballpark": "UC Health Stadium",
+      "Lat": "38.982156",
+      "Long": "-84.638479"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-90.13583, 38.566042]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Gateway Grizzlies",
+      "Ballpark": "GCS Ballpark",
+      "Lat": "38.566042",
+      "Long": "-90.13583"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-89.004148, 40.534251]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Normal CornBelters",
+      "Ballpark": "The Corn Crib",
+      "Lat": "40.534251",
+      "Long": "-89.004148"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-90.680337, 38.820518]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "River City Rascals",
+      "Ballpark": "T. R. Hughes Ballpark",
+      "Lat": "38.820518",
+      "Long": "-90.680337"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.960397, 37.745964]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Southern Illinois Miners",
+      "Ballpark": "Rent One Park",
+      "Lat": "37.745964",
+      "Long": "-88.960397"
+    }
   }]
 }
