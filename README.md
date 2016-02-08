@@ -51,10 +51,10 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 42. [Pac-12 Conference Baseball](http://pac-12.com/sport/baseball) (College)
 43. [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
 44. [Frontier League](http://www.frontierleague.com/) (Independent)
+45. [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 
 **To-Do**
 
-* [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
 * [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
 * [Liga Paralela de Béisbol en Venezuela](https://en.wikipedia.org/wiki/Liga_Paralela_de_Béisbol_en_Venezuela) (Venezuela)
