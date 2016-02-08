@@ -6399,5 +6399,173 @@
       "Lat": "37.745964",
       "Long": "-88.960397"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.885278, 33.546111]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Diamondbacks",
+      "Ballpark": "Salt River Fields at Talking Stick",
+      "Lat": "33.546111",
+      "Long": "-111.885278"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.969722, 33.400556]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Angels",
+      "Ballpark": "Tempe Diablo Stadium",
+      "Lat": "33.400556",
+      "Long": "-111.969722"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.829762, 33.428285]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Athletics",
+      "Ballpark": "Fitch Park",
+      "Lat": "33.428285",
+      "Long": "-111.829762"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-112.173056, 33.492222]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Brewers",
+      "Ballpark": "Maryvale Baseball Park",
+      "Lat": "33.492222",
+      "Long": "-112.173056"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.8816, 33.4313]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Cubs",
+      "Ballpark": "Sloan Park",
+      "Lat": "33.4313",
+      "Long": "-111.8816"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-112.295833, 33.514167]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Dodgers",
+      "Ballpark": "Camelback Ranch",
+      "Lat": "33.514167",
+      "Long": "-112.295833"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.921111, 33.488333]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Giants",
+      "Ballpark": "Scottsdale Stadium",
+      "Lat": "33.488333",
+      "Long": "-111.921111"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-112.39, 33.429167]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Reds",
+      "Ballpark": "Goodyear Ballpark",
+      "Lat": "33.429167",
+      "Long": "-112.39"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-112.2332, 33.6319]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Padres",
+      "Ballpark": "Peoria Sports Complex",
+      "Lat": "33.6319",
+      "Long": "-112.2332"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-112.295833, 33.514167]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League White Sox",
+      "Ballpark": "Camelback Ranch",
+      "Lat": "33.514167",
+      "Long": "-112.295833"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-112.377778, 33.627778]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Royals",
+      "Ballpark": "Surprise Stadium",
+      "Lat": "33.627778",
+      "Long": "-112.377778"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-112.377778, 33.627778]
+    },
+    "properties": {
+      "Class": "Rookie",
+      "League": "Arizona League",
+      "Team": "Arizona League Rangers",
+      "Ballpark": "Surprise Stadium",
+      "Lat": "33.627778",
+      "Long": "-112.377778"
+    }
   }]
 }
