@@ -5,6 +5,8 @@ Ballparks of Professional teams in [GeoJSON](http://geojson.org).
 
 Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status/436588544329388032) if I had Lat/Longs for Major/Minor League ballparks.  I [pushed up a Gist](https://gist.github.com/cageyjames/9142310) and then realized this was a project worth putting effort into and defined the original goal to get all professional baseball team ballparks in GeoJSON format.  I'm using Wikipedia to define "[Professional Baseball](https://en.wikipedia.org/wiki/Professional_baseball)" but it is only for a guide.  My initial goal was to get all the North and South American teams (majors to rookie) mapped and then top tier teams from around the world.  Below is a list of teams that have been mapped, ones that are currently being worked on and a to-do list.  If you know of any teams outside of the New World that hasn't been mapped or isn't in the list below, I encourage you to add it so we can get it in.  Right now we're only using points to map the stadiums.  There has been some discussion on making polygons of the ballparks, but that will be for a later time.
 
+There are over 450 ballparks around the world included.  If you find a league I haven't added yet, please fork and add it in yourself.
+
 **Finished**
 
 1. [Major League Baseball](http://mlb.com) (American League and National League)
