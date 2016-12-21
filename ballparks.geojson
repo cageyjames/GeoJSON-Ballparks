@@ -25,9 +25,9 @@
       "Class": "Majors",
       "League": "Major League Baseball",
       "Team": "Atlanta Braves",
-      "Ballpark": "Turner Field",
-      "Lat": "33.735044",
-      "Long": "-84.389848"
+      "Ballpark": "SunTrust Park",
+      "Lat": "33.89",
+      "Long": "-84.468"
     }
   }, {
     "type": "Feature",
@@ -389,7 +389,7 @@
       "Class": "Majors",
       "League": "Major League Baseball",
       "Team": "Texas Rangers",
-      "Ballpark": "The Ballpark in Arlington",
+      "Ballpark": "Globe Life Park in Arlington",
       "Lat": "32.75155",
       "Long": "-97.083047"
     }
