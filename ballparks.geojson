@@ -19,7 +19,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-84.389848, 33.735044]
+      "coordinates": [-84.468, 33.89]
     },
     "properties": {
       "Class": "Majors",
