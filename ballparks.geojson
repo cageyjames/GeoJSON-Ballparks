@@ -383,15 +383,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-97.083047, 32.75155]
+      "coordinates": [-97.084167, 32.747361]
     },
     "properties": {
       "Class": "Majors",
       "League": "Major League Baseball",
       "Team": "Texas Rangers",
-      "Ballpark": "Globe Life Park in Arlington",
-      "Lat": "32.75155",
-      "Long": "-97.083047"
+      "Ballpark": "Globe Life Field",
+      "Lat": "32.747361",
+      "Long": "-97.084167"
     }
   }, {
     "type": "Feature",
