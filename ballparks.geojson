@@ -431,7 +431,7 @@
       "Class": "Triple-A",
       "League": "Pacific Coast League",
       "Team": "Albuquerque Isotopes",
-      "Ballpark": "Isotopes Park",
+      "Ballpark": "Rio Grande Credit Union Field at Isotopes Park",
       "Lat": "35.069722",
       "Long": "-106.629167"
     }
@@ -439,15 +439,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-104.710311, 38.894172]
+      "coordinates": [-98.601114, 29.409131]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Pacific Coast League",
-      "Team": "Colorado Springs Sky Sox",
-      "Ballpark": "Security Service Field",
-      "Lat": "38.894172",
-      "Long": "-104.710311"
+      "Team": "San Antonio Missions",
+      "Ballpark": "Nelson W. Wolff Municipal Stadium",
+      "Lat": "29.409131",
+      "Long": "-98.601114"
     }
   }, {
     "type": "Feature",
@@ -459,7 +459,7 @@
       "Class": "Triple-A",
       "League": "Pacific Coast League",
       "Team": "El Paso Chihuahuas",
-      "Ballpark": "New El Paso Ballpark",
+      "Ballpark": "Southwest University Park",
       "Lat": "31.759136",
       "Long": "-106.492526"
     }
@@ -495,15 +495,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-115.129972, 36.179667]
+      "coordinates": [115.329417, 36.152278]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Pacific Coast League",
-      "Team": "Las Vegas 51s",
-      "Ballpark": "Cashman Field",
-      "Lat": "36.179667",
-      "Long": "-115.129972"
+      "Team": "Las Vegas Aviators",
+      "Ballpark": "Las Vegas Ballpark",
+      "Lat": "36.152278",
+      "Long": "-115.329417"
     }
   }, {
     "type": "Feature",
@@ -523,29 +523,29 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-86.773431, 36.143142]
+      "coordinates": [-86.785033, 36.173031]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Pacific Coast League",
       "Team": "Nashville Sounds",
-      "Ballpark": "Herschel Greer Stadium",
-      "Lat": "36.143142",
-      "Long": "-86.773431"
+      "Ballpark": "First Horizon Park",
+      "Lat": "36.173031",
+      "Long": "-86.785033"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-90.199742, 29.975442]
+      "coordinates": [-97.345833, 37.681389]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Pacific Coast League",
-      "Team": "New Orleans Zephyrs",
-      "Ballpark": "Zephyr Field",
-      "Lat": "29.975442",
-      "Long": "-90.199742"
+      "Team": "Wichita Wind Surge",
+      "Ballpark": "New Wichita ballpark",
+      "Lat": "37.681389",
+      "Long": "-97.345833"
     }
   }, {
     "type": "Feature",
@@ -579,15 +579,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-119.80863, 39.528131]
+      "coordinates": [119.808, 39.529]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Pacific Coast League",
       "Team": "Reno Aces",
-      "Ballpark": "Aces Ballpark",
-      "Lat": "39.528131",
-      "Long": "-119.808633"
+      "Ballpark": "Greater Nevada Field",
+      "Lat": "39.529",
+      "Long": "-119.808"
     }
   }, {
     "type": "Feature",
@@ -613,7 +613,7 @@
       "Class": "Triple-A",
       "League": "Pacific Coast League",
       "Team": "Sacramento River Cats",
-      "Ballpark": "Raley Field",
+      "Ballpark": "Sutter Health Park",
       "Lat": "38.580372",
       "Long": "-121.5138"
     }
