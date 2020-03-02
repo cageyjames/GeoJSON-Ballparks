@@ -187,15 +187,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-117.883194, 33.799925]
+      "coordinates": [-117.882778, 33.800278]
     },
     "properties": {
       "Class": "Majors",
       "League": "Major League Baseball",
       "Team": "Los Angeles Angels of Anaheim",
       "Ballpark": "Angels Stadium",
-      "Lat": "33.799925",
-      "Long": "-117.883194"
+      "Lat": "33.800278",
+      "Long": "-117.882778"
     }
   }, {
     "type": "Feature",
