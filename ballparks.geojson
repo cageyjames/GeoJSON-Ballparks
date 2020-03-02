@@ -5,15 +5,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-112.066564, 33.445081]
+      "coordinates": [-112.066944, 33.445278]
     },
     "properties": {
       "Class": "Majors",
       "League": "Major League Baseball",
       "Team": "Arizona Diamondbacks",
       "Ballpark": "Chase Field",
-      "Lat": "33.445081",
-      "Long": "-112.066564"
+      "Lat": "33.445278",
+      "Long": "-112.066944"
     }
   }, {
     "type": "Feature",
