@@ -18,7 +18,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 **Finished**
 
-4. [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A)
 5. [Eastern League](http://www.milb.com/index.jsp?sid=l113) (Class Double-A)
 6. [Southern League](http://www.milb.com/index.jsp?sid=l111) (Class Double-A)
 7. [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A)
