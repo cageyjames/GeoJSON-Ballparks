@@ -655,7 +655,7 @@
       "Class": "Triple-A",
       "League": "International League",
       "Team": "Buffalo Bisons",
-      "Ballpark": "Coca-Cola Field",
+      "Ballpark": "Sahlen Field",
       "Lat": "42.880345",
       "Long": "-78.873794"
     }
@@ -724,7 +724,7 @@
     "properties": {
       "Class": "Triple-A",
       "League": "International League",
-      "Team": "Syracuse Chiefs",
+      "Team": "Syracuse Mets",
       "Ballpark": "NBT Bank Stadium",
       "Lat": "43.079078",
       "Long": "-76.165358"
@@ -766,7 +766,7 @@
     "properties": {
       "Class": "Triple-A",
       "League": "International League",
-      "Team": "Gwinnett Braves",
+      "Team": "Gwinnett Stripers",
       "Ballpark": "Coolray Field",
       "Lat": "34.041494",
       "Long": "-83.992367"
@@ -851,7 +851,7 @@
       "Class": "Triple-A",
       "League": "Mexican League",
       "Team": "Sultanes de Monterrey",
-      "Ballpark": "Estadio de Beisbol Monterrey",
+      "Ballpark": "Mobil Super",
       "Lat": "25.718517",
       "Long": "-100.31575"
     }
@@ -859,29 +859,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-98.312292, 26.078825]
+      "coordinates": [-101.659602, 21.145291]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Mexican League",
-      "Team": "Broncos de Reynosa",
-      "Ballpark": "Estadio Adolfo López Mateos",
-      "Lat": "26.078825",
-      "Long": "-98.312292"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-100.978806, 25.433653]
-    },
-    "properties": {
-      "Class": "Triple-A",
-      "League": "Mexican League",
-      "Team": "Saraperos de Saltillo",
-      "Ballpark": "Estadio de Béisbol Francisco I. Madero",
-      "Lat": "25.433653",
-      "Long": "-100.978806"
+      "Team": "Bravos de Leon",
+      "Ballpark": "Estadio Domingo Santana",
+      "Lat": "21.145291",
+      "Long": "-101.659602"
     }
   }, {
     "type": "Feature",
@@ -906,7 +892,7 @@
     "properties": {
       "Class": "Triple-A",
       "League": "Mexican League",
-      "Team": "Vaqueros Laguna",
+      "Team": "Algodoneros de Unión Laguna",
       "Ballpark": "Estadio Revolución",
       "Lat": "25.539575",
       "Long": "-103.429178"
@@ -915,15 +901,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-99.095944, 19.404889]
+      "coordinates": [-99.085278, 19.403611]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Mexican League",
       "Team": "Diablos Rojos del México",
-      "Ballpark": "Foro Sol",
-      "Lat": "19.404889",
-      "Long": "-99.095944"
+      "Ballpark": "Estadio Alfredo Harp Helú",
+      "Lat": "19.403611",
+      "Long": "-99.085278"
     }
   }, {
     "type": "Feature",
@@ -943,43 +929,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-100.31575, 25.718517]
-    },
-    "properties": {
-      "Class": "Triple-A",
-      "League": "Mexican League",
-      "Team": "Sultanes de Monterrey",
-      "Ballpark": "Estadio de Beisbol Monterrey",
-      "Lat": "25.718517",
-      "Long": "-100.31575"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
       "coordinates": [-116.91748, 32.483212]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Mexican League",
       "Team": "Toros de Tijuana",
-      "Ballpark": "Estadio Gasmart",
+      "Ballpark": "Chevron",
       "Lat": "32.483212",
       "Long": "-116.91748"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-98.312292, 26.078825]
-    },
-    "properties": {
-      "Class": "Triple-A",
-      "League": "Mexican League",
-      "Team": "Broncos de Reynosa",
-      "Ballpark": "Estadio Adolfo López Mateos",
-      "Lat": "26.078825",
-      "Long": "-98.312292"
     }
   }, {
     "type": "Feature",
@@ -1013,15 +971,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-91.81932, 18.647458]
+      "coordinates": [-104.689728, 24.015825]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Mexican League",
-      "Team": "Delfines de Ciudad del Carmen",
-      "Ballpark": "Estadio Resurgimiento",
-      "Lat": "18.647458",
-      "Long": "-91.81932"
+      "Team": "Generales de Durango",
+      "Ballpark": "Estadio Francisco Villa",
+      "Lat": "24.015825",
+      "Long": "-104.689728"
     }
   }, {
     "type": "Feature",
@@ -1083,15 +1041,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-96.122736, 19.165097]
+      "coordinates": [-99.490624, 27.477872]
     },
     "properties": {
       "Class": "Triple-A",
       "League": "Mexican League",
-      "Team": "Rojos del Águila de Veracruz",
-      "Ballpark": "Estadio Universitario Beto Avila",
-      "Lat": "19.165097",
-      "Long": "-96.122736"
+      "Team": "Tecolotes de los Dos Laredos",
+      "Ballpark": "Parque la Junta",
+      "Lat": "27.477872",
+      "Long": "-99.490624"
     }
   }, {
     "type": "Feature",
