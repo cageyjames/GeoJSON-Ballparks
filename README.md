@@ -7,11 +7,17 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 
 There are over 450 ballparks around the world included.  If you find a league I haven't added yet, please fork and add it in yourself.
 
+**Updated Datasets**
+
+| League  | Update Date |
+| ------------- | ------------- |
+| [Major League Baseball](http://mlb.com) (American League and National League) | February 29, 2020 |
+| [Pacific Coast League](http://www.milb.com/index.jsp?sid=l112) (Class Triple-A) | March 1, 2020 |
+| [International League](http://www.milb.com/index.jsp?sid=l117) (Class Triple-A) | March 2, 2020 |
+| [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A) | March 2, 2020 |
+
 **Finished**
 
-1. [Major League Baseball](http://mlb.com) (American League and National League)
-2. [Pacific Coast League](http://www.milb.com/index.jsp?sid=l112) (Class Triple-A)
-3. [International League](http://www.milb.com/index.jsp?sid=l117) (Class Triple-A)
 4. [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A)
 5. [Eastern League](http://www.milb.com/index.jsp?sid=l113) (Class Double-A)
 6. [Southern League](http://www.milb.com/index.jsp?sid=l111) (Class Double-A)
