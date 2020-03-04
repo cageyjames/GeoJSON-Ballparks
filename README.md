@@ -1,5 +1,4 @@
-GeoJSON-Ballparks
-=================
+# GeoJSON-Ballparks
 
 Ballparks of Professional teams in [GeoJSON](http://geojson.org).
 
@@ -7,7 +6,7 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 
 There are over 450 ballparks around the world included.  If you find a league I haven't added yet, please fork and add it in yourself.
 
-**Updated Datasets**
+## Updated Datasets
 
 | League  | Update Date |
 | ------------- | ------------- |
@@ -15,52 +14,52 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Pacific Coast League](http://www.milb.com/index.jsp?sid=l112) (Class Triple-A) | March 1, 2020 |
 | [International League](http://www.milb.com/index.jsp?sid=l117) (Class Triple-A) | March 2, 2020 |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A) | March 2, 2020 |
+| [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | March 3, 2020 |
+| [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | March 3, 2020 |
 
-**Finished**
+## Finished (to be updated)
 
-5. [Eastern League](http://www.milb.com/index.jsp?sid=l113) (Class Double-A)
-6. [Southern League](http://www.milb.com/index.jsp?sid=l111) (Class Double-A)
-7. [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A)
-8. [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced)
-9. [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced)
-10. [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced)
-11. [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A)
-12. [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A)
-13. [Nippon Professional Baseball](http://www.npb.or.jp) (Japan)
-14. [Korea Baseball Championship](http://www.koreabaseball.com/) (South Korea)
-15. [Chinese Professional Baseball League](http://www.cpbl.com.tw)) (Taiwan)
-16. [Australian Baseball League](http://web.theabl.com.au) (Australia)
-17. [Bundesliga](http://baseball-bundesliga.de/) (Germany)
-18. [Arizona Cactus League](http://www.cactusleague.com) (Spring Training)
-19. [Cape Cod Baseball League](http://www.capecodbaseball.org/) (Amateur)  
-20. [Coastal Plain League](http://www.coastalplain.com) (Summer/Collegiate)
-21. [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training)
-22. [Honkbal Hoofdklasse](http://www.honkbalsite.comve) (Netherlands)
-23. [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela)
-24. [China Baseball League](https://en.wikipedia.org/wiki/China_Baseball_League) (China)
-25. [Pecos League](http://pecosleague.com/) (Independent)
-26. [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic)
-27. [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico)
-28. [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico)
-29. [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) (Philippines)
-30. [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia)
-31. [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua)
-32. [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
-33. [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba)
-34. [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
-35. [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
-36. [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)
-37. [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
-38. [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
-39. [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
-40. [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
-41. [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
-42. [Pac-12 Conference Baseball](http://pac-12.com/sport/baseball) (College)
-43. [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
-44. [Frontier League](http://www.frontierleague.com/) (Independent)
-45. [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
+* [Eastern League](http://www.milb.com/index.jsp?sid=l113) (Class Double-A)
+* [Southern League](http://www.milb.com/index.jsp?sid=l111) (Class Double-A)
+* [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A)
+* [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced)
+* [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced)
+* [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced)
+* [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A)
+* [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A)
+* [Nippon Professional Baseball](http://www.npb.or.jp) (Japan)
+* [Korea Baseball Championship](http://www.koreabaseball.com/) (South Korea)
+* [Chinese Professional Baseball League](http://www.cpbl.com.tw)) (Taiwan)
+* [Australian Baseball League](http://web.theabl.com.au) (Australia)
+* [Bundesliga](http://baseball-bundesliga.de/) (Germany)
+* [Cape Cod Baseball League](http://www.capecodbaseball.org/) (Amateur)  
+* [Coastal Plain League](http://www.coastalplain.com) (Summer/Collegiate)
+* [Honkbal Hoofdklasse](http://www.honkbalsite.comve) (Netherlands)
+* [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela)
+* [China Baseball League](https://en.wikipedia.org/wiki/China_Baseball_League) (China)
+* [Pecos League](http://pecosleague.com/) (Independent)
+* [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic)
+* [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico)
+* [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico)
+* [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) (Philippines)
+* [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia)
+* [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua)
+* [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
+* [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba)
+* [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
+* [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
+* [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)
+* [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
+* [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
+* [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
+* [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
+* [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
+* [Pac-12 Conference Baseball](http://pac-12.com/sport/baseball) (College)
+* [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
+* [Frontier League](http://www.frontierleague.com/) (Independent)
+* [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 
-**To-Do**
+### To-Do
 
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
 * [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
@@ -80,7 +79,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Greater Brisbane League](https://en.wikipedia.org/wiki/Greater_Brisbane_League) (Australia)
 * [New South Wales Major League](https://en.wikipedia.org/wiki/New_South_Wales_Major_League) (Australia)
 
-**Suggestions**
+### Suggestions
 
 * Summer Leagues (College) - [Example](https://gist.github.com/oeon/54626316c56a76e4db67)
 * [NCAA Baseball](https://en.wikipedia.org/wiki/College_baseball) (298 Teams!)
