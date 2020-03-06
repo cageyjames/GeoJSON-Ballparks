@@ -16,6 +16,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A) | March 2, 2020 |
 | [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | March 3, 2020 |
 | [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | March 3, 2020 |
+| [Alaska Baseball League](http://alaskabaseballleague.org/view/alaskabaseballleague/the-alaska-baseball-league/the-ballparks-of-the-alaska-baseball-league) (Amateur Collegiate Summer Baseball League) | March 5, 2020 |
 
 ## Finished (to be updated)
 
