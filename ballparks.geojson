@@ -3337,6 +3337,62 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
+      "coordinates": [-149.877826, 61.205329]
+    },
+    "properties": {
+      "Class": "Amateur",
+      "League": "Alaska Baseball League",
+      "Team": "Anchorage Bucs",
+      "Ballpark": "Mulcahy Stadium",
+      "Lat": "61.205329",
+      "Long": "-149.877826"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-151.259180, 60.558630]
+    },
+    "properties": {
+      "Class": "Amateur",
+      "League": "Alaska Baseball League",
+      "Team": "Peninsula Oilers",
+      "Ballpark": "Coral Seymour Ballpark",
+      "Lat": "60.558630",
+      "Long": "-151.259180"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-149.130757, 61.578877]
+    },
+    "properties": {
+      "Class": "Amateur",
+      "League": "Alaska Baseball League",
+      "Team": "Mat-Su Miners",
+      "Ballpark": "Hermon Brothers Field",
+      "Lat": "61.578877",
+      "Long": "-149.130757"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-149.471362, 61.392496]
+    },
+    "properties": {
+      "Class": "Amateur",
+      "League": "Alaska Baseball League",
+      "Team": "Chugiak Chinooks",
+      "Ballpark": "Loretta French Sports Complex",
+      "Lat": "61.392496",
+      "Long": "-149.471362"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
       "coordinates": [-70.5778, 41.7442]
     },
     "properties": {
