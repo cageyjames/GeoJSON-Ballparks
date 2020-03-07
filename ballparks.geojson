@@ -1489,20 +1489,6 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-119.022384, 35.397556]
-    },
-    "properties": {
-      "Class": "Single-A Advanced",
-      "League": "California League",
-      "Team": "Bakersfield Blaze",
-      "Ballpark": "Sam Lynn Ballpark",
-      "Lat": "35.397556",
-      "Long": "-119.022384"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
       "coordinates": [-121.000814, 37.622658]
     },
     "properties": {
@@ -1523,7 +1509,7 @@
       "Class": "Single-A Advanced",
       "League": "California League",
       "Team": "San Jose Giants",
-      "Ballpark": "San Jose Municipal Stadium",
+      "Ballpark": "Excite Ballpark",
       "Lat": "37.320556",
       "Long": "-121.862222"
     }
@@ -1554,20 +1540,6 @@
       "Ballpark": "Recreation Park",
       "Lat": "36.3325",
       "Long": "-119.304722"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-117.401758, 34.554843]
-    },
-    "properties": {
-      "Class": "Single-A Advanced",
-      "League": "California League",
-      "Team": "High Desert Mavericks",
-      "Ballpark": "Heritage Field at Stater Bros. Stadium",
-      "Lat": "34.554843",
-      "Long": "-117.401758"
     }
   }, {
     "type": "Feature",
@@ -1635,7 +1607,7 @@
       "Class": "Single-A Advanced",
       "League": "Carolina League",
       "Team": "Fredrick Keys",
-      "Ballpark": "Harry Grove Stadium",
+      "Ballpark": "Nymeo Field at Harry Grove Stadium",
       "Lat": "39.401389",
       "Long": "-77.413333"
     }
@@ -1662,10 +1634,10 @@
     "properties": {
       "Class": "Single-A Advanced",
       "League": "Carolina League",
-      "Team": "Potomac Nationals",
-      "Ballpark": "Pfitzner Stadium",
-      "Lat": "38.68396",
-      "Long": "-77.35214"
+      "Team": "Fredericksburg Nationals",
+      "Ballpark": "New Fredericksburg Ballpark",
+      "Lat": "38.320833",
+      "Long": "-77.508333"
     }
   }, {
     "type": "Feature",
@@ -1719,7 +1691,7 @@
       "Class": "Single-A Advanced",
       "League": "Carolina League",
       "Team": "Salem Red Sox",
-      "Ballpark": "Lewis-Gale Field",
+      "Ballpark": "Salem Memorial Ballpark",
       "Lat": "37.285278",
       "Long": "-80.036667"
     }
@@ -1737,19 +1709,47 @@
       "Lat": "36.091602",
       "Long": "-80.255962"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.574167, 35.27]
+      },
+      "properties": {
+        "Class": "Single-A Advanced",
+        "League": "Carolina League",
+        "Team": "Down East Wood Ducks",
+        "Ballpark": "Grainger Stadium",
+        "Lat": "35.27",
+        "Long": "-77.574167"
+      }
+      }, {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-78.883382, 35.055914]
+        },
+        "properties": {
+          "Class": "Single-A Advanced",
+          "League": "Carolina League",
+          "Team": "Fayetteville Woodpeckers",
+          "Ballpark": "Segra Stadium",
+          "Lat": "35.055914",
+          "Long": "-78.883382"
+        }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-80.73944, 28.256944]
+      "coordinates": [-82.319887, 27.033728]
     },
     "properties": {
       "Class": "Single-A Advanced",
       "League": "Florida State League",
-      "Team": "Brevard County Manatees",
-      "Ballpark": "Space Coast Stadium",
-      "Lat": "28.256944",
-      "Long": "-80.739444"
+      "Team": "Florida Fire Frogs",
+      "Ballpark": "CoolToday Park",
+      "Lat": "27.033728",
+      "Long": "-82.319887"
     }
   }, {
     "type": "Feature",
@@ -1775,7 +1775,7 @@
       "Class": "Single-A Advanced",
       "League": "Florida State League",
       "Team": "Daytona Tortugas",
-      "Ballpark": "Jackie Robinson Ballpark",
+      "Ballpark": "Radiology Associates Field at Jackie Robinson Ballpark",
       "Lat": "29.209444",
       "Long": "-81.016667"
     }
@@ -1789,7 +1789,7 @@
       "Class": "Single-A Advanced",
       "League": "Florida State League",
       "Team": "Dunedin Blue Jays",
-      "Ballpark": "Florida Auto Exchange Stadium",
+      "Ballpark": "TD Ballpark",
       "Lat": "28.003611",
       "Long": "-82.786389"
     }
@@ -1803,7 +1803,7 @@
       "Class": "Single-A Advanced",
       "League": "Florida State League",
       "Team": "Lakeland Flying Tigers",
-      "Ballpark": "Joker Marchant Stadium",
+      "Ballpark": "Publix Field at Joker Marchant Stadium",
       "Lat": "28.074722",
       "Long": "-81.950833"
     }
@@ -1816,7 +1816,7 @@
     "properties": {
       "Class": "Single-A Advanced",
       "League": "Florida State League",
-      "Team": "Tampa Yankees",
+      "Team": "Tampa Tarpons",
       "Ballpark": "George M. Steinbrenner Field",
       "Lat": "27.980278",
       "Long": "-82.506667"
@@ -1831,7 +1831,7 @@
       "Class": "Single-A Advanced",
       "League": "Florida State League",
       "Team": "Bradenton Marauders",
-      "Ballpark": "McKechnie Field",
+      "Ballpark": "LECOM Park",
       "Lat": "27.485833",
       "Long": "-82.570278"
     }
@@ -1858,7 +1858,7 @@
     "properties": {
       "Class": "Single-A Advanced",
       "League": "Florida State League",
-      "Team": "Fort Myers Miracle",
+      "Team": "Fort Myers Mighty Mussels",
       "Ballpark": "Hammond Stadium",
       "Lat": "26.538333",
       "Long": "-81.841944"
@@ -1901,7 +1901,7 @@
       "Class": "Single-A Advanced",
       "League": "Florida State League",
       "Team": "St. Lucie Mets",
-      "Ballpark": "Tradition Field",
+      "Ballpark": "Clover Park",
       "Lat": "27.325281",
       "Long": "-80.404494"
     }

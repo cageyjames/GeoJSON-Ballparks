@@ -16,16 +16,16 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A) | March 2, 2020 |
 | [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | March 3, 2020 |
 | [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | March 3, 2020 |
-| [Alaska Baseball League](http://alaskabaseballleague.org/view/alaskabaseballleague/the-alaska-baseball-league/the-ballparks-of-the-alaska-baseball-league) (Amateur Collegiate Summer Baseball League) | March 5, 2020 |
+| [Alaska Baseball League](http://alaskabaseballleague.org/) (Amateur Collegiate Summer Baseball League) | March 5, 2020 |
 | [Eastern League](http://www.milb.com/index.jsp?sid=l113) (Class Double-A) | March 7, 2020 |
 | [Southern League](http://www.milb.com/index.jsp?sid=l111) (Class Double-A) | March 7, 2020 |
 | [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A) | March 7, 2020 |
+| [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | March 7, 2020 |
+| [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | March 7, 2020 |
+| [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | March 7, 2020 |
 
 ## Finished (to be updated)
 
-* [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced)
-* [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced)
-* [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced)
 * [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A)
 * [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A)
 * [Nippon Professional Baseball](http://www.npb.or.jp) (Japan)
