@@ -1102,7 +1102,7 @@
     "properties": {
       "Class": "Double-A",
       "League": "Eastern League",
-      "Team": "Binghamton Mets",
+      "Team": "Binghamton Rumble Ponies",
       "Ballpark": "NYSEG Stadium",
       "Lat": "42.102769",
       "Long": "-75.904988"
@@ -1111,15 +1111,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-72.775211, 41.648506]
+      "coordinates": [-72.673889, 41.771389]
     },
     "properties": {
       "Class": "Double-A",
       "League": "Eastern League",
-      "Team": "New Britain Rock Cats",
-      "Ballpark": "New Britain Stadium",
-      "Lat": "41.648506",
-      "Long": "-72.775211"
+      "Team": "Hartford Yard Goats",
+      "Ballpark": "Dunkin' Donuts Park",
+      "Lat": "41.771389",
+      "Long": "-72.673889"
     }
   }, {
     "type": "Feature",
@@ -1201,7 +1201,7 @@
       "Class": "Double-A",
       "League": "Eastern League",
       "Team": "Erie SeaWolves",
-      "Ballpark": "Jerry Uht Park",
+      "Ballpark": "UPMC Park",
       "Lat": "42.126944",
       "Long": "-80.08"
     }
@@ -1215,7 +1215,7 @@
       "Class": "Double-A",
       "League": "Eastern League",
       "Team": "Harrisburg Senators",
-      "Ballpark": "Metro Bank Park",
+      "Ballpark": "FNB Field",
       "Lat": "40.256428",
       "Long": "-76.889977"
     }
@@ -1335,15 +1335,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-98.601114, 29.409131]
+      "coordinates": [-101.831944, 35.205556]
     },
     "properties": {
       "Class": "Double-A",
       "League": "Texas League",
-      "Team": "San Antonio Missions",
-      "Ballpark": "Nelson W. Wolff Municipal Stadium",
-      "Lat": "29.409131",
-      "Long": "-98.601114"
+      "Team": "Amarillo Sod Poodles",
+      "Ballpark": "Hodgetown",
+      "Lat": "35.205556",
+      "Long": "-101.831944"
     }
   }, {
     "type": "Feature",
@@ -1377,15 +1377,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-86.588497, 34.699581]
+      "coordinates": [-88.893463, 30.395741]
     },
     "properties": {
       "Class": "Double-A",
       "League": "Southern League",
-      "Team": "Huntsville Stars",
-      "Ballpark": "Joe W. Davis Stadium",
-      "Lat": "34.699581",
-      "Long": "-86.588497"
+      "Team": "Biloxi Shuckers",
+      "Ballpark": "MGM Park",
+      "Lat": "30.395741",
+      "Long": "-88.893463"
     }
   }, {
     "type": "Feature",
@@ -1411,7 +1411,7 @@
       "Class": "Double-A",
       "League": "Southern League",
       "Team": "Tennessee Smokies",
-      "Ballpark": "Smokies Park",
+      "Ballpark": "Smokies Stadium",
       "Lat": "35.988889",
       "Long": "-83.604444"
     }
@@ -1424,7 +1424,7 @@
     "properties": {
       "Class": "Double-A",
       "League": "Southern League",
-      "Team": "Jacksonville Suns",
+      "Team": "Jacksonville Jumbo Shrimp",
       "Ballpark": "Baseball Grounds of Jacksonville",
       "Lat": "30.324968",
       "Long": "-81.643069"
@@ -1447,15 +1447,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-88.11687, 30.64574]
+      "coordinates": [-86.724288, 34.683883]
     },
     "properties": {
       "Class": "Double-A",
       "League": "Southern League",
-      "Team": "Mobile BayBears",
-      "Ballpark": "Hank Aaron Stadium",
-      "Lat": "30.64574",
-      "Long": "-88.11687"
+      "Team": "Rocket City Trash Pandas",
+      "Ballpark": "Toyota Field",
+      "Lat": "34.683883",
+      "Long": "-86.724288"
     }
   }, {
     "type": "Feature",
@@ -1481,7 +1481,7 @@
       "Class": "Double-A",
       "League": "Southern League",
       "Team": "Pensacola Blue Wahoos",
-      "Ballpark": "Pensacola Bayfront Stadium",
+      "Ballpark": "Admiral Fetterman Field",
       "Lat": "30.404295",
       "Long": "-87.219662"
     }
