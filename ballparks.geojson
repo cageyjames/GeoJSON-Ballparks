@@ -1929,7 +1929,7 @@
       "Class": "Single-A",
       "League": "South Atlantic League",
       "Team": "Greensboro Grasshoppers",
-      "Ballpark": "NewBridge Bank Park",
+      "Ballpark": "First National Bank Field",
       "Lat": "36.076667",
       "Long": "-79.794722"
     }
@@ -1965,15 +1965,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-80.566389, 35.507778]
+      "coordinates": [-80.626667, 35.499167]
     },
     "properties": {
       "Class": "Single-A",
       "League": "South Atlantic League",
       "Team": "Kannapolis Intimidators",
-      "Ballpark": "CMC-NorthEast Stadium",
-      "Lat": "35.507778",
-      "Long": "-80.566389"
+      "Ballpark": "Atrium Health Ballpark",
+      "Lat": "35.499167",
+      "Long": "-80.626667"
     }
   }, {
     "type": "Feature",
@@ -2021,15 +2021,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-82.000556, 33.495]
+      "coordinates": [-81.973889, 33.483889]
     },
     "properties": {
       "Class": "Single-A",
       "League": "South Atlantic League",
       "Team": "Augusta GreenJackets",
-      "Ballpark": "Lake Olmstead Stadium",
-      "Lat": "33.495",
-      "Long": "-82.000556"
+      "Ballpark": "SRP Park",
+      "Lat": "33.483889",
+      "Long": "-81.973889"
     }
   }, {
     "type": "Feature",
@@ -2091,15 +2091,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-81.078889, 32.044722]
+      "coordinates": [-81.031397, 34.017417]
     },
     "properties": {
       "Class": "Single-A",
       "League": "South Atlantic League",
-      "Team": "Savannah Sand Gnats",
-      "Ballpark": "Grayson Stadium",
-      "Lat": "32.044722",
-      "Long": "-81.078889"
+      "Team": "Columbia Fireflies",
+      "Ballpark": "Segra Park",
+      "Lat": "34.017417",
+      "Long": "-81.031397"
     }
   }, {
     "type": "Feature",
