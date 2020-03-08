@@ -2125,7 +2125,7 @@
       "Class": "Single-A",
       "League": "Midwest League",
       "Team": "Dayton Dragons",
-      "Ballpark": "Fifth Third Field",
+      "Ballpark": "Day Air Ballpark",
       "Lat": "39.764167",
       "Long": "-84.185"
     }
@@ -2195,7 +2195,7 @@
       "Class": "Single-A",
       "League": "Midwest League",
       "Team": "South Bend Cubs",
-      "Ballpark": "Stanley Coveleski Regional Stadium",
+      "Ballpark": "Four Winds Field at Coveleski Stadium",
       "Lat": "41.670394",
       "Long": "-86.255478"
     }
@@ -2222,7 +2222,7 @@
     "properties": {
       "Class": "Single-A",
       "League": "Midwest League",
-      "Team": "Western Beloit Snappers",
+      "Team": "Beloit Snappers",
       "Ballpark": "Harry C. Pohlman Field",
       "Lat": "42.53539",
       "Long": "-89.007947"
@@ -2265,7 +2265,7 @@
       "Class": "Single-A",
       "League": "Midwest League",
       "Team": "Clinton LumberKings",
-      "Ballpark": "Ashford University Field",
+      "Ballpark": "NelsonCorp Field",
       "Lat": "41.968056",
       "Long": "-91.686389"
     }
@@ -2279,7 +2279,7 @@
       "Class": "Single-A",
       "League": "Midwest League",
       "Team": "Kane County Cougars",
-      "Ballpark": "Fifth Third Bank Ballpark",
+      "Ballpark": "Northwestern Medicine Field",
       "Lat": "41.88065",
       "Long": "-88.281756"
     }
