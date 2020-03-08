@@ -23,11 +23,11 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | March 7, 2020 |
 | [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | March 7, 2020 |
 | [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | March 7, 2020 |
+| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | March 8, 2020 |
+| [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A) | March 8, 2020 |
 
 ## Finished (to be updated)
 
-* [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A)
-* [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A)
 * [Nippon Professional Baseball](http://www.npb.or.jp) (Japan)
 * [Korea Baseball Championship](http://www.koreabaseball.com/) (South Korea)
 * [Chinese Professional Baseball League](http://www.cpbl.com.tw)) (Taiwan)
