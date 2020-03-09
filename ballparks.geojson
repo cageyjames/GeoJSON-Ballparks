@@ -2637,15 +2637,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [121.447718, 25.041158]
+      "coordinates": [24.199722, 24.199722]
     },
     "properties": {
       "Class": "Other",
       "League": "Chinese Professional Baseball League",
-      "Team": "Chinatrust Brother Elephants",
-      "Ballpark": "Sinjhuang Baseball Stadium",
-      "Lat": "25.041158",
-      "Long": "121.447718"
+      "Team": "Chinatrust Brothers",
+      "Ballpark": "Taichung Intercontinental Baseball Stadium",
+      "Lat": "24.199722",
+      "Long": "24.199722"
     }
   }, {
     "type": "Feature",
@@ -2656,7 +2656,7 @@
     "properties": {
       "Class": "Other",
       "League": "Chinese Professional Baseball League",
-      "Team": "Lamigo Monkeys",
+      "Team": "Rakuten Monkeys",
       "Ballpark": "Taoyuan International Baseball Stadium",
       "Lat": "25.001389",
       "Long": "121.201667"
@@ -2665,15 +2665,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [120.359036, 22.654165]
+      "coordinates": [121.447718, 25.041158]
     },
     "properties": {
       "Class": "Other",
       "League": "Chinese Professional Baseball League",
-      "Team": "EDA Rhinos",
-      "Ballpark": "Chengching Lake Baseball Field",
-      "Lat": "22.654165",
-      "Long": "120.359036"
+      "Team": "Fubon Guardians",
+      "Ballpark": "Xinzhuang Baseball Stadium",
+      "Lat": "25.041158",
+      "Long": "121.447718"
     }
   }, {
     "type": "Feature",
@@ -2684,11 +2684,25 @@
     "properties": {
       "Class": "Other",
       "League": "Chinese Professional Baseball League",
-      "Team": "Uni-President",
-      "Ballpark": "7-Eleven Lions",
+      "Team": "Uni-President 7-Eleven Lions",
+      "Ballpark": "Tainan Municipal Baseball Stadium",
       "Lat": "22.980586",
       "Long": "120.205764"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.960944, 24.806611]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Chinese Professional Baseball League",
+        "Team": "Wei Chuan Dragons",
+        "Ballpark": "Hsinchu CKS Baseball Stadium",
+        "Lat": "24.806611",
+        "Long": "120.960944"
+      }
   }, {
     "type": "Feature",
     "geometry": {
