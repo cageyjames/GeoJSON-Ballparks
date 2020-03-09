@@ -2707,29 +2707,29 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [138.630556, -34.919722]
+      "coordinates": [138.508333, -34.947778]
     },
     "properties": {
       "Class": "Other",
       "League": "Australian Baseball League",
-      "Team": "Adelaide Bite",
-      "Ballpark": "Norwood Oval",
-      "Lat": "-34.919722",
-      "Long": "138.630556"
+      "Team": "Adelaide Giants",
+      "Ballpark": "Diamond Sports Stadium",
+      "Lat": "-34.947778",
+      "Long": "138.508333"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [153.032778, -27.45]
+      "coordinates": [153.011111, -27.438611]
     },
     "properties": {
       "Class": "Other",
       "League": "Australian Baseball League",
       "Team": "Brisbane Bandits",
-      "Ballpark": "Brisbane Exhibition Ground",
-      "Lat": "-27.45",
-      "Long": "153.032778"
+      "Ballpark": "Holloway Field",
+      "Lat": "-27.438611",
+      "Long": "153.011111"
     }
   }, {
     "type": "Feature",
@@ -2769,7 +2769,7 @@
       "Class": "Other",
       "League": "Australian Baseball League",
       "Team": "Perth Heat",
-      "Ballpark": "Barbagallo Ballpark",
+      "Ballpark": "Basehball Park",
       "Lat": "-32.058333",
       "Long": "115.936667"
     }
@@ -2787,6 +2787,34 @@
       "Lat": "-33.771389",
       "Long": "150.853611"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [174.701667, -36.726944]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Australian Baseball League",
+        "Team": "Auckland Tuatara",
+        "Ballpark": "North Harbour Stadium",
+        "Lat": "-36.726944",
+        "Long": "174.701667"
+      }
+      }, {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [144.322222, -38.197222]
+        },
+        "properties": {
+          "Class": "Other",
+          "League": "Australian Baseball League",
+          "Team": "Geelong-Korea",
+          "Ballpark": "Geelong-Korea",
+          "Lat": "-38.197222",
+          "Long": "144.322222"
+        }
   }, {
     "type": "Feature",
     "geometry": {
