@@ -86,3 +86,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * Summer Leagues (College) - [Example](https://gist.github.com/oeon/54626316c56a76e4db67)
 * [NCAA Baseball](https://en.wikipedia.org/wiki/College_baseball) (298 Teams!)
 * [NCAA Softball](https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_softball_programs)
+
+### Thoughts
+
+I've put some thought into fixing this dataset some more. Right now teams drive the data, not stadiums.  This should be resolved asap.  Stay tuned for more.
