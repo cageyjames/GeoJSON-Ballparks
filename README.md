@@ -27,14 +27,14 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A) | March 8, 2020 |
 | [Chinese Professional Baseball League](http://www.cpbl.com.tw)) (Taiwan) | March 8, 2020 |
 | [Australian Baseball League](http://web.theabl.com.au) (Australia) | March 8, 2020 |
+| [Alaska Baseball League](http://alaskabaseballleague.org/) (Amateur) | March 12, 2020 |
+| [Cape Cod Baseball League](http://www.capecodbaseball.org/) (Amateur) | March 12, 2020 |
+| [Nippon Professional Baseball](http://www.npb.or.jp) (Japan) | March 12, 2020 |
+| [KBO League](http://www.koreabaseball.com/) (South Korea) | March 12, 2020 |
 
 ## Finished (to be updated)
 
-* [Nippon Professional Baseball](http://www.npb.or.jp) (Japan)
-* [Korea Baseball Championship](http://www.koreabaseball.com/) (South Korea)
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)
-* [Alaska Baseball League](http://alaskabaseballleague.org/) (Amateur)
-* [Cape Cod Baseball League](http://www.capecodbaseball.org/) (Amateur)  
 * [Coastal Plain League](http://www.coastalplain.com) (Summer/Collegiate)
 * [Honkbal Hoofdklasse](http://www.honkbalsite.comve) (Netherlands)
 * [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela)

@@ -2349,7 +2349,7 @@
       "Class": "Other",
       "League": "Nippon Professional Baseball",
       "Team": "Hanshin Tigers",
-      "Ballpark": "Koshien Stadium",
+      "Ballpark": "Hanshin Koshien Stadium",
       "Lat": "34.721206",
       "Long": "135.361622"
     }
@@ -2419,7 +2419,7 @@
       "Class": "Other",
       "League": "Nippon Professional Baseball",
       "Team": "Chiba Lotte Marines",
-      "Ballpark": "QVC Marine Field",
+      "Ballpark": "ZOZO Marine Stadium",
       "Lat": "35.645239",
       "Long": "140.030922"
     }
@@ -2433,7 +2433,7 @@
       "Class": "Other",
       "League": "Nippon Professional Baseball",
       "Team": "Fukuoka SoftBank Hawks",
-      "Ballpark": "Fukuoka Yafuoku! Dome",
+      "Ballpark": "PayPay Dome",
       "Lat": "33.595322",
       "Long": "130.362078"
     }
@@ -2465,6 +2465,20 @@
       "Lat": "34.6693",
       "Long": "135.476103"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.073417, 34.680658]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Nippon Professional Baseball",
+        "Team": "Orix Buffaloes",
+        "Ballpark": "Kobe Sports Park Baseball Stadium",
+        "Lat": "34.680658",
+        "Long": "135.073417"
+      }
   }, {
     "type": "Feature",
     "geometry": {
@@ -2475,7 +2489,7 @@
       "Class": "Other",
       "League": "Nippon Professional Baseball",
       "Team": "Saitama Seibu Lions",
-      "Ballpark": "Seibu Dome",
+      "Ballpark": "MetLife Dome",
       "Lat": "35.7685",
       "Long": "139.4205"
     }
@@ -2489,7 +2503,7 @@
       "Class": "Other",
       "League": "Nippon Professional Baseball",
       "Team": "Tohoku Rakuten Golden Eagles",
-      "Ballpark": "Kleenex Stadium Miyagi",
+      "Ballpark": "Rakuten Seimei Park Miyagi",
       "Lat": "38.256206",
       "Long": "140.9025"
     }
@@ -2501,7 +2515,7 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
+      "League": "KBO League",
       "Team": "Doosan Bears",
       "Ballpark": "Jamsil Baseball Stadium",
       "Lat": "37.512389",
@@ -2515,7 +2529,7 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
+      "League": "KBO League",
       "Team": "Hanwha Eagles",
       "Ballpark": "Daejeon Hanbat Baseball Stadium",
       "Lat": "36.316944",
@@ -2529,7 +2543,7 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
+      "League": "KBO League",
       "Team": "KIA Tigers",
       "Ballpark": "Gwangju-Kia Champions Field",
       "Lat": "35.1683",
@@ -2543,9 +2557,9 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
+      "League": "KBO League",
       "Team": "Lotte Giants",
-      "Ballpark": "Sajik Baseball Stadium",
+      "Ballpark": "Busan Sajik Baseball Stadium",
       "Lat": "35.194278",
       "Long": "129.061306"
     }
@@ -2557,7 +2571,7 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
+      "League": "KBO League",
       "Team": "LG Twins",
       "Ballpark": "Jamsil Baseball Stadium",
       "Lat": "37.512389",
@@ -2567,15 +2581,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [128.581058, 35.220797]
+      "coordinates": [128.581833, 35.222444]
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
+      "League": "KBO League",
       "Team": "NC Dinos",
-      "Ballpark": "Masan Baseball Stadium",
-      "Lat": "35.220797",
-      "Long": "128.581058"
+      "Ballpark": "Changwon NC Park",
+      "Lat": "35.222444",
+      "Long": "128.581833"
     }
   }, {
     "type": "Feature",
@@ -2585,8 +2599,8 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
-      "Team": "Nexen Heroes",
+      "League": "KBO League",
+      "Team": "Kiwoom Heroes",
       "Ballpark": "Gocheok Sky Dome",
       "Lat": "37.498400",
       "Long": "126.867189"
@@ -2599,7 +2613,7 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
+      "League": "KBO League",
       "Team": "Samsung Lions",
       "Ballpark": "Daegu Samsung Lions Park",
       "Lat": "35.840833",
@@ -2613,7 +2627,7 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
+      "League": "KBO League",
       "Team": "SK Wyverns",
       "Ballpark": "Munhak Baseball Stadium",
       "Lat": "37.437111",
@@ -2627,7 +2641,7 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Korea Baseball Championship",
+      "League": "KBO League",
       "Team": "KT Wiz",
       "Ballpark": "Suwon Baseball Stadium",
       "Lat": "37.300122",
@@ -3389,6 +3403,20 @@
       "Lat": "61.205329",
       "Long": "-149.877826"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.877826, 61.205329]
+      },
+      "properties": {
+        "Class": "Amateur",
+        "League": "Alaska Baseball League",
+        "Team": "Anchorage Glacier Pilots",
+        "Ballpark": "Mulcahy Stadium",
+        "Lat": "61.205329",
+        "Long": "-149.877826"
+      }
   }, {
     "type": "Feature",
     "geometry": {
@@ -3469,7 +3497,7 @@
       "Class": "Amateur",
       "League": "Cape Cod Baseball League",
       "Team": "Falmouth Commodores",
-      "Ballpark": "Guv Fuller Field",
+      "Ballpark": "Arnie Allen Diamond at Guv Fuller Field",
       "Lat": "41.55521",
       "Long": "-70.604085"
     }
@@ -3483,7 +3511,7 @@
       "Class": "Amateur",
       "League": "Cape Cod Baseball League",
       "Team": "Hyannis Harbor Hawks",
-      "Ballpark": "McKeon Field",
+      "Ballpark": "Judy Walden Scarafile Field at McKeon Park",
       "Lat": "41.648275",
       "Long": "-70.283475"
     }
@@ -3511,7 +3539,7 @@
       "Class": "Amateur",
       "League": "Cape Cod Baseball League",
       "Team": "Brewster Whitecaps",
-      "Ballpark": "Stony Brook School",
+      "Ballpark": "Stony Brook Field",
       "Lat": "41.75827",
       "Long": "-70.070055"
     }
@@ -3567,7 +3595,7 @@
       "Class": "Amateur",
       "League": "Cape Cod Baseball League",
       "Team": "Yarmouth-Dennis Red Sox",
-      "Ballpark": "'Red' Wilson Field",
+      "Ballpark": "Red Wilson Field",
       "Lat": "41.677375",
       "Long": "-70.191855"
     }
