@@ -2651,7 +2651,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [24.199722, 24.199722]
+      "coordinates": [120.685, 24.199722]
     },
     "properties": {
       "Class": "Other",
@@ -2659,7 +2659,7 @@
       "Team": "Chinatrust Brothers",
       "Ballpark": "Taichung Intercontinental Baseball Stadium",
       "Lat": "24.199722",
-      "Long": "24.199722"
+      "Long": "120.685"
     }
   }, {
     "type": "Feature",
