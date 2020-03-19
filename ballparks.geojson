@@ -4009,15 +4009,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [116.279887, 39.739189]
+      "coordinates": [116.269389, 39.864953]
     },
     "properties": {
       "Class": "Other",
       "League": "China Baseball League",
       "Team": "Beijing Tigers",
-      "Ballpark": "Lucheng Field",
-      "Lat": "39.739189",
-      "Long": "116.279887"
+      "Ballpark": "Fengtai Softball Field",
+      "Lat": "39.864953",
+      "Long": "116.269389"
     }
   }, {
     "type": "Feature",
@@ -4070,7 +4070,7 @@
     "properties": {
       "Class": "Other",
       "League": "China Baseball League",
-      "Team": "Jiangsu Huge Horses",
+      "Team": "Jiangsu Pegasus",
       "Ballpark": "Jiangsu Wuxi Baseball Stadium",
       "Lat": "31.532140",
       "Long": "120.380672"
