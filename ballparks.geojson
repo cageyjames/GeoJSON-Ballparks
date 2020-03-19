@@ -3607,7 +3607,7 @@
     },
     "properties": {
       "Class": "Summer ",
-      "League": "Coastal Plain League",
+      "League": "Tidewater Summer League",
       "Team": "Edenton Steamers",
       "Ballpark": "Hicks Field",
       "Lat": "36.0653",
@@ -3621,7 +3621,7 @@
     },
     "properties": {
       "Class": "Summer ",
-      "League": "Coastal Plain League",
+      "League": "Inactive",
       "Team": "Fayetteville SwampDogs",
       "Ballpark": "J.P. Riddle Stadium",
       "Lat": "35.0081",
@@ -3637,7 +3637,7 @@
       "Class": "Summer",
       "League": "Coastal Plain League",
       "Team": "Morehead City Marlins",
-      "Ballpark": "Big Rock Stadium",
+      "Ballpark": "O'Neal Field at Big Rock Stadium",
       "Lat": "34.7376",
       "Long": "-76.7356"
     }
@@ -3659,15 +3659,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-77.3947119712829, 37.1820312638175]
+      "coordinates": [-77.415964, 37.248894]
     },
     "properties": {
       "Class": "Summer",
       "League": "Coastal Plain League",
-      "Team": "Petersburg Generals",
-      "Ballpark": "Petersburg Sports Complex",
-      "Lat": "37.1820",
-      "Long": "-77.3947"
+      "Team": "Tri-City Chili Peppers",
+      "Ballpark": "Shepard Stadium",
+      "Lat": "37.248894",
+      "Long": "-77.415964"
     }
   }, {
     "type": "Feature",
@@ -3679,7 +3679,7 @@
       "Class": "Summer",
       "League": "Coastal Plain League",
       "Team": "Wilmington Sharks",
-      "Ballpark": "Buck Hardee Field",
+      "Ballpark": "Buck Hardee Field at Legion Stadium",
       "Lat": "34.2034",
       "Long": "-77.9369"
     }
@@ -3763,7 +3763,7 @@
       "Class": "Summer",
       "League": "Coastal Plain League",
       "Team": "Gastonia Grizzlies",
-      "Ballpark": "Sims Legion Park",
+      "Ballpark": "Buddy Lewis Field at Sims Legion Park",
       "Lat": "35.2800",
       "Long": "-81.1839"
     }
@@ -3790,11 +3790,53 @@
     "properties": {
       "Class": "Summer",
       "League": "Coastal Plain League",
-      "Team": "Thomasville HiToms",
-      "Ballpark": "Finch Field",
+      "Team": "High Point-Thomasville HiToms",
+      "Ballpark": "Historic Finch Field",
       "Lat": "35.9128",
       "Long": "-80.0624"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.836459, 35.667763]
+      },
+      "properties": {
+        "Class": "Summer",
+        "League": "Coastal Plain League",
+        "Team": "Holly Springs Salamanders",
+        "Ballpark": "Ting Park",
+        "Lat": "35.667763",
+        "Long": "-78.836459"
+      }
+      }, {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-83.614167, 32.828889]
+        },
+        "properties": {
+          "Class": "Summer",
+          "League": "Coastal Plain League",
+          "Team": "Macon Bacon",
+          "Ballpark": "Luther Williams Field",
+          "Lat": "32.828889",
+          "Long": "-83.614167"
+        }
+        }, {
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [-81.078889, 32.044722]
+          },
+          "properties": {
+            "Class": "Summer",
+            "League": "Coastal Plain League",
+            "Team": "Savannah Bananas",
+            "Ballpark": "Grayson Stadium",
+            "Lat": "32.044722",
+            "Long": "-81.078889"
+          }
   }, {
     "type": "Feature",
     "geometry": {
