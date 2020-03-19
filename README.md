@@ -31,6 +31,8 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Cape Cod Baseball League](http://www.capecodbaseball.org/) (Amateur) | March 12, 2020 |
 | [Nippon Professional Baseball](http://www.npb.or.jp) (Japan) | March 12, 2020 |
 | [KBO League](http://www.koreabaseball.com/) (South Korea) | March 12, 2020 |
+| [Pac-12 Conference Baseball](http://pac-12.com/sport/baseball) (College) | March 18, 2020 |
+| [China Baseball League](https://en.wikipedia.org/wiki/China_Baseball_League) (China) | March 18, 2020 |
 
 ## Finished (to be updated)
 
@@ -38,7 +40,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Coastal Plain League](http://www.coastalplain.com) (Summer/Collegiate)
 * [Honkbal Hoofdklasse](http://www.honkbalsite.comve) (Netherlands)
 * [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela)
-* [China Baseball League](https://en.wikipedia.org/wiki/China_Baseball_League) (China)
 * [Pecos League](http://pecosleague.com/) (Independent)
 * [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic)
 * [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico)
@@ -56,7 +57,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
 * [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
 * [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
-* [Pac-12 Conference Baseball](http://pac-12.com/sport/baseball) (College)
 * [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
 * [Frontier League](http://www.frontierleague.com/) (Independent)
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
