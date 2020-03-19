@@ -3813,15 +3813,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [4.630765, 52.408196]
+      "coordinates": [5.3998035, 52.1415096]
     },
     "properties": {
       "Class": "Other",
       "League": "Honkbal Hoofdklasse",
-      "Team": "Corendon Kinheim",
-      "Ballpark": "Pim Mulier Stadium",
-      "Lat": "52.408196",
-      "Long": "4.630765"
+      "Team": "Quick Amersfoort",
+      "Ballpark": "XL Lease Park Dorrestein",
+      "Lat": "52.1415096",
+      "Long": "5.3998035"
     }
   }, {
     "type": "Feature",
@@ -3841,57 +3841,57 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [4.799491, 52.367093]
+      "coordinates": [4.799364, 52.366977]
     },
     "properties": {
       "Class": "Other",
       "League": "Honkbal Hoofdklasse",
       "Team": "L&D Amsterdam Pirates",
-      "Ballpark": "Pirates Playground, Sportpark Ookmee",
-      "Lat": "52.367093",
-      "Long": "4.799491"
+      "Ballpark": "Sportpark Ookmee",
+      "Lat": "52.366977",
+      "Long": "4.799364"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [4.688890, 51.799604]
+      "coordinates": [4.859485, 51.655958]
     },
     "properties": {
       "Class": "Other",
       "League": "Honkbal Hoofdklasse",
-      "Team": "Mampaey The Hawks",
-      "Ballpark": "Sportpark Krommedijk",
-      "Lat": "51.799604",
-      "Long": "4.688890"
+      "Team": "Twins Oosterhout",
+      "Ballpark": "Slotbosse toren Park",
+      "Lat": "51.655958",
+      "Long": "4.859485"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [5.167921, 52.261233]
+      "coordinates": [5.168217, 52.261126]
     },
     "properties": {
       "Class": "Other",
       "League": "Honkbal Hoofdklasse",
-      "Team": "Mr Cocker HCAW",
-      "Ballpark": "Baseball Valley",
-      "Lat": "52.261233",
-      "Long": "5.167921"
+      "Team": "HCAW",
+      "Ballpark": "Rob Hoffmann Vallei",
+      "Lat": "52.261126",
+      "Long": "5.168217"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [5.035137, 52.094415]
+      "coordinates": [4.219220, 52.062652]
     },
     "properties": {
       "Class": "Other",
       "League": "Honkbal Hoofdklasse",
-      "Team": "UVV Utrecht",
-      "Ballpark": "UVV Stadium",
-      "Lat": "52.094415",
-      "Long": "5.035137"
+      "Team": "Silicon Storks",
+      "Ballpark": "Sportpark Kijkduin-Schapenatjesduin",
+      "Lat": "52.062652",
+      "Long": "4.219220"
     }
   }, {
     "type": "Feature",

@@ -33,12 +33,12 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [KBO League](http://www.koreabaseball.com/) (South Korea) | March 12, 2020 |
 | [Pac-12 Conference Baseball](http://pac-12.com/sport/baseball) (College) | March 18, 2020 |
 | [China Baseball League](https://en.wikipedia.org/wiki/China_Baseball_League) (China) | March 18, 2020 |
+| [Honkbal Hoofdklasse](http://www.honkbalsite.com) (Netherlands) | March 18, 2020 |
 
 ## Finished (to be updated)
 
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)
 * [Coastal Plain League](http://www.coastalplain.com) (Summer/Collegiate)
-* [Honkbal Hoofdklasse](http://www.honkbalsite.comve) (Netherlands)
 * [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela)
 * [Pecos League](http://pecosleague.com/) (Independent)
 * [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic)
