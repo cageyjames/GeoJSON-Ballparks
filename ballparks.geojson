@@ -3958,11 +3958,25 @@
     "properties": {
       "Class": "Other",
       "League": "Venezuelan Professional Baseball League",
-      "Team": "Leones del Caracas and Tiburones de La Guaira",
-      "Ballpark": "Estadio Universitario de Caracas UCV",
+      "Team": "Tiburones de La Guaira",
+      "Ballpark": "Estadio Universitario",
       "Lat": "10.48977",
       "Long": "-66.88368"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.88368, 10.48977]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Venezuelan Professional Baseball League",
+        "Team": "Leones del Caracas",
+        "Ballpark": "Estadio Universitario",
+        "Lat": "10.48977",
+        "Long": "-66.88368"
+      }
   }, {
     "type": "Feature",
     "geometry": {
@@ -4029,7 +4043,7 @@
       "Class": "Other",
       "League": "Venezuelan Professional Baseball League",
       "Team": "Navegantes del Magallanes",
-      "Ballpark": "Estadio José Bernardo Pérez de Valencia",
+      "Ballpark": "Estadio José Bernardo Pérez",
       "Lat": "10.17528",
       "Long": "-67.97983"
     }
