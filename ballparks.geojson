@@ -4163,15 +4163,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-98.798990, 38.369645]
+      "coordinates": [-119.022384, 35.397556]
     },
     "properties": {
       "Class": "Independent",
       "League": "Pecos League",
-      "Team": "Great Bend Boom",
-      "Ballpark": "Al Burns Memorial Field",
-      "Lat": "38.369645",
-      "Long": "-98.798990"
+      "Team": "Bakersfield Train Robbers",
+      "Ballpark": "Sam Lynn Ballpark",
+      "Lat": "35.397556",
+      "Long": "-119.022384"
     }
   }, {
     "type": "Feature",
@@ -4183,7 +4183,7 @@
       "Class": "Independent",
       "League": "Pecos League",
       "Team": "Santa Fe Fuego",
-      "Ballpark": "Fort Marcy Park",
+      "Ballpark": "Fort Marcy Ballfield",
       "Lat": "35.695790",
       "Long": "-105.934922"
     }
@@ -4191,15 +4191,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-95.615635, 39.012596]
+      "coordinates": [-122.133166, 38.022410]
     },
     "properties": {
       "Class": "Independent",
       "League": "Pecos League",
-      "Team": "Topeka Train Robbers",
-      "Ballpark": "Lake Shawnee Park",
-      "Lat": "39.012596",
-      "Long": "-95.615635"
+      "Team": "Martinez Sturgeon",
+      "Ballpark": "Waterfront Park",
+      "Lat": "38.022410",
+      "Long": "-122.133166"
     }
   }, {
     "type": "Feature",
@@ -4211,7 +4211,7 @@
       "Class": "Independent",
       "League": "Pecos League",
       "Team": "Trinidad Triggers",
-      "Ballpark": "Trinidad Central Park",
+      "Ballpark": "Central Park",
       "Lat": "37.167176",
       "Long": "-104.517213"
     }
@@ -4219,29 +4219,29 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-110.933367, 32.176675]
+      "coordinates": [-110.974599, 32.270826]
     },
     "properties": {
       "Class": "Independent",
       "League": "Pecos League",
       "Team": "Tucson Saguaros",
-      "Ballpark": "Kino Veterans Memorial Stadium",
-      "Lat": "32.176675",
-      "Long": "-110.933367"
+      "Ballpark": "Amphitheater High School Ballfield",
+      "Lat": "32.270826",
+      "Long": "-110.974599"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-109.879722, 31.410556]
+      "coordinates": [-121.885751, 36.597419]
     },
     "properties": {
       "Class": "Independent",
       "League": "Pecos League",
-      "Team": "Tucson Saguaros",
-      "Ballpark": "Warren Ballpark",
-      "Lat": "31.410556",
-      "Long": "-109.879722"
+      "Team": "Monterey Amberjacks",
+      "Ballpark": "Frank E. Sollecito, Jr. Ballpark",
+      "Lat": "36.597419",
+      "Long": "-121.885751"
     }
   }, {
     "type": "Feature",
@@ -4261,16 +4261,30 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-106.775985, 32.329624]
+      "coordinates": [-122.036727, 36.982978]
     },
     "properties": {
       "Class": "Independent",
       "League": "Pecos League",
-      "Team": "Las Cruces Vaqueros",
-      "Ballpark": "Apodoca Park",
-      "Lat": "32.329624",
-      "Long": "-106.775985"
+      "Team": "Santa Cruz Seaweed",
+      "Ballpark": "Harvey West Park",
+      "Lat": "36.982978",
+      "Long": "-122.036727"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.352978, 35.595489]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Pecos League",
+        "Team": "Wasco Reserve",
+        "Ballpark": "Wasco Ballpark",
+        "Lat": "35.595489",
+        "Long": "-119.352978"
+      }
   }, {
     "type": "Feature",
     "geometry": {
@@ -4295,10 +4309,24 @@
       "Class": "Independent",
       "League": "Pecos League",
       "Team": "White Sands PupFish",
-      "Ballpark": "Griggs Sports Complex",
+      "Ballpark": "Jim Griggs Park",
       "Lat": "32.929164",
       "Long": "-105.948705"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.660067, 33.356407]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Pecos League",
+        "Team": "Ruidoso Osos",
+        "Ballpark": "White Mountain Park",
+        "Lat": "33.356407",
+        "Long": "-105.660067"
+      }
   }, {
     "type": "Feature",
     "geometry": {
@@ -5301,7 +5329,7 @@
     },
     "properties": {
       "Class": "Independent",
-      "League": "Pacific Association of Professional Baseball Clubs",
+      "League": "Pecos League",
       "Team": "San Rafael Pacifics",
       "Ballpark": "Albert Park",
       "Lat": "37.969030",
