@@ -41,7 +41,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 ## Finished (to be updated)
 
-* [Pecos League](http://pecosleague.com/) (Independent)
 * [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic)
 * [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico)
 * [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico)
