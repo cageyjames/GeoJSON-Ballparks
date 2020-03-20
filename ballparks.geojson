@@ -4645,10 +4645,24 @@
       "Class": "Other",
       "League": "Colombian Professional Baseball League",
       "Team": "Caimanes de Barranquilla",
-      "Ballpark": "Estadio Tomás Arrieta",
-      "Lat": "10.995759",
-      "Long": "-74.784055"
+      "Ballpark": "Estadio Édgar Rentería",
+      "Lat": "10.995452",
+      "Long": "-74.784413"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.784055, 10.995759]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Colombian Professional Baseball League",
+        "Team": "Gigantes de Barranquilla",
+        "Ballpark": "Estadio Édgar Rentería",
+        "Lat": "10.995452",
+        "Long": "-74.784413"
+      }
   }, {
     "type": "Feature",
     "geometry": {
@@ -4672,7 +4686,7 @@
     "properties": {
       "Class": "Other",
       "League": "Colombian Professional Baseball League",
-      "Team": "Leones de Montería",
+      "Team": "Vaqueros de Montería",
       "Ballpark": "Estadio 18 de Junio",
       "Lat": "8.765967",
       "Long": "-75.867827"
@@ -4681,15 +4695,29 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-75.409067, 3.422060]
+      "coordinates": [-75.408855, 9.278536]
     },
     "properties": {
       "Class": "Other",
       "League": "Colombian Professional Baseball League",
-      "Team": "Toros de Cali",
-      "Ballpark": "Miguel Chávez del Valle",
-      "Lat": "3.422060",
-      "Long": "-75.409067"
+      "Team": "Toros de Sincelojo",
+      "Ballpark": "Estadio 20 de Enero",
+      "Lat": "9.278536",
+      "Long": "-75.408855"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.192932, 11.237543]
+    },
+    "properties": {
+      "Class": "Other",
+      "League": "Colombian Professional Baseball League",
+      "Team": "Leones de Santa Marta",
+      "Ballpark": "Estadio La Esperanza",
+      "Lat": "11.237543",
+      "Long": "-74.192932"
     }
   }, {
     "type": "Feature",
@@ -4699,25 +4727,11 @@
     },
     "properties": {
       "Class": "Other",
-      "League": "Colombian Professional Baseball League",
-      "Team": "Potros de Medellín",
+      "League": "N/A",
+      "Team": "N/A",
       "Ballpark": "Luis Alberto Villegas",
       "Lat": "6.259444",
       "Long": "-75.59"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-74.0975, 4.662778]
-    },
-    "properties": {
-      "Class": "Other",
-      "League": "Colombian Professional Baseball League",
-      "Team": "Águilas de Bogotá",
-      "Ballpark": "Estadio Distrital Hermes Barros Cabas",
-      "Lat": "4.662778",
-      "Long": "-74.0975"
     }
   }, {
     "type": "Feature",

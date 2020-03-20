@@ -36,6 +36,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Honkbal Hoofdklasse](http://www.honkbalsite.com) (Netherlands) | March 18, 2020 |
 | [Coastal Plain League](http://www.coastalplain.com) (Summer/Collegiate) | March 19, 2020 |
 | [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela) | March 19, 2020 |
+| [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia) | March 19, 2020 |
 
 ## Finished (to be updated)
 
@@ -45,7 +46,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico)
 * [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico)
 * [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) (Philippines)
-* [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia)
 * [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua)
 * [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
 * [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba)
