@@ -4611,15 +4611,15 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [-108.475933, 25.581397]
+          "coordinates": [-108.476245, 25.581045]
         },
         "properties": {
           "Class": "Other",
           "League": "Mexican Pacific League",
           "Team": "Algodoneros de Guasave",
           "Ballpark": "Estadio Francisco Carranza Limón",
-          "Lat": "25.581397",
-          "Long": "-108.475933"
+          "Lat": "25.581045",
+          "Long": "-108.476245"
         }
   }, {
     "type": "Feature",
