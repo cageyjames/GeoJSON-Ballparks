@@ -46,7 +46,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 ## Finished (to be updated)
 
-* [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
+* [Frontier League](http://www.frontierleague.com/) (Independent)
 * [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba)
 * [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama)
 * [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
@@ -57,7 +57,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
 * [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
 * [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
-* [Frontier League](http://www.frontierleague.com/) (Independent)
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)
 
@@ -80,6 +79,12 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Honkbal Rookie League](https://en.wikipedia.org/wiki/Honkbal_Rookie_League) (Netherlands)
 * [Greater Brisbane League](https://en.wikipedia.org/wiki/Greater_Brisbane_League) (Australia)
 * [New South Wales Major League](https://en.wikipedia.org/wiki/New_South_Wales_Major_League) (Australia)
+
+### Defunct
+
+| League  | Status |
+| ------------- | ------------- |
+| [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent) | Merged with Frontier League in 2019 |
 
 ### Suggestions
 

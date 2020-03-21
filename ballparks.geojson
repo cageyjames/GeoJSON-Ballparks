@@ -4863,90 +4863,6 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-74.195247, 40.868734]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Canadian American Association of Professional Baseball",
-      "Team": "New Jersey Jackals",
-      "Ballpark": "Yogi Berra Stadium",
-      "Lat": "40.868734",
-      "Long": "-74.195247"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-75.653569, 45.420142]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Canadian American Association of Professional Baseball",
-      "Team": "Ottawa Champions",
-      "Ballpark": "Raymond Chabot Grant Thornton Park",
-      "Lat": "45.420142",
-      "Long": "-75.653569"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-71.233497, 46.818611]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Canadian American Association of Professional Baseball",
-      "Team": "Québec Capitales",
-      "Ballpark": "Stade Municipal",
-      "Lat": "46.818611",
-      "Long": "-71.233497"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-74.037, 41.17]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Canadian American Association of Professional Baseball",
-      "Team": "Rockland Boulders",
-      "Ballpark": "Provident Bank Park",
-      "Lat": "41.17",
-      "Long": "-74.037"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-74.710122, 41.125917]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Canadian American Association of Professional Baseball",
-      "Team": "Sussex County Miners",
-      "Ballpark": "Skylands Stadium",
-      "Lat": "41.125917",
-      "Long": "-74.710122"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-72.556389, 46.347778]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Canadian American Association of Professional Baseball",
-      "Team": "Trois-Rivières Aigles",
-      "Ballpark": "Stade Fernand-Bédard",
-      "Lat": "46.347778",
-      "Long": "-72.556389"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
       "coordinates": [-82.809722, 21.882222]
     },
     "properties": {
@@ -6623,6 +6539,174 @@
       "Lat": "37.745964",
       "Long": "-88.960397"
     }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.195247, 40.868734]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "New Jersey Jackals",
+      "Ballpark": "Yogi Berra Stadium",
+      "Lat": "40.868734",
+      "Long": "-74.195247"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.653569, 45.420142]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Ottawa Champions",
+      "Ballpark": "Raymond Chabot Grant Thornton Park",
+      "Lat": "45.420142",
+      "Long": "-75.653569"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.233497, 46.818611]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Québec Capitales",
+      "Ballpark": "Stade Municipal",
+      "Lat": "46.818611",
+      "Long": "-71.233497"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.037, 41.17]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Rockland Boulders",
+      "Ballpark": "Provident Bank Park",
+      "Lat": "41.17",
+      "Long": "-74.037"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.710122, 41.125917]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Sussex County Miners",
+      "Ballpark": "Skylands Stadium",
+      "Lat": "41.125917",
+      "Long": "-74.710122"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.556389, 46.347778]
+    },
+    "properties": {
+      "Class": "Independent",
+      "League": "Frontier League",
+      "Team": "Trois-Rivières Aigles",
+      "Ballpark": "Stade Fernand-Bédard",
+      "Lat": "46.347778",
+      "Long": "-72.556389"
+    }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.195247, 40.868734]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Frontier League",
+        "Team": "New Jersey Jackals",
+        "Ballpark": "Yogi Berra Stadium",
+        "Lat": "40.868734",
+        "Long": "-74.195247"
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.653569, 45.420142]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Frontier League",
+        "Team": "Ottawa Champions",
+        "Ballpark": "Raymond Chabot Grant Thornton Park",
+        "Lat": "45.420142",
+        "Long": "-75.653569"
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.233497, 46.818611]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Frontier League",
+        "Team": "Québec Capitales",
+        "Ballpark": "Stade Municipal",
+        "Lat": "46.818611",
+        "Long": "-71.233497"
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.037, 41.17]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Frontier League",
+        "Team": "Rockland Boulders",
+        "Ballpark": "Provident Bank Park",
+        "Lat": "41.17",
+        "Long": "-74.037"
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.710122, 41.125917]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Frontier League",
+        "Team": "Sussex County Miners",
+        "Ballpark": "Skylands Stadium",
+        "Lat": "41.125917",
+        "Long": "-74.710122"
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.556389, 46.347778]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Frontier League",
+        "Team": "Trois-Rivières Aigles",
+        "Ballpark": "Stade Fernand-Bédard",
+        "Lat": "46.347778",
+        "Long": "-72.556389"
+      }
   }, {
     "type": "Feature",
     "geometry": {
