@@ -4849,15 +4849,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-85.963968, 11.937717]
+      "coordinates": [-86.881426, 12.445569]
     },
     "properties": {
       "Class": "Other",
       "League": "Nicaraguan Professional Baseball League",
-      "Team": "Orientales de Granada",
-      "Ballpark": "Estadio Roque Tadeo Zavala",
-      "Lat": "11.937717",
-      "Long": "-85.963968"
+      "Team": "Leones de León",
+      "Ballpark": "Estadio Héroes y Mártires de Septiembre",
+      "Lat": "12.445569",
+      "Long": "-86.881426"
     }
   }, {
     "type": "Feature",
