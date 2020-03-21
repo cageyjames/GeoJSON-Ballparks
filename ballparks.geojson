@@ -4491,7 +4491,7 @@
       "Class": "Other",
       "League": "Mexican Pacific League",
       "Team": "Tomateros de Culiacán",
-      "Ballpark": "Estadio BBVA Bancomer",
+      "Ballpark": "Estadio Tomateros",
       "Lat": "24.798994",
       "Long": "-107.390803"
     }
@@ -4499,15 +4499,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-103.381503, 20.727471]
+      "coordinates": [-103.381528, 20.727361]
     },
     "properties": {
       "Class": "Other",
       "League": "Mexican Pacific League",
       "Team": "Charros de Jalisco",
-      "Ballpark": "Estadio Telmex de Atletismo",
-      "Lat": "20.727471",
-      "Long": "-103.381503"
+      "Ballpark": "Estadio de Béisbol Charros de Jalisco y Atletismo",
+      "Lat": "20.727361",
+      "Long": "-103.381528"
     }
   }, {
     "type": "Feature",
@@ -4541,15 +4541,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-109.954472, 27.492747]
+      "coordinates": [-109.950522, 27.527332]
     },
     "properties": {
       "Class": "Other",
       "League": "Mexican Pacific League",
       "Team": "Yaquis de Obregón",
-      "Ballpark": "Estadio Tomás Oroz Gaytán",
-      "Lat": "27.492747",
-      "Long": "-109.954472"
+      "Ballpark": "Estadio Yaquis",
+      "Lat": "27.527332",
+      "Long": "-109.950522"
     }
   }, {
     "type": "Feature",
@@ -4593,6 +4593,34 @@
       "Lat": "25.803039",
       "Long": "-108.974661"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100.31575, 25.718517]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Mexican Pacific League",
+        "Team": "Sultanes de Monterrey",
+        "Ballpark": "Mobil Super",
+        "Lat": "25.718517",
+        "Long": "-100.31575"
+      }
+      }, {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-108.475933, 25.581397]
+        },
+        "properties": {
+          "Class": "Other",
+          "League": "Mexican Pacific League",
+          "Team": "Algodoneros de Guasave",
+          "Ballpark": "Estadio Francisco Carranza Limón",
+          "Lat": "25.581397",
+          "Long": "-108.475933"
+        }
   }, {
     "type": "Feature",
     "geometry": {

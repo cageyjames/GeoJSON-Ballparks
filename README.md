@@ -40,10 +40,10 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Pecos League](http://pecosleague.com/) (Independent) | March 20, 2020 |
 | [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic) | March 20, 2020 |
 | [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico) | March 20, 2020 |
+| [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico) | March 21, 2020 |
 
 ## Finished (to be updated)
 
-* [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico)
 * [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) (Philippines)
 * [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua)
 * [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent)
