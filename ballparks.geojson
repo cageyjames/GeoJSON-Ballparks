@@ -4467,6 +4467,20 @@
       "Lat": "18.416667",
       "Long": "-66.073056"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.146389, 18.437222]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Liga de Béisbol Profesional Roberto Clemente",
+        "Team": "Tiburones de Aguadilla",
+        "Ballpark": "Luis A. Canena Marquez Stadium",
+        "Lat": "18.437222",
+        "Long": "-67.146389"
+      }
   }, {
     "type": "Feature",
     "geometry": {
