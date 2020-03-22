@@ -4953,7 +4953,7 @@
       "Class": "Other",
       "League": "Cuban National Series",
       "Team": "Artemisa",
-      "Ballpark": "Estadio de Guanajay",
+      "Ballpark": "Estadio 26 de Julio",
       "Lat": "22.924807",
       "Long": "-82.674049"
     }
@@ -5068,20 +5068,6 @@
       "Ballpark": "Calixto García Íñiguez Stadium",
       "Lat": "20.8875",
       "Long": "-76.244722"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-75.812222, 20.034444]
-    },
-    "properties": {
-      "Class": "Other",
-      "League": "Cuban National Series",
-      "Team": "Santiago de Cuba",
-      "Ballpark": "Estadio Guillermón Moncada",
-      "Lat": "20.034444",
-      "Long": "-75.812222"
     }
   }, {
     "type": "Feature",
