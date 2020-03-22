@@ -6381,7 +6381,7 @@
       "Class": "Independent",
       "League": "Frontier League",
       "Team": "Joliet Slammers",
-      "Ballpark": "Silver Cross Field",
+      "Ballpark": "DuPage Medical Group Field",
       "Lat": "41.525711",
       "Long": "-88.0779"
     }
@@ -6395,7 +6395,7 @@
       "Class": "Independent",
       "League": "Frontier League",
       "Team": "Lake Erie Crushers",
-      "Ballpark": "All Pro Freight Stadium",
+      "Ballpark": "Crushers Stadium",
       "Lat": "41.46373",
       "Long": "-82.058473"
     }
@@ -6409,23 +6409,9 @@
       "Class": "Independent",
       "League": "Frontier League",
       "Team": "Schaumburg Boomers",
-      "Ballpark": "Schaumburg Boomers Stadium",
+      "Ballpark": "Boomers Stadium",
       "Lat": "41.992828",
       "Long": "-88.118089"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-85.660615, 44.68173]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Frontier League",
-      "Team": "Traverse City Beach Bums",
-      "Ballpark": "Wuerfel Park",
-      "Lat": "44.68173",
-      "Long": "-85.660615"
     }
   }, {
     "type": "Feature",
@@ -6437,7 +6423,7 @@
       "Class": "Independent",
       "League": "Frontier League",
       "Team": "Washington Wild Things",
-      "Ballpark": "Consol Energy Park",
+      "Ballpark": "Wild Things Park",
       "Lat": "40.154167",
       "Long": "-80.283611"
     }
@@ -6451,7 +6437,7 @@
       "Class": "Independent",
       "League": "Frontier League",
       "Team": "Windy City ThunderBolts",
-      "Ballpark": "Standard Bank Stadium",
+      "Ballpark": "Ozinga Field",
       "Lat": "41.637056",
       "Long": "-87.731688"
     }
@@ -6478,7 +6464,7 @@
     "properties": {
       "Class": "Independent",
       "League": "Frontier League",
-      "Team": "Florence Freedom",
+      "Team": "Florence Y'alls",
       "Ballpark": "UC Health Stadium",
       "Lat": "38.982156",
       "Long": "-84.638479"
@@ -6496,34 +6482,6 @@
       "Ballpark": "GCS Ballpark",
       "Lat": "38.566042",
       "Long": "-90.13583"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-89.004148, 40.534251]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Frontier League",
-      "Team": "Normal CornBelters",
-      "Ballpark": "The Corn Crib",
-      "Lat": "40.534251",
-      "Long": "-89.004148"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-90.680337, 38.820518]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Frontier League",
-      "Team": "River City Rascals",
-      "Ballpark": "T. R. Hughes Ballpark",
-      "Lat": "38.820518",
-      "Long": "-90.680337"
     }
   }, {
     "type": "Feature",
@@ -6557,27 +6515,13 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-75.653569, 45.420142]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Frontier League",
-      "Team": "Ottawa Champions",
-      "Ballpark": "Raymond Chabot Grant Thornton Park",
-      "Lat": "45.420142",
-      "Long": "-75.653569"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
       "coordinates": [-71.233497, 46.818611]
     },
     "properties": {
       "Class": "Independent",
       "League": "Frontier League",
       "Team": "Québec Capitales",
-      "Ballpark": "Stade Municipal",
+      "Ballpark": "Stade Canac",
       "Lat": "46.818611",
       "Long": "-71.233497"
     }
@@ -6590,8 +6534,8 @@
     "properties": {
       "Class": "Independent",
       "League": "Frontier League",
-      "Team": "Rockland Boulders",
-      "Ballpark": "Provident Bank Park",
+      "Team": "New York Boulders",
+      "Ballpark": "Palisades Credit Union Park",
       "Lat": "41.17",
       "Long": "-74.037"
     }
@@ -6619,94 +6563,10 @@
       "Class": "Independent",
       "League": "Frontier League",
       "Team": "Trois-Rivières Aigles",
-      "Ballpark": "Stade Fernand-Bédard",
+      "Ballpark": "Stade Quillorama",
       "Lat": "46.347778",
       "Long": "-72.556389"
     }
-    }, {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.195247, 40.868734]
-      },
-      "properties": {
-        "Class": "Independent",
-        "League": "Frontier League",
-        "Team": "New Jersey Jackals",
-        "Ballpark": "Yogi Berra Stadium",
-        "Lat": "40.868734",
-        "Long": "-74.195247"
-      }
-    }, {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.653569, 45.420142]
-      },
-      "properties": {
-        "Class": "Independent",
-        "League": "Frontier League",
-        "Team": "Ottawa Champions",
-        "Ballpark": "Raymond Chabot Grant Thornton Park",
-        "Lat": "45.420142",
-        "Long": "-75.653569"
-      }
-    }, {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.233497, 46.818611]
-      },
-      "properties": {
-        "Class": "Independent",
-        "League": "Frontier League",
-        "Team": "Québec Capitales",
-        "Ballpark": "Stade Municipal",
-        "Lat": "46.818611",
-        "Long": "-71.233497"
-      }
-    }, {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.037, 41.17]
-      },
-      "properties": {
-        "Class": "Independent",
-        "League": "Frontier League",
-        "Team": "Rockland Boulders",
-        "Ballpark": "Provident Bank Park",
-        "Lat": "41.17",
-        "Long": "-74.037"
-      }
-    }, {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.710122, 41.125917]
-      },
-      "properties": {
-        "Class": "Independent",
-        "League": "Frontier League",
-        "Team": "Sussex County Miners",
-        "Ballpark": "Skylands Stadium",
-        "Lat": "41.125917",
-        "Long": "-74.710122"
-      }
-    }, {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-72.556389, 46.347778]
-      },
-      "properties": {
-        "Class": "Independent",
-        "League": "Frontier League",
-        "Team": "Trois-Rivières Aigles",
-        "Ballpark": "Stade Fernand-Bédard",
-        "Lat": "46.347778",
-        "Long": "-72.556389"
-      }
   }, {
     "type": "Feature",
     "geometry": {
@@ -6875,5 +6735,19 @@
       "Lat": "33.627778",
       "Long": "-112.377778"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.004148, 40.534251]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Prospect League",
+        "Team": "Normal CornBelters",
+        "Ballpark": "The Corn Crib",
+        "Lat": "40.534251",
+        "Long": "-89.004148"
+      }
   }]
 }
