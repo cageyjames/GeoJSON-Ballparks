@@ -46,7 +46,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Frontier League](http://www.frontierleague.com/) (Independent) | March 22, 2020 |
 | [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba) | March 22, 2020 |
 | [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama) | March 22, 2020 |
-| [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent) | March 22, 2020 |
+| [Pacific Association of Professional Baseball Clubs](http://pacproclubs.pointstreaksites.com/view/pacproclubs/) (Independent) | March 22, 2020 |
 
 ## Finished (to be updated)
 
