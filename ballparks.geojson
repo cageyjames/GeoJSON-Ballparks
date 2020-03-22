@@ -5092,24 +5092,24 @@
     "properties": {
       "Class": "Other",
       "League": "Panamanian Professional Baseball League",
-      "Team": "Indios de Veraguas",
-      "Ballpark": "Estadio Omar Torrijos Herrera",
-      "Lat": "8.106940",
+      "Team": "Astronautas de Chiriquí",
+      "Ballpark": "Kenny Serracín Stadium",
+      "Lat": "8.444333",
       "Long": "-80.975920"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-80.357427, 8.491685]
+      "coordinates": [-80.431312, 7.961713]
     },
     "properties": {
       "Class": "Other",
       "League": "Panamanian Professional Baseball League",
-      "Team": "Caballos de Coclé",
-      "Ballpark": "Estadio de Penonomé",
-      "Lat": "8.491685",
-      "Long": "-80.357427"
+      "Team": "Toros de Herrera",
+      "Ballpark": "Rico Cedeño Stadium",
+      "Lat": "7.961713",
+      "Long": "-80.431312"
     }
   }, {
     "type": "Feature",
@@ -5134,10 +5134,10 @@
     "properties": {
       "Class": "Other",
       "League": "Panamanian Professional Baseball League",
-      "Team": "Nacionales de Panamá",
-      "Ballpark": "Estadio Nacional Rodney Carew",
-      "Lat": "9.041311",
-      "Long": "-79.5453"
+      "Team": "Federales de Chiriquí",
+      "Ballpark": "Kenny Serracín Stadium",
+      "Lat": "8.444333",
+      "Long": "-80.975920"
     }
   }, {
     "type": "Feature",
