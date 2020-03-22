@@ -5255,20 +5255,6 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-121.889241, 38.022001]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Pacific Association of Professional Baseball Clubs",
-      "Team": "Pittsburg Diamonds",
-      "Ballpark": "City Park Field #1",
-      "Lat": "38.022001",
-      "Long": "-121.889241"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
       "coordinates": [-122.528109, 37.969030]
     },
     "properties": {
@@ -5307,6 +5293,34 @@
       "Lat": "38.096513",
       "Long": "-122.244400"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.275556, 38.274722]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Pacific Association of Professional Baseball Clubs",
+        "Team": "Napa Silverados",
+        "Ballpark": "NVC Storm Field",
+        "Lat": "38.274722",
+        "Long": "-122.275556"
+      }
+      }, {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.013578, 38.281106]
+        },
+        "properties": {
+          "Class": "Independent",
+          "League": "Pacific Association of Professional Baseball Clubs",
+          "Team": "California Dogecoin",
+          "Ballpark": "Laurel Creek Park",
+          "Lat": "38.281106",
+          "Long": "-122.013578"
+        }
   }, {
     "type": "Feature",
     "geometry": {

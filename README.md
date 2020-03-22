@@ -46,11 +46,10 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Frontier League](http://www.frontierleague.com/) (Independent) | March 22, 2020 |
 | [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba) | March 22, 2020 |
 | [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama) | March 22, 2020 |
+| [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent) | March 22, 2020 |
 
 ## Finished (to be updated)
 
-* [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
-* [Pacific Association of Professional Baseball Clubs](https://en.wikipedia.org/wiki/Pacific_Association_of_Professional_Baseball_Clubs) (Independent)
 * [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
 * [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
 * [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
@@ -59,6 +58,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)
+* [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
 
 ### To-Do
 
