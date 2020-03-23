@@ -6319,20 +6319,6 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-73.1875, 41.171944]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Atlantic League of Professional Baseball",
-      "Team": "Bridgeport Bluefish",
-      "Ballpark": "The Ballpark at Harbor Yard",
-      "Lat": "41.171944",
-      "Long": "-73.1875"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
       "coordinates": [-73.192222, 40.765]
     },
     "properties": {
@@ -6347,15 +6333,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-72.775211, 41.648506]
+      "coordinates": [-80.011944, 35.959444]
     },
     "properties": {
       "Class": "Independent",
       "League": "Atlantic League of Professional Baseball",
-      "Team": "New Britain Bees",
-      "Ballpark": "New Britain Stadium",
-      "Lat": "41.648506",
-      "Long": "-72.775211"
+      "Team": "High Point Rockers",
+      "Ballpark": "BB&T Point",
+      "Lat": "35.959444",
+      "Long": "-80.011944"
     }
   }, {
     "type": "Feature",
@@ -6370,20 +6356,6 @@
       "Ballpark": "TD Bank Ballpark",
       "Lat": "40.560556",
       "Long": "-74.553056"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-76.092275, 36.766319]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "Atlantic League of Professional Baseball",
-      "Team": "Virginia Beach Neptunes",
-      "Ballpark": "Wheeler Field",
-      "Lat": "36.766319",
-      "Long": "-76.092275"
     }
   }, {
     "type": "Feature",

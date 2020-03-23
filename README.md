@@ -52,10 +52,10 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced) | March 22, 2020 |
 | [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced) | March 22, 2020 |
 | [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |
+| [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent) | March 22, 2020 |
 
 ## Finished (to be updated)
 
-* [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)
 * [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
@@ -63,11 +63,14 @@ There are over 450 ballparks around the world included.  If you find a league I 
 ### To-Do
 
 * [The Western League](https://en.wikipedia.org/wiki/The_Western_League) (Independent)
+* [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent)
+* [United Shore Professional Baseball League](https://en.wikipedia.org/wiki/United_Shore_Professional_Baseball_League) (Independent)
 * [Prospect League](https://en.wikipedia.org/wiki/Prospect_League) (College)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
 * [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
 * [Liga Paralela de Béisbol en Venezuela](https://en.wikipedia.org/wiki/Liga_Paralela_de_Béisbol_en_Venezuela) (Venezuela)
 * [Veracruz Winter League](https://en.wikipedia.org/wiki/Veracruz_Winter_League) (Mexico)
+* [Argentine Baseball League](https://en.wikipedia.org/wiki/Argentine_Baseball_League) (Argentina)
 * [Eastern League](http://tinyurl.com/hnjz4gk) (Japan)
 * [Western League](http://tinyurl.com/zohqt3x) (Japan)
 * [Miyazaki Phoenix League](https://en.wikipedia.org/wiki/Miyazaki_Phoenix_League) (Japan)
