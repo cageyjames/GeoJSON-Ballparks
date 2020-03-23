@@ -5993,6 +5993,20 @@
       "Lat": "45.790278",
       "Long": "-108.511111"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.037861, 43.505161]
+      },
+      "properties": {
+        "Class": "Rookie Advanced",
+        "League": "Pioneer League",
+        "Team": "Idaho Falls Chukars",
+        "Ballpark": "Melaleuca Field",
+        "Lat": "43.505161",
+        "Long": "-112.037861"
+      }
   }, {
     "type": "Feature",
     "geometry": {
@@ -6011,15 +6025,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-112.027222, 46.599167]
+      "coordinates": [-104.710311, 38.894172]
     },
     "properties": {
       "Class": "Rookie Advanced",
       "League": "Pioneer League",
-      "Team": "Helena Brewers",
-      "Ballpark": "Kindrick Legion Field",
-      "Lat": "46.599167",
-      "Long": "-112.027222"
+      "Team": "Rocky Mountain Vibes",
+      "Ballpark": "UCHealth Park",
+      "Lat": "38.894172",
+      "Long": "-104.710311"
     }
   }, {
     "type": "Feature",
@@ -6030,7 +6044,7 @@
     "properties": {
       "Class": "Rookie Advanced",
       "League": "Pioneer League",
-      "Team": "Missoula Osprey",
+      "Team": "Missoula PaddleHeads",
       "Ballpark": "Ogren Park at Allegiance Field",
       "Lat": "46.873431",
       "Long": "-114.007294"
@@ -6073,7 +6087,7 @@
       "Class": "Rookie Advanced",
       "League": "Pioneer League",
       "Team": "Orem Owlz",
-      "Ballpark": "Brent Brown Ballpark",
+      "Ballpark": "UCCU Ballpark",
       "Lat": "40.276874",
       "Long": "-111.717234"
     }
