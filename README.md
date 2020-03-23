@@ -47,12 +47,12 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba) | March 22, 2020 |
 | [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama) | March 22, 2020 |
 | [Pacific Association of Professional Baseball Clubs](http://pacproclubs.pointstreaksites.com/view/pacproclubs/) (Independent) | March 22, 2020 |
+| [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short) | March 22, 2020 |
 
 ## Finished (to be updated)
 
 * [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short)
 * [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced)
-* [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short)
 * [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced)
 * [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
 * [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
