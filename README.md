@@ -60,6 +60,16 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)
 * [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
 
+### Defunct
+
+| League  | Status |
+| ------------- | ------------- |
+| [Canadian American Association of Professional Baseball](https://web.archive.org/web/20190813110459/http://canamleague.com/) (Independent) | [Merged with Frontier League](https://frontierleague.com/2019/10/16/frontier-league-can-am-league-to-join-forces/) in 2019 |
+| [Mount Rainier Professional Baseball League](https://web.archive.org/web/20141016100449/http://www.mrpbl.com/)| League [ran out of money](http://www.dailyrecordnews.com/members/independent-baseball-league-falls-apart/article_eb63d686-11f6-11e5-a9bf-b72dc3b32878.html) |
+| [North Country Baseball League](https://web.archive.org/web/20151209141056/http://www.northcountrybaseballleague.com/) | League folded when teams moved to Empire Professional Baseball League |
+| [Thoroughbred League](https://web.archive.org/web/20171231192049/http://www.thoroughbredbaseball.com/) | League folded do to financial issues |
+| [United League Baseball](https://web.archive.org/web/20140625051415/http://www.unitedleaguebaseball.pointstreaksites.com/view/unitedleague) | League [declaried bankruptcy](http://www.baseballessential.com/news/2015/01/15/united-league-baseball-folds-after-seven-seasons/) |
+
 ### To-Do
 
 * [The Western League](https://en.wikipedia.org/wiki/The_Western_League) (Independent)
@@ -85,16 +95,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Honkbal Rookie League](https://en.wikipedia.org/wiki/Honkbal_Rookie_League) (Netherlands)
 * [Greater Brisbane League](https://en.wikipedia.org/wiki/Greater_Brisbane_League) (Australia)
 * [New South Wales Major League](https://en.wikipedia.org/wiki/New_South_Wales_Major_League) (Australia)
-
-### Defunct
-
-| League  | Status |
-| ------------- | ------------- |
-| [Canadian American Association of Professional Baseball](https://web.archive.org/web/20190813110459/http://canamleague.com/) (Independent) | [Merged with Frontier League](https://frontierleague.com/2019/10/16/frontier-league-can-am-league-to-join-forces/) in 2019 |
-| [Mount Rainier Professional Baseball League](https://web.archive.org/web/20141016100449/http://www.mrpbl.com/)| League [ran out of money](http://www.dailyrecordnews.com/members/independent-baseball-league-falls-apart/article_eb63d686-11f6-11e5-a9bf-b72dc3b32878.html) |
-| [North Country Baseball League](https://web.archive.org/web/20151209141056/http://www.northcountrybaseballleague.com/) | League folded when teams moved to Empire Professional Baseball League |
-| [Thoroughbred League](https://web.archive.org/web/20171231192049/http://www.thoroughbredbaseball.com/) | League folded do to financial issues |
-| [United League Baseball](https://web.archive.org/web/20140625051415/http://www.unitedleaguebaseball.pointstreaksites.com/view/unitedleague) | League [declaried bankruptcy](http://www.baseballessential.com/news/2015/01/15/united-league-baseball-folds-after-seven-seasons/) |
 
 ### Suggestions
 
