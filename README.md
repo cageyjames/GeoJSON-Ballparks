@@ -60,7 +60,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)
 * [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
 
-### Defunct Leagues no Longer in Dataset
+## Defunct Leagues no Longer in Dataset
 
 | League  | Status |
 | ------------- | ------------- |
@@ -70,7 +70,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Thoroughbred League](https://web.archive.org/web/20171231192049/http://www.thoroughbredbaseball.com/) | League folded do to financial issues |
 | [United League Baseball](https://web.archive.org/web/20140625051415/http://www.unitedleaguebaseball.pointstreaksites.com/view/unitedleague) | League [declaried bankruptcy](http://www.baseballessential.com/news/2015/01/15/united-league-baseball-folds-after-seven-seasons/) |
 
-### To-Do
+## To-Do
 
 * [The Western League](https://en.wikipedia.org/wiki/The_Western_League) (Independent)
 * [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent)
