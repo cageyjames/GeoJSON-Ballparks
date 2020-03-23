@@ -62,6 +62,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 ### To-Do
 
+* [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall)
 * [The Western League](https://en.wikipedia.org/wiki/The_Western_League) (Independent)
 * [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent)
 * [United Shore Professional Baseball League](https://en.wikipedia.org/wiki/United_Shore_Professional_Baseball_League) (Independent)
