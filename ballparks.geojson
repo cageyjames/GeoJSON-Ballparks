@@ -6590,7 +6590,7 @@
     "properties": {
       "Class": "Rookie",
       "League": "Arizona League",
-      "Team": "Arizona League Athletics",
+      "Team": "Arizona League Athletics (Gold & Green Teams)",
       "Ballpark": "Fitch Park",
       "Lat": "33.428285",
       "Long": "-111.829762"
@@ -6604,7 +6604,7 @@
     "properties": {
       "Class": "Rookie",
       "League": "Arizona League",
-      "Team": "Arizona League Brewers",
+      "Team": "Arizona League Brewers (Blue & Gold Teams)",
       "Ballpark": "Maryvale Baseball Park",
       "Lat": "33.492222",
       "Long": "-112.173056"
@@ -6618,7 +6618,7 @@
     "properties": {
       "Class": "Rookie",
       "League": "Arizona League",
-      "Team": "Arizona League Cubs",
+      "Team": "Arizona League Cubs (1 & 2 Teams)",
       "Ballpark": "Sloan Park",
       "Lat": "33.4313",
       "Long": "-111.8816"
@@ -6632,7 +6632,7 @@
     "properties": {
       "Class": "Rookie",
       "League": "Arizona League",
-      "Team": "Arizona League Dodgers",
+      "Team": "Arizona League Dodgers (Lasorda & Mota Teams)",
       "Ballpark": "Camelback Ranch",
       "Lat": "33.514167",
       "Long": "-112.295833"
@@ -6646,7 +6646,7 @@
     "properties": {
       "Class": "Rookie",
       "League": "Arizona League",
-      "Team": "Arizona League Giants",
+      "Team": "Arizona League Giants (Black & Orange Teams)",
       "Ballpark": "Scottsdale Stadium",
       "Lat": "33.488333",
       "Long": "-111.921111"
@@ -6665,6 +6665,20 @@
       "Lat": "33.429167",
       "Long": "-112.39"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.39, 33.429167]
+      },
+      "properties": {
+        "Class": "Rookie",
+        "League": "Arizona League",
+        "Team": "Arizona League Indians (Blue & Red Teams)",
+        "Ballpark": "Goodyear Ballpark",
+        "Lat": "33.429167",
+        "Long": "-112.39"
+      }
   }, {
     "type": "Feature",
     "geometry": {
@@ -6674,11 +6688,25 @@
     "properties": {
       "Class": "Rookie",
       "League": "Arizona League",
-      "Team": "Arizona League Padres",
+      "Team": "Arizona League Padres (1 & 2 Teams)",
       "Ballpark": "Peoria Sports Complex",
       "Lat": "33.6319",
       "Long": "-112.2332"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.2332, 33.6319]
+      },
+      "properties": {
+        "Class": "Rookie",
+        "League": "Arizona League",
+        "Team": "Arizona League Mariners",
+        "Ballpark": "Peoria Sports Complex",
+        "Lat": "33.6319",
+        "Long": "-112.2332"
+      }
   }, {
     "type": "Feature",
     "geometry": {
