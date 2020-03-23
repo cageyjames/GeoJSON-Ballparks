@@ -6,7 +6,7 @@ Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status
 
 There are over 450 ballparks around the world included.  If you find a league I haven't added yet, please fork and add it in yourself.
 
-## Updated Datasets
+## Baseball Leagues and Last Updated Dates
 
 | League  | Update Date |
 | ------------- | ------------- |
@@ -60,7 +60,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)
 * [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
 
-### Defunct
+### Defunct Leagues no Longer in Dataset
 
 | League  | Status |
 | ------------- | ------------- |
