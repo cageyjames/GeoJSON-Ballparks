@@ -7336,6 +7336,22 @@
         "Lat": "33.6319",
         "Long": "-112.2332"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.022384, 35.397556]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "The Western League",
+        "Team": "Bakersfield Blues, Hollywood Stars, Salina Stockade",
+        "Ballpark": "Sam Lynn Ballpark",
+        "Lat": "35.397556",
+        "Long": "-119.022384"
+
+      }
     }
   ]
 }
