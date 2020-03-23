@@ -71,6 +71,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 * [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
 * [Liga Paralela de Béisbol en Venezuela](https://en.wikipedia.org/wiki/Liga_Paralela_de_Béisbol_en_Venezuela) (Venezuela)
 * [Veracruz Winter League](https://en.wikipedia.org/wiki/Veracruz_Winter_League) (Mexico)
+* [California Collegiate League](https://en.wikipedia.org/wiki/California_Collegiate_League) (College)
 * [Argentine Baseball League](https://en.wikipedia.org/wiki/Argentine_Baseball_League) (Argentina)
 * [Eastern League](http://tinyurl.com/hnjz4gk) (Japan)
 * [Western League](http://tinyurl.com/zohqt3x) (Japan)
@@ -94,7 +95,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 ### Suggestions
 
-* Summer Leagues (College) - [Example](https://gist.github.com/oeon/54626316c56a76e4db67)
+* [Summer Leagues](https://en.wikipedia.org/wiki/Collegiate_summer_baseball) (lots of work!)
 * [NCAA Baseball](https://en.wikipedia.org/wiki/College_baseball) (298 Teams!)
 * [NCAA Softball](https://en.wikipedia.org/wiki/List_of_NCAA_Division_I_softball_programs)
 
