@@ -51,10 +51,10 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | March 22, 2020 |
 | [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced) | March 22, 2020 |
 | [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced) | March 22, 2020 |
+| [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |
 
 ## Finished (to be updated)
 
-* [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent)
 * [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent)
 * [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie)
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)

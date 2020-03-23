@@ -6171,7 +6171,7 @@
       "Class": "Independent",
       "League": "American Association of Independent Professional Baseball",
       "Team": "Kansas City T-Bones",
-      "Ballpark": "CommunityAmerica Ballpark",
+      "Ballpark": "T-Bones Stadium",
       "Lat": "39.124444",
       "Long": "-94.830833"
     }
@@ -6207,57 +6207,43 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-99.45544, 27.55399]
+      "coordinates": [-97.413332, 32.374123]
     },
     "properties": {
       "Class": "Independent",
       "League": "American Association of Independent Professional Baseball",
-      "Team": "Laredo Lemurs",
-      "Ballpark": "Uni-Trade Stadium",
-      "Lat": "27.55399",
-      "Long": "-99.45544"
+      "Team": "Cleburne Railroaders",
+      "Ballpark": "The Depot at Cleburne Station",
+      "Lat": "32.374123",
+      "Long": "-97.413332"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-94.49883, 37.08883]
+      "coordinates": [-87.870833, 41.9775]
     },
     "properties": {
       "Class": "Independent",
       "League": "American Association of Independent Professional Baseball",
-      "Team": "Joplin Blasters",
-      "Ballpark": "Joe Becker Stadium",
-      "Lat": "37.08883",
-      "Long": "-94.49883"
+      "Team": "Chicago Dogs",
+      "Ballpark": "Impact Field",
+      "Lat": "41.9775",
+      "Long": "-87.870833"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-97.345833, 37.681389]
+      "coordinates": [-88.016389, 42.918611]
     },
     "properties": {
       "Class": "Independent",
       "League": "American Association of Independent Professional Baseball",
-      "Team": "Wichita Wingnuts",
-      "Ballpark": "Lawrence–Dumont Stadium",
-      "Lat": "37.681389",
-      "Long": "-97.345833"
-    }
-  }, {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [-101.799649, 35.206334]
-    },
-    "properties": {
-      "Class": "Independent",
-      "League": "American Association of Independent Professional Baseball",
-      "Team": "Amarillo Thunderheads",
-      "Ballpark": "Potter County Memorial Stadium",
-      "Lat": "35.206334",
-      "Long": "-101.799649"
+      "Team": "Milwaukee Milkmen",
+      "Ballpark": "Routine Field",
+      "Lat": "42.918611",
+      "Long": "-88.016389"
     }
   }, {
     "type": "Feature",
@@ -6268,8 +6254,8 @@
     "properties": {
       "Class": "Independent",
       "League": "American Association of Independent Professional Baseball",
-      "Team": "Grand Prairie AirHogs",
-      "Ballpark": "QuikTrip Park",
+      "Team": "Texas AirHogs",
+      "Ballpark": "AirHogs Stadium",
       "Lat": "32.768219",
       "Long": "-96.98635"
     }
