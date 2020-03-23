@@ -90,7 +90,11 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 | League  | Status |
 | ------------- | ------------- |
-| [Canadian American Association of Professional Baseball](http://canamleague.com/) (Independent) | Merged with Frontier League in 2019 |
+| [Canadian American Association of Professional Baseball](https://web.archive.org/web/20190813110459/http://canamleague.com/) (Independent) | Merged with Frontier League in 2019 |
+| [Mount Rainier Professional Baseball League](https://web.archive.org/web/20141016100449/http://www.mrpbl.com/)| League folded do to financial issues |
+| [North Country Baseball League](https://web.archive.org/web/20151209141056/http://www.northcountrybaseballleague.com/) | League folded when teams moved to Empire Professional Baseball League |
+| [Thoroughbred League](https://web.archive.org/web/20171231192049/http://www.thoroughbredbaseball.com/) | League folded do to financial issues |
+| [United League Baseball](https://web.archive.org/web/20140625051415/http://www.unitedleaguebaseball.pointstreaksites.com/view/unitedleague) | League [declaried bankruptcy](http://www.baseballessential.com/news/2015/01/15/united-league-baseball-folds-after-seven-seasons/) |
 
 ### Suggestions
 
