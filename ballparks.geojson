@@ -5527,7 +5527,7 @@
       "Class": "Rookie Advanced",
       "League": "Appalachian League",
       "Team": "Bluefield Blue Jays",
-      "Ballpark": "Bowen Field",
+      "Ballpark": "Bowen Field at Peters Park",
       "Lat": "37.249444",
       "Long": "-81.246389"
     }
@@ -5597,7 +5597,7 @@
       "Class": "Rookie Advanced",
       "League": "Appalachian League",
       "Team": "Bristol Pirates",
-      "Ballpark": "DeVault Memorial Stadium",
+      "Ballpark": "Boyce Cox Field at DeVault Memorial Stadium",
       "Lat": "36.601968",
       "Long": "-82.199251"
     }
@@ -5624,7 +5624,7 @@
     "properties": {
       "Class": "Rookie Advanced",
       "League": "Appalachian League",
-      "Team": "Greeneville Astros",
+      "Team": "Greeneville Reds",
       "Ballpark": "Pioneer Park",
       "Lat": "36.173149",
       "Long": "-82.756115"
@@ -5639,7 +5639,7 @@
       "Class": "Rookie Advanced",
       "League": "Appalachian League",
       "Team": "Johnson City Cardinals",
-      "Ballpark": "Howard Johnson Field",
+      "Ballpark": "TVA Credit Union Ballpark",
       "Lat": "36.318611",
       "Long": "-82.340833"
     }
