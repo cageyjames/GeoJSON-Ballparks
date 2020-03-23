@@ -5516,7 +5516,7 @@
       "properties": {
         "Class": "Other",
         "League": "Italian Baseball League",
-        "Team": "Nettuno Baseball Club",
+        "Team": "Nettuno Baseball City",
         "Ballpark": "Stadio Steno Borghese",
         "Lat": "41.468889",
         "Long": "12.680278"
@@ -5526,15 +5526,15 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.0688114, 44.383204]
+        "coordinates": [12.680278, 41.468889]
       },
       "properties": {
         "Class": "Other",
         "League": "Italian Baseball League",
-        "Team": "Baseball Godo",
-        "Ballpark": "Stadio Antonio Casadio",
-        "Lat": "44.383204",
-        "Long": "12.068811"
+        "Team": "Nettuno 2",
+        "Ballpark": "Stadio Steno Borghese",
+        "Lat": "41.468889",
+        "Long": "12.680278"
       }
     },
     {
@@ -5556,15 +5556,15 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [12.538792, 44.062218]
+        "coordinates": [10.205246, 44.749282]
       },
       "properties": {
         "Class": "Other",
         "League": "Italian Baseball League",
-        "Team": "Rimini",
-        "Ballpark": "Stadio dei Pirati",
-        "Lat": "44.062218",
-        "Long": "12.538792"
+        "Team": "Collecchio",
+        "Ballpark": "Stadio Giannino Zinelli",
+        "Lat": "44.749282",
+        "Long": "10.205246"
       }
     },
     {
@@ -5586,45 +5586,75 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [10.300361, 44.793194]
+        "coordinates": [10.299928, 44.793471]
       },
       "properties": {
         "Class": "Other",
         "League": "Italian Baseball League",
-        "Team": "Parma Baseball",
-        "Ballpark": "Stadio Quadrifoglio - Aldo Notari",
-        "Lat": "44.793194",
-        "Long": "10.300361"
+        "Team": "Parma Baseball Club",
+        "Ballpark": "Nino Cavalli Stadium",
+        "Lat": "44.793471",
+        "Long": "10.299928"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [11.104, 42.753708]
+        "coordinates": [13.481559, 45.851501]
       },
       "properties": {
         "Class": "Other",
         "League": "Italian Baseball League",
-        "Team": "Bbc Grosseto",
-        "Ballpark": "Stadio Roberto Jannella",
-        "Lat": "42.753708",
-        "Long": "11.104"
+        "Team": "Rangers Redipuglia Baseball Club",
+        "Ballpark": "Campo da Baseball",
+        "Lat": "45.851501",
+        "Long": "13.481559"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.59555, 45.43735]
+        "coordinates": [13.442011, 43.299276]
       },
       "properties": {
         "Class": "Other",
         "League": "Italian Baseball League",
-        "Team": "Novara Baseball United",
-        "Ballpark": "Stadio Marco Provini",
-        "Lat": "45.43735",
-        "Long": "8.59555"
+        "Team": "Macerata Angels",
+        "Ballpark": "Campo da Baseball",
+        "Lat": "43.299276",
+        "Long": "13.442011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.068669, 44.383467]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Italian Baseball League",
+        "Team": "Godo Knights",
+        "Ballpark": "Campo da Baseball",
+        "Lat": "44.383467",
+        "Long": "12.068669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.651882, 45.025451]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Italian Baseball League",
+        "Team": "Grizzlies Torino",
+        "Ballpark": "Paschetto Baseball Stadium",
+        "Lat": "45.025451",
+        "Long": "7.651882"
       }
     },
     {

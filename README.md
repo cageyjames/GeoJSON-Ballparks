@@ -53,12 +53,12 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua) | March 21, 2020 |
 | [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba) | March 22, 2020 |
 | [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama) | March 22, 2020 |
+| [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy) | March 23, 2020 |
 | [Honkbal Hoofdklasse](http://www.honkbalsite.com) (Netherlands) | March 18, 2020 |
 
 ## Finished (to be updated)
 
 * [Bundesliga](http://baseball-bundesliga.de/) (Germany)
-* [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy)
 
 ## Defunct Leagues no Longer in Dataset
 
