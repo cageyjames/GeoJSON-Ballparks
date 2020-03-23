@@ -5479,15 +5479,15 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-71.318114, 42.65327]
+      "coordinates": [-72.107072, 41.573875]
     },
     "properties": {
       "Class": "Short Season Single-A",
       "League": "New York-Penn League",
-      "Team": "Lowell Spinners",
-      "Ballpark": "Edward A. LeLacheur Park",
-      "Lat": "42.65327",
-      "Long": "-71.318114"
+      "Team": "Norwich Sea Unicorns",
+      "Ballpark": "Senator Thomas J. Dodd Memorial Stadium",
+      "Lat": "41.573875",
+      "Long": "-72.107072"
     }
   }, {
     "type": "Feature",
@@ -5503,6 +5503,20 @@
       "Lat": "42.695329",
       "Long": "-73.680464"
     }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.318114, 42.65327]
+      },
+      "properties": {
+        "Class": "Short Season Single-A",
+        "League": "New York-Penn League",
+        "Team": "Lowell Spinners",
+        "Ballpark": "Edward A. LeLacheur Park",
+        "Lat": "42.65327",
+        "Long": "-71.318114"
+      }
   }, {
     "type": "Feature",
     "geometry": {
