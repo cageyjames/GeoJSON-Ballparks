@@ -32,6 +32,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | March 22, 2020 |
 | [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |
 | [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent) | March 22, 2020 |
+| [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent) | March 24, 2020 |
 | [Frontier League](http://www.frontierleague.com/) (Independent) | March 22, 2020 |
 | [Pecos League](http://pecosleague.com/) (Independent) | March 20, 2020 |
 | [Pacific Association of Professional Baseball Clubs](http://pacproclubs.pointstreaksites.com/view/pacproclubs/) (Independent) | March 22, 2020 |
@@ -73,7 +74,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 ## To-Do
 
-* [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent)
 * [United Shore Professional Baseball League](https://en.wikipedia.org/wiki/United_Shore_Professional_Baseball_League) (Independent)
 * [Prospect League](https://en.wikipedia.org/wiki/Prospect_League) (College)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)

@@ -7352,6 +7352,102 @@
         "Long": "-119.022384"
 
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.003392, 33.660359]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Empire Professional Baseball League",
+        "Team": "Georgia Rhinos",
+        "Ballpark": "Henson Carr Legion Field",
+        "Lat": "33.660359",
+        "Long": "-84.003392"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.549409, 43.193343]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Empire Professional Baseball League",
+        "Team": "New Hampshire Wild",
+        "Ballpark": "Memorial Field",
+        "Lat": "43.193343",
+        "Long": "-71.549409"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.479711, 44.680841]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Empire Professional Baseball League",
+        "Team": "Plattsburgh Thunderbirds",
+        "Ballpark": "Chip Cummings Field",
+        "Lat": "44.680841",
+        "Long": "-73.479711"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.194788, 18.378465]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Empire Professional Baseball League",
+        "Team": "Puerto Rico Islanders",
+        "Ballpark": "Estadio Guillermo Hernández",
+        "Lat": "18.378465",
+        "Long": "-67.194788"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.138869, 44.324741]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Empire Professional Baseball League",
+        "Team": "Saranac Lake Surge",
+        "Ballpark": "Saranac Lake Central Field",
+        "Lat": "44.324741",
+        "Long": "-74.138869"
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.464084, 44.226611]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "Empire Professional Baseball League",
+        "Team": "Tupper Lake Riverpigs",
+        "Ballpark": "Municipal Park",
+        "Lat": "44.226611",
+        "Long": "-74.464084"
+
+      }
     }
   ]
 }
