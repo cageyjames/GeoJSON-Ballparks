@@ -3087,9 +3087,24 @@
         "Class": "Other",
         "League": "Bundesliga Nord",
         "Team": "Dohren Wild Farmers",
-        "Ballpark": "Sportanlage SV Dohren",
+        "Ballpark": "Ballpark DC",
         "Lat": "53.304959",
         "Long": "9.716093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.349832, 52.600079]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "Bundesliga Nord",
+        "Team": "Berlin Flamingos",
+        "Ballpark": "Flamingo Park",
+        "Lat": "52.600079",
+        "Long": "13.349832"
       }
     },
     {
@@ -3102,7 +3117,7 @@
         "Class": "Other",
         "League": "Bundesliga Nord",
         "Team": "Cologne Cardinals",
-        "Ballpark": "Circlewood Stadium",
+        "Ballpark": "Walter-Binder-Weg",
         "Lat": "50.940152",
         "Long": "6.870436"
       }
@@ -3117,7 +3132,7 @@
         "Class": "Other",
         "League": "Bundesliga Nord",
         "Team": "Bonn Capitals",
-        "Ballpark": "Baseballstadion Rheinaue",
+        "Ballpark": "Rheinaue Park",
         "Lat": "50.708838",
         "Long": "7.152363"
       }
@@ -3131,7 +3146,7 @@
       "properties": {
         "Class": "Other",
         "League": "Bundesliga Nord",
-        "Team": "HSV Stealers",
+        "Team": "Hamburg Stealers",
         "Ballpark": "Baseballfeld Langenhorst",
         "Lat": "53.61003",
         "Long": "9.951592"
@@ -3146,7 +3161,7 @@
       "properties": {
         "Class": "Other",
         "League": "Bundesliga Süd",
-        "Team": "Haar Disciples",
+        "Team": "München-Haar Disciples",
         "Ballpark": "Ballpark Eglfing",
         "Lat": "48.112827",
         "Long": "11.73038"
@@ -3161,7 +3176,7 @@
       "properties": {
         "Class": "Other",
         "League": "Bundesliga Süd",
-        "Team": "Buchbinder Legionäre",
+        "Team": "Buchbinder Legionäre Regensburg",
         "Ballpark": "Armin Wolf Arena",
         "Lat": "49.02588",
         "Long": "12.140006"
@@ -3171,15 +3186,15 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [8.593394, 50.248004]
+        "coordinates": [9.945255, 48.407251]
       },
       "properties": {
         "Class": "Other",
         "League": "Bundesliga Süd",
-        "Team": "Bad Homburg Hornets",
-        "Ballpark": "Sportzentrum Nord-West",
-        "Lat": "50.248004",
-        "Long": "8.593394"
+        "Team": "IT sure Falcons Ulm",
+        "Ballpark": "Ballpark Pfaffenhau",
+        "Lat": "48.407251",
+        "Long": "9.945255"
       }
     },
     {
@@ -3207,7 +3222,7 @@
         "Class": "Other",
         "League": "Bundesliga Süd",
         "Team": "Stuttgart Reds",
-        "Ballpark": "Reds Baseballpark",
+        "Ballpark": "DB Baseballpark",
         "Lat": "48.82695",
         "Long": "9.197472"
       }
@@ -3222,7 +3237,7 @@
         "Class": "Other",
         "League": "Bundesliga Süd",
         "Team": "Mannheim Tornados",
-        "Ballpark": "Roberto-Clemente-Field",
+        "Ballpark": "Roberto Clemente Field",
         "Lat": "49.480797",
         "Long": "8.502576"
       }
@@ -3237,7 +3252,7 @@
         "Class": "Other",
         "League": "Bundesliga Süd",
         "Team": "Mainz Athletics",
-        "Ballpark": "Mainz Athletics Ballpark am",
+        "Ballpark": "Ballpark Mainz Athletics",
         "Lat": "50.011395",
         "Long": "8.234345"
       }
@@ -3252,7 +3267,7 @@
         "Class": "Other",
         "League": "Bundesliga Süd",
         "Team": "Heideheim Heideköpfe",
-        "Ballpark": "New Heideköpfe Ballpark",
+        "Ballpark": "Heideköpfe Ballpark",
         "Lat": "48.666562",
         "Long": "10.137791"
       }
