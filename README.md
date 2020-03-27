@@ -30,11 +30,11 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced) | March 22, 2020 |
 | [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie) | March 22, 2020 |
 | [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | March 22, 2020 |
+| [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall) | March 21, 2020 |
 | [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |
 | [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent) | March 22, 2020 |
 | [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent) | March 24, 2020 |
 | [Frontier League](http://www.frontierleague.com/) (Independent) | March 22, 2020 |
-| [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Independent) | March 21, 2020 |
 | [Pacific Association of Professional Baseball Clubs](http://pacproclubs.pointstreaksites.com/view/pacproclubs/) (Independent) | March 22, 2020 |
 | [Pecos League](http://pecosleague.com/) (Independent) | March 20, 2020 |
 | [United Shore Professional Baseball League](https://en.wikipedia.org/wiki/United_Shore_Professional_Baseball_League) (Independent) | March 26, 2020 |
