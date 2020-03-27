@@ -8,7 +8,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 ## Baseball Leagues and Last Updated Dates
 
-| League  | Update Date |
+| North America  | Update Date |
 | ------------- | ------------- |
 | [Major League Baseball](http://mlb.com) (American League and National League) | February 29, 2020 |
 | [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | March 3, 2020 |
@@ -34,31 +34,40 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent) | March 22, 2020 |
 | [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent) | March 24, 2020 |
 | [Frontier League](http://www.frontierleague.com/) (Independent) | March 22, 2020 |
-| [Pecos League](http://pecosleague.com/) (Independent) | March 20, 2020 |
+| [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Independent) | March 21, 2020 |
 | [Pacific Association of Professional Baseball Clubs](http://pacproclubs.pointstreaksites.com/view/pacproclubs/) (Independent) | March 22, 2020 |
+| [Pecos League](http://pecosleague.com/) (Independent) | March 20, 2020 |
 | [United Shore Professional Baseball League](https://en.wikipedia.org/wiki/United_Shore_Professional_Baseball_League) (Independent) | March 26, 2020 |
 | [The Western League](https://en.wikipedia.org/wiki/The_Western_League) (Independent) | March 23, 2020 |
 | [Alaska Baseball League](http://alaskabaseballleague.org/) (Amateur Collegiate Summer Baseball League) | March 5, 2020 |
 | [Cape Cod Baseball League](http://www.capecodbaseball.org/) (Amateur Collegiate Summer Baseball League) | March 12, 2020 |
 | [Coastal Plain League](http://www.coastalplain.com) (Amateur Collegiate Summer Baseball League) | March 19, 2020 |
 | [Pac-12 Conference Baseball](http://pac-12.com/sport/baseball) (College) | March 18, 2020 |
-| [Nippon Professional Baseball](http://www.npb.or.jp) (Japan) | March 12, 2020 |
-| [KBO League](http://www.koreabaseball.com/) (South Korea) | March 12, 2020 |
-| [Chinese Professional Baseball League](http://www.cpbl.com.tw)) (Taiwan) | March 8, 2020 |
+
+| East Asia/Australia  | Update Date |
+| ------------- | ------------- |
 | [Australian Baseball League](http://web.theabl.com.au) (Australia) | March 8, 2020 |
+| [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) - Partial, still tracking down teams (Philippines) | March 21, 2020 |
 | [China Baseball League](https://en.wikipedia.org/wiki/China_Baseball_League) (China) | March 18, 2020 |
-| [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela) | March 19, 2020 |
+| [Chinese Professional Baseball League](http://www.cpbl.com.tw)) (Taiwan) | March 8, 2020 |
+| [KBO League](http://www.koreabaseball.com/) (South Korea) | March 12, 2020 |
+| [Nippon Professional Baseball](http://www.npb.or.jp) (Japan) | March 12, 2020 |
+
+| Caribbean/South America  | Update Date |
+| ------------- | ------------- |
 | [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia) | March 19, 2020 |
+| [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba) | March 22, 2020 |
 | [Dominican Professional Baseball League](https://en.wikipedia.org/wiki/Dominican_Professional_Baseball_League) (Dominican Republic) | March 20, 2020 |
 | [Liga de Béisbol Profesional Roberto Clemente](https://en.wikipedia.org/wiki/Liga_de_Béisbol_Profesional_Roberto_Clemente) (Puerto Rico) | March 20, 2020 |
-| [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Mexico) | March 21, 2020 |
-| [Baseball Philippines](https://en.wikipedia.org/wiki/Baseball_Philippines) - Partial, still tracking down teams (Philippines) | March 21, 2020 |
 | [Nicaraguan Professional Baseball League](https://en.wikipedia.org/wiki/Nicaraguan_Professional_Baseball_League) (Nicaragua) | March 21, 2020 |
-| [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba) | March 22, 2020 |
 | [Panamanian Professional Baseball League](https://en.wikipedia.org/wiki/Panamanian_Professional_Baseball_League) (Panama) | March 22, 2020 |
-| [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy) | March 23, 2020 |
-| [Honkbal Hoofdklasse](http://www.honkbalsite.com) (Netherlands) | March 18, 2020 |
+| [Venezuelan Professional Baseball League](http://www.lvbp.com) (Venezuela) | March 19, 2020 |
+
+| Europe  | Update Date |
+| ------------- | ------------- |
 | [Bundesliga](http://baseball-bundesliga.de/) (Germany) | March 26, 2020 |
+| [Honkbal Hoofdklasse](http://www.honkbalsite.com) (Netherlands) | March 18, 2020 |
+| [Italian Baseball League](https://en.wikipedia.org/wiki/Italian_Baseball_League) (Italy) | March 23, 2020 |
 
 ## Defunct Leagues no Longer in Dataset
 
