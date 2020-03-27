@@ -7356,21 +7356,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.022384, 35.397556]
-      },
-      "properties": {
-        "Class": "Independent",
-        "League": "The Western League",
-        "Team": "Bakersfield Blues, Hollywood Stars, Salina Stockade",
-        "Ballpark": "Sam Lynn Ballpark",
-        "Lat": "35.397556",
-        "Long": "-119.022384"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-84.003392, 33.660359]
       },
       "properties": {
@@ -7455,6 +7440,111 @@
         "Ballpark": "Municipal Park",
         "Lat": "44.226611",
         "Long": "-74.464084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0402, 42.626]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "United Shore Professional Baseball League",
+        "Team": "Birmingham-Bloomfield Beavers",
+        "Ballpark": "Jimmy John's Field",
+        "Lat": "42.626",
+        "Long": "-83.0402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0402, 42.626]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "United Shore Professional Baseball League",
+        "Team": "Eastside Diamond Hoppers",
+        "Ballpark": "Jimmy John's Field",
+        "Lat": "42.626",
+        "Long": "-83.0402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0402, 42.626]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "United Shore Professional Baseball League",
+        "Team": "Utica Unicorns",
+        "Ballpark": "Jimmy John's Field",
+        "Lat": "42.626",
+        "Long": "-83.0402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0402, 42.626]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "United Shore Professional Baseball League",
+        "Team": "Westside Woolly Mammoths",
+        "Ballpark": "Jimmy John's Field",
+        "Lat": "42.626",
+        "Long": "-83.0402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.022384, 35.397556]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "The Western League",
+        "Team": "Bakersfield Blues",
+        "Ballpark": "Sam Lynn Ballpark",
+        "Lat": "35.397556",
+        "Long": "-119.022384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.022384, 35.397556]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "The Western League",
+        "Team": "Hollywood Stars",
+        "Ballpark": "Sam Lynn Ballpark",
+        "Lat": "35.397556",
+        "Long": "-119.022384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.022384, 35.397556]
+      },
+      "properties": {
+        "Class": "Independent",
+        "League": "The Western League",
+        "Team": "Salina Stockade",
+        "Ballpark": "Sam Lynn Ballpark",
+        "Lat": "35.397556",
+        "Long": "-119.022384"
       }
     }
   ]

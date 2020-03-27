@@ -36,6 +36,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Frontier League](http://www.frontierleague.com/) (Independent) | March 22, 2020 |
 | [Pecos League](http://pecosleague.com/) (Independent) | March 20, 2020 |
 | [Pacific Association of Professional Baseball Clubs](http://pacproclubs.pointstreaksites.com/view/pacproclubs/) (Independent) | March 22, 2020 |
+| [United Shore Professional Baseball League](https://en.wikipedia.org/wiki/United_Shore_Professional_Baseball_League) (Independent) | March 26, 2020 |
 | [The Western League](https://en.wikipedia.org/wiki/The_Western_League) (Independent) | March 23, 2020 |
 | [Alaska Baseball League](http://alaskabaseballleague.org/) (Amateur Collegiate Summer Baseball League) | March 5, 2020 |
 | [Cape Cod Baseball League](http://www.capecodbaseball.org/) (Amateur Collegiate Summer Baseball League) | March 12, 2020 |
@@ -71,13 +72,13 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 ## To-Do
 
-* [United Shore Professional Baseball League](https://en.wikipedia.org/wiki/United_Shore_Professional_Baseball_League) (Independent)
 * [Prospect League](https://en.wikipedia.org/wiki/Prospect_League) (College)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
 * [Gulf Coast League](http://www.milb.com/index.jsp?sid=l124) (Rookie)
 * [Liga Paralela de Béisbol en Venezuela](https://en.wikipedia.org/wiki/Liga_Paralela_de_Béisbol_en_Venezuela) (Venezuela)
 * [Veracruz Winter League](https://en.wikipedia.org/wiki/Veracruz_Winter_League) (Mexico)
 * [California Collegiate League](https://en.wikipedia.org/wiki/California_Collegiate_League) (College)
+* [Northwoods League](https://en.wikipedia.org/wiki/Northwoods_League) (College)
 * [Argentine Baseball League](https://en.wikipedia.org/wiki/Argentine_Baseball_League) (Argentina)
 * [Eastern League](http://tinyurl.com/hnjz4gk) (Japan)
 * [Western League](http://tinyurl.com/zohqt3x) (Japan)
