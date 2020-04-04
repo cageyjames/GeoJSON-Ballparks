@@ -7506,6 +7506,21 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [144.647982, 13.426493]
+      },
+      "properties": {
+        "Class": "Other",
+        "League": "None",
+        "Team": "None",
+        "Ballpark": "Ebbett Field",
+        "Lat": "13.42649326",
+        "Long": "144.647982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-119.022384, 35.397556]
       },
       "properties": {
