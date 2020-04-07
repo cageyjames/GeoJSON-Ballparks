@@ -112,3 +112,5 @@ There are over 450 ballparks around the world included.  If you find a league I 
 ### Thoughts
 
 I've put some thought into fixing this dataset some more. Right now teams drive the data, not stadiums.  This should be resolved asap.  Stay tuned for more.
+
+Photo by Nathan Gonthier
