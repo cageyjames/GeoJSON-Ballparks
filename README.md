@@ -77,7 +77,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Mount Rainier Professional Baseball League](https://web.archive.org/web/20141016100449/http://www.mrpbl.com/)| League [ran out of money](http://www.dailyrecordnews.com/members/independent-baseball-league-falls-apart/article_eb63d686-11f6-11e5-a9bf-b72dc3b32878.html) |
 | [North Country Baseball League](https://web.archive.org/web/20151209141056/http://www.northcountrybaseballleague.com/) | League folded when teams moved to Empire Professional Baseball League |
 | [Thoroughbred League](https://web.archive.org/web/20171231192049/http://www.thoroughbredbaseball.com/) | League folded do to financial issues |
-| [United League Baseball](https://web.archive.org/web/20140625051415/http://www.unitedleaguebaseball.pointstreaksites.com/view/unitedleague) | League [declaried bankruptcy](http://www.baseballessential.com/news/2015/01/15/united-league-baseball-folds-after-seven-seasons/) |
+| [United League Baseball](https://web.archive.org/web/20140625051415/http://www.unitedleaguebaseball.pointstreaksites.com/view/unitedleague) | League [declared bankruptcy](http://www.baseballessential.com/news/2015/01/15/united-league-baseball-folds-after-seven-seasons/) |
 
 ## To-Do
 
