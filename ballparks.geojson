@@ -1,0 +1,396 @@
+{
+	"name": "ballparks",
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.066944, 33.445278]
+			},
+			"properties": {
+				"Ballpark": "Chase Field",
+				"Teams": [
+					{ "Team": "Arizona Diamondbacks", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-84.468, 33.89]
+			},
+			"properties": {
+				"Ballpark": "Truist Park",
+				"Teams": [
+					{ "Team": "Atlanta Braves", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.621914, 39.283487]
+			},
+			"properties": {
+				"Ballpark": "Oriole Park at Camden Yards",
+				"Teams": [
+					{ "Team": "Baltimore Orioles", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.097757, 42.346202]
+			},
+			"properties": {
+				"Ballpark": "Fenway Park",
+				"Teams": [
+					{ "Team": "Boston Red Sox", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.65581, 41.947904]
+			},
+			"properties": {
+				"Ballpark": "Wrigley Field",
+				"Teams": [
+					{ "Team": "Chicago Cubs", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.634206, 41.830189]
+			},
+			"properties": {
+				"Ballpark": "Guaranteed Rate Field",
+				"Teams": [
+					{ "Team": "Chicago White Sox", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-84.509007, 39.096549]
+			},
+			"properties": {
+				"Ballpark": "Great American Ball Park",
+				"Teams": [
+					{ "Team": "Cincinnati Reds", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.685286, 41.495506]
+			},
+			"properties": {
+				"Ballpark": "Progressive Field",
+				"Teams": [
+					{ "Team": "Cleveland Indians", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-104.99414, 39.755683]
+			},
+			"properties": {
+				"Ballpark": "Coors Field",
+				"Teams": [
+					{ "Team": "Coloradao Rockies", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-83.04903, 42.339474]
+			},
+			"properties": {
+				"Ballpark": "Comerica Park",
+				"Teams": [
+					{ "Team": "Detroit Tigers", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-95.35632, 29.756778]
+			},
+			"properties": {
+				"Ballpark": "Minute Maid Park",
+				"Teams": [
+					{ "Team": "Houston Astros", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.219614, 25.778058]
+			},
+			"properties": {
+				"Ballpark": "loanDepot Park",
+				"Teams": [
+					{ "Team": "Miami Marlins", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-94.480817, 39.051221]
+			},
+			"properties": {
+				"Ballpark": "Kauffman Stadium",
+				"Teams": [
+					{ "Team": "Kansas City Royals", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.882778, 33.800278]
+			},
+			"properties": {
+				"Ballpark": "Angels Stadium",
+				"Teams": [
+					{ "Team": "Los Angeles Angels of Anaheim", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-118.24026, 34.073432]
+			},
+			"properties": {
+				"Ballpark": "Dodger Stadium",
+				"Teams": [
+					{ "Team": "Los Angeles Dodgers", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.971303, 43.028478]
+			},
+			"properties": {
+				"Ballpark": "American Family Field",
+				"Teams": [
+					{ "Team": "Milwaukee Brewers", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-93.278333, 44.981667]
+			},
+			"properties": {
+				"Ballpark": "Target Field",
+				"Teams": [
+					{ "Team": "Minnesota Twins", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.845833, 40.756944]
+			},
+			"properties": {
+				"Ballpark": "Citi Field",
+				"Teams": [
+					{ "Team": "New York Mets", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.928428, 40.826918]
+			},
+			"properties": {
+				"Ballpark": "Yankee Stadium",
+				"Teams": [
+					{ "Team": "New York Yankees", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.201158, 37.751262]
+			},
+			"properties": {
+				"Ballpark": "RingCentral Coliseum",
+				"Teams": [
+					{ "Team": "Oakland Athletics", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.16653, 39.905437]
+			},
+			"properties": {
+				"Ballpark": "Citizens Bank Park",
+				"Teams": [
+					{ "Team": "Philadelphia Phillies", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.006626, 40.447265]
+			},
+			"properties": {
+				"Ballpark": "PNC Park",
+				"Teams": [
+					{ "Team": "Pittsburg Pirates", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.15732, 32.706922]
+			},
+			"properties": {
+
+				"Ballpark": "Petco Park",
+				"Teams": [
+					{ "Team": "San Diego Padres", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.38959, 37.778473]
+			},
+			"properties": {
+				"Ballpark": "Oracle Park",
+				"Teams": [
+					{ "Team": "San Francisco Giants", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.33288, 47.59111]
+			},
+			"properties": {
+				"Ballpark": "T-Mobile Park",
+				"Teams": [
+					{ "Team": "Seattle Mariners", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-90.192793, 38.624005]
+			},
+			"properties": {
+				"Ballpark": "Busch Stadium",
+				"Teams": [
+					{ "Team": "St. Louis Cardinals", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.653246, 27.768016]
+			},
+			"properties": {
+				"Ballpark": "Tropicana Field",
+				"Teams": [
+					{ "Team": "Tampa Bay Rays", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-97.084167, 32.747361]
+			},
+			"properties": {
+				"Ballpark": "Globe Life Field",
+				"Teams": [
+					{ "Team": "Texas Rangers", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-79.38921, 43.641305]
+			},
+			"properties": {
+				"Ballpark": "Rogers Centre",
+				"Teams": [
+					{ "Team": "Toronto Blue Jays", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.00762, 38.8727]
+			},
+			"properties": {
+				"Ballpark": "Nationals Park",
+				"Teams": [
+					{ "Team": "Washington Nationals", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		}
+	]
+}

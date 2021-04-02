@@ -1,8 +1,7 @@
 {
   "name": "ballparks",
   "type": "FeatureCollection",
-  "features": [
-    {
+  "features": [{
       "type": "Feature",
       "geometry": {
         "type": "Point",
