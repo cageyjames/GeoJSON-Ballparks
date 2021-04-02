@@ -13,7 +13,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | North America  | Update Date |
 | ------------- | ------------- |
 | [Major League Baseball](http://mlb.com) (American League and National League) | April 2, 2021 |
-| [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | March 3, 2020 |
+| [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | April 2, 2021 |
 | [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | March 3, 2020 |
 | [International League](http://www.milb.com/index.jsp?sid=l117) (Class Triple-A) | March 2, 2020 |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A) | March 2, 2020 |

@@ -179,7 +179,7 @@
 			"properties": {
 				"Ballpark": "Angels Stadium",
 				"Teams": [
-					{ "Team": "Los Angeles Angels of Anaheim", "Class": "Majors", "League": "Major League Baseball" }
+					{ "Team": "Los Angeles Angels", "Class": "Majors", "League": "Major League Baseball" }
 				]
 			}
 		},
@@ -389,6 +389,141 @@
 				"Ballpark": "Nationals Park",
 				"Teams": [
 					{ "Team": "Washington Nationals", "Class": "Majors", "League": "Major League Baseball" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.88552871720411, 33.54523869337214]
+			},
+			"properties": {
+				"Ballpark": "Salt River Fields at Talking Stick",
+				"Teams": [
+					{ "Team": "Arizona Diamondbacks", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Colorado Rockies", "Class": "Spring Training", "League": "Cactus" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.88201135236447, 33.43081405171676]
+			},
+			"properties": {
+				"Ballpark": "Sloan Park",
+				"Teams": [
+					{ "Team": "Chicago Cubs", "Class": "Spring Training", "League": "Cactus" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.2961373419403, 33.51434358607534]
+			},
+			"properties": {
+				"Ballpark": "Camelback Ranch",
+				"Teams": [
+					{ "Team": "Chicago White Sox", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Los Angeles Dodgers", "Class": "Spring Training", "League": "Cactus" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.39027652030502, 33.42892152183423]
+			},
+			"properties": {
+				"Ballpark": "Goodyear Park",
+				"Teams": [
+					{ "Team": "Cleveland Indians", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Cincinnati Reds", "Class": "Spring Training", "League": "Cactus" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.37849214232497, 33.62762401024412]
+			},
+			"properties": {
+				"Ballpark": "Surprise Stadium",
+				"Teams": [
+					{ "Team": "Kansas City Royals", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Texas Rangers", "Class": "Spring Training", "League": "Cactus" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.97071042071124, 33.4009292386562]
+			},
+			"properties": {
+				"Ballpark": "Tempe Diablo Stadium",
+				"Teams": [
+					{ "Team": "Los Angeles Angels", "Class": "Spring Training", "League": "Cactus" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.17271401836359, 33.49202347871606]
+			},
+			"properties": {
+				"Ballpark": "American Family Fields of Phoenix",
+				"Teams": [
+					{ "Team": "Milwaukee Brewers", "Class": "Spring Training", "League": "Cactus" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.82973258769098, 33.438317086940025]
+			},
+			"properties": {
+				"Ballpark": "Hohokam Stadium",
+				"Teams": [
+					{ "Team": "Oakland A's", "Class": "Spring Training", "League": "Cactus" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.23359098860257, 33.63186887434779]
+			},
+			"properties": {
+				"Ballpark": "Peoria Sports Complex",
+				"Teams": [
+					{ "Team": "San Diego Padres", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Seattle Mariners", "Class": "Spring Training", "League": "Cactus" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.92101108772718, 33.48869370863542]
+			},
+			"properties": {
+				"Ballpark": "Scottsdale Stadium",
+				"Teams": [
+					{ "Team": "San Francisco Giants", "Class": "Spring Training", "League": "Cactus" }
 				]
 			}
 		}
