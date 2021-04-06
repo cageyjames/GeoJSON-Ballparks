@@ -402,7 +402,9 @@
 				"Ballpark": "Salt River Fields at Talking Stick",
 				"Teams": [
 					{ "Team": "Arizona Diamondbacks", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Colorado Rockies", "Class": "Spring Training", "League": "Cactus" }
+					{ "Team": "Colorado Rockies", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Salt River Rafters", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Arizona League Diamondbacks", "Class": "Rookie", "League": "Arizona League" }
 				]
 			}
 		},
@@ -415,7 +417,10 @@
 			"properties": {
 				"Ballpark": "Sloan Park",
 				"Teams": [
-					{ "Team": "Chicago Cubs", "Class": "Spring Training", "League": "Cactus" }
+					{ "Team": "Chicago Cubs", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Mesa Solar Sox", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Arizona League Cubs 1", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Arizona League Cubs 2", "Class": "Rookie", "League": "Arizona League" }
 				]
 			}
 		},
@@ -429,7 +434,11 @@
 				"Ballpark": "Camelback Ranch",
 				"Teams": [
 					{ "Team": "Chicago White Sox", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Los Angeles Dodgers", "Class": "Spring Training", "League": "Cactus" }
+					{ "Team": "Los Angeles Dodgers", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Arizona League Dodgers Lasorda", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Glendale Desert Dogs", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Arizona League White Sox", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Arizona League Dodgers Mota", "Class": "Rookie", "League": "Arizona League" }
 				]
 			}
 		},
@@ -443,7 +452,10 @@
 				"Ballpark": "Goodyear Park",
 				"Teams": [
 					{ "Team": "Cleveland Indians", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Cincinnati Reds", "Class": "Spring Training", "League": "Cactus" }
+					{ "Team": "Cincinnati Reds", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Arizona League Indians Blue", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Arizona League Indians Red", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Arizona League Reds", "Class": "Rookie", "League": "Arizona League" }
 				]
 			}
 		},
@@ -457,7 +469,10 @@
 				"Ballpark": "Surprise Stadium",
 				"Teams": [
 					{ "Team": "Kansas City Royals", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Texas Rangers", "Class": "Spring Training", "League": "Cactus" }
+					{ "Team": "Texas Rangers", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Surprise Saguaros", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Arizona League Rangers", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Arizona League Royals", "Class": "Rookie", "League": "Arizona League" }
 				]
 			}
 		},
@@ -470,7 +485,8 @@
 			"properties": {
 				"Ballpark": "Tempe Diablo Stadium",
 				"Teams": [
-					{ "Team": "Los Angeles Angels", "Class": "Spring Training", "League": "Cactus" }
+					{ "Team": "Los Angeles Angels", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Arizona League Angels", "Class": "Rookie", "League": "Arizona League" }
 				]
 			}
 		},
@@ -483,7 +499,9 @@
 			"properties": {
 				"Ballpark": "American Family Fields of Phoenix",
 				"Teams": [
-					{ "Team": "Milwaukee Brewers", "Class": "Spring Training", "League": "Cactus" }
+					{ "Team": "Milwaukee Brewers", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Arizona League Brewers Gold", "Class": "Spring Training", "League": "Arizona League" },
+					{ "Team": "Arizona League Brewers Blue", "Class": "Spring Training", "League": "Arizona League" }
 				]
 			}
 		},
@@ -510,7 +528,12 @@
 				"Ballpark": "Peoria Sports Complex",
 				"Teams": [
 					{ "Team": "San Diego Padres", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Seattle Mariners", "Class": "Spring Training", "League": "Cactus" }
+					{ "Team": "Seattle Mariners", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Peoria Javelinas", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Peoria Saguaros", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Arizona League Mariners", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Arizona League Padres 1", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Arizona League Padres 2", "Class": "Rookie", "League": "Arizona League" }
 				]
 			}
 		},
@@ -523,7 +546,213 @@
 			"properties": {
 				"Ballpark": "Scottsdale Stadium",
 				"Teams": [
-					{ "Team": "San Francisco Giants", "Class": "Spring Training", "League": "Cactus" }
+					{ "Team": "San Francisco Giants", "Class": "Spring Training", "League": "Cactus" },
+					{ "Team": "Scottsdale Scorpions", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Arizona League Giants Black", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Arizona League Giants Orange", "Class": "Rookie", "League": "Arizona League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.82972745036231, 33.428262662376085]
+			},
+			"properties": {
+				"Ballpark": "Fitch Park",
+				"Teams": [
+					{ "Team": "Arizona League Athletics Gold", "Class": "Rookie", "League": "Arizona League" },
+					{ "Team": "Arizona League Athletics Green", "Class": "Rookie", "League": "Arizona League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.31964228395472, 27.03269702202374]
+			},
+			"properties": {
+				"Ballpark": "CoolToday Park",
+				"Teams": [
+					{ "Team": "Atlanta Braves", "Class": "Spring Training", "League": "Grapefruit" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.51739999041712, 27.347949678213578]
+			},
+			"properties": {
+				"Ballpark": "Ed Smith Stadium",
+				"Teams": [
+					{ "Team": "Baltimore Orioles", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Gulf Coast League Orioles", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.76225105254659, 26.550924660666844]
+			},
+			"properties": {
+				"Ballpark": "JetBlue Park at Fenway South",
+				"Teams": [
+					{ "Team": "Boston Red Sox", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Gulf Coast League Red Sox", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.95114112554033, 28.07437512563263]
+			},
+			"properties": {
+				"Ballpark": "Publix Field at Joker Marchant Stadium",
+				"Teams": [
+					{ "Team": "Detroit Tigers", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Lakeland Flying Tigers", "Class": "Low-A", "League": "Low-A Southeast" },
+					{ "Team": "Gulf Coast League Tigers", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.1131677938903, 26.754753614807278]
+			},
+			"properties": {
+				"Ballpark": "FITTEAM Ballpark of the Palm Beaches",
+				"Teams": [
+					{ "Team": "Houston Astros", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Washington Nationals", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Gulf Coast League Astros", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Gulf Coast League Nationals", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.11677121477014, 26.890846664290695]
+			},
+			"properties": {
+				"Ballpark": "Roger Dean Chevrolet Stadium",
+				"Teams": [
+					{ "Team": "St. Louis Cardinals", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Miami Marlins", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Gulf Coast League Cardinals", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Gulf Coast League Marlins", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.8420223605404, 26.537889770211162]
+			},
+			"properties": {
+				"Ballpark": "Hammond Stadium",
+				"Teams": [
+					{ "Team": "Minnesota Twins", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Fort Myers Might Mussels", "Class": "Low-A", "League": "Low-A Southeast" },
+					{ "Team": "Gulf Coast League Twins", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.40472448516982, 27.324779177284803]
+			},
+			"properties": {
+				"Ballpark": "Clover Park",
+				"Teams": [
+					{ "Team": "New York Mets", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "St. Lucie Mets", "Class": "Low-A", "League": "Low-A Southeast" },
+					{ "Team": "Gulf Coast League Mets", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.50702204654498, 27.979969910907904]
+			},
+			"properties": {
+				"Ballpark": "George M. Steinbrenner Field",
+				"Teams": [
+					{ "Team": "New York Yankees", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Tampa Tarpons", "Class": "Low-A", "League": "Low-A Southeast" },
+					{ "Team": "Gulf Coast League Yankees", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.73198947504177, 27.97136497473138]
+			},
+			"properties": {
+				"Ballpark": "BayCare Park",
+				"Teams": [
+					{ "Team": "Philadelphia Phillies", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Clearwater Threshers", "Class": "Low-A", "League": "Low-A Southeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.5707773841923, 27.485342946676017]
+			},
+			"properties": {
+				"Ballpark": "LECOM Park",
+				"Teams": [
+					{ "Team": "Pittsburg Pirates", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Bradenton Marauders", "Class": "Low-A", "League": "Low-A Southeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.18212629997954, 26.998886679548484]
+			},
+			"properties": {
+				"Ballpark": "Charlotte Sports Park",
+				"Teams": [
+					{ "Team": "Tampa Bay Rays", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Gulf Coast League Rays", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.78696306609503, 28.00401337770894]
+			},
+			"properties": {
+				"Ballpark": "TD Ballpark",
+				"Teams": [
+					{ "Team": "Toronto Blue Jays", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Dunedin Blue Jays", "Class": "Low-A", "League": "Low-A Southwest" }
 				]
 			}
 		}

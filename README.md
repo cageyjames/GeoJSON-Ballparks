@@ -14,7 +14,9 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | ------------- | ------------- |
 | [Major League Baseball](http://mlb.com) (American League and National League) | April 2, 2021 |
 | [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | April 2, 2021 |
-| [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | March 3, 2020 |
+| [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | April 6, 2021 |
+| [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie) | April 6, 2021 |
+| [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | April 6, 2021 |
 | [International League](http://www.milb.com/index.jsp?sid=l117) (Class Triple-A) | March 2, 2020 |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A) | March 2, 2020 |
 | [Pacific Coast League](http://www.milb.com/index.jsp?sid=l112) (Class Triple-A) | March 1, 2020 |
@@ -30,8 +32,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | March 22, 2020 |
 | [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced) | March 22, 2020 |
 | [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced) | March 22, 2020 |
-| [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie) | March 22, 2020 |
-| [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | March 22, 2020 |
 | [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall) | March 21, 2020 |
 | [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |
 | [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent) | March 22, 2020 |
