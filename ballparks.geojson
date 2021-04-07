@@ -785,7 +785,7 @@
 			"properties": {
 				"Ballpark": "Radiology Associates Field at Jackie Robinson Ballpark",
 				"Teams": [
-					{ "Team": "Daytona Tortugas", "Class": "Low-A", "League": "Low-A Southeast" },
+					{ "Team": "Daytona Tortugas", "Class": "Low-A", "League": "Low-A Southeast" }
 				]
 			}
 		},
@@ -798,7 +798,7 @@
 			"properties": {
 				"Ballpark": "Bobby Mattick Training Center at Englebert Complex",
 				"Teams": [
-					{ "Team": "Gulf Coast League Blue Jays", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Gulf Coast League Blue Jays", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		}
