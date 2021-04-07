@@ -15,8 +15,10 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Major League Baseball](http://mlb.com) (American League and National League) | April 2, 2021 |
 | [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | April 2, 2021 |
 | [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | April 6, 2021 |
-| [Arizona League](http://www.milb.com/index.jsp?sid=l121) (Rookie) | April 6, 2021 |
+| [Arizona League](https://www.milb.com/arizona) (Rookie) | April 6, 2021 |
 | [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | April 6, 2021 |
+| [Gulf Coast League](https://www.milb.com/gulf-coast) (Rookie) | April 7, 2021|
+| [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | April 7, 2021 |
 | [International League](http://www.milb.com/index.jsp?sid=l117) (Class Triple-A) | March 2, 2020 |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A) | March 2, 2020 |
 | [Pacific Coast League](http://www.milb.com/index.jsp?sid=l112) (Class Triple-A) | March 1, 2020 |
