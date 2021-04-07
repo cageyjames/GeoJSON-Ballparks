@@ -1,4 +1,4 @@
-ds# GeoJSON-Ballparks
+# GeoJSON-Ballparks
 
 **Note: The project is going to shift how ballparks are maintained.  See [this blog post](https://spatiallyadjusted.com/geojson-ballparks-and-mlb-minor-league-realignment/) to learn more.**
 
