@@ -23,6 +23,11 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | April 6, 2021 |
 | [Gulf Coast League](https://www.milb.com/gulf-coast) (Rookie) | April 7, 2021|
 | [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | April 7, 2021 |
+| [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Low-A) | April 7, 2021 |
+
+### Legacy (to be reviewed)
+| North America  | Update Date |
+| ------------- | ------------- |
 | [International League](http://www.milb.com/index.jsp?sid=l117) (Class Triple-A) | March 2, 2020 |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A) | March 2, 2020 |
 | [Pacific Coast League](http://www.milb.com/index.jsp?sid=l112) (Class Triple-A) | March 1, 2020 |

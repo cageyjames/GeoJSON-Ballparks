@@ -801,6 +801,138 @@
 					{ "Team": "Gulf Coast League Blue Jays", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-106.62954954987764, 35.069539006072645]
+			},
+			"properties": {
+				"Ballpark": "Rio Grande Credit Union Field at Isotopes Park",
+				"Teams": [
+					{ "Team": "Albuquerque Isotopes", "Class": "Triple-A", "League": "Triple-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-106.49287758664309, 31.75873313917711]
+			},
+			"properties": {
+				"Ballpark": "Southwest University Park",
+				"Teams": [
+					{ "Team": "El Paso Chihuahuas", "Class": "Triple-A", "League": "Triple-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-97.50822430668795, 35.46488043020676]
+			},
+			"properties": {
+				"Ballpark": "Chickasaw Bricktown Ballpark",
+				"Teams": [
+					{ "Team": "Oklahoma City Dodgers", "Class": "Triple-A", "League": "Triple-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-97.6305153782615, 30.5273453312246]
+			},
+			"properties": {
+				"Ballpark": "Dell Diamond",
+				"Teams": [
+					{ "Team": "Round Rock Express", "Class": "Triple-A", "League": "Triple-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-95.64733027263249, 29.62285192594135]
+			},
+			"properties": {
+				"Ballpark": "Constellation Field",
+				"Teams": [
+					{ "Team": "Sugar Land Skeeters", "Class": "Triple-A", "League": "Triple-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-115.32987899023846, 36.15248077310325]
+			},
+			"properties": {
+				"Ballpark": "Las Vegas Ballpark",
+				"Teams": [
+					{ "Team": "Las Vegas Aviators", "Class": "Triple-A", "League": "Triple-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-119.80836695742089, 39.52836872212972]
+			},
+			"properties": {
+				"Ballpark": "Greater Nevada Field",
+				"Teams": [
+					{ "Team": "Reno Aces", "Class": "Triple-A", "League": "Triple-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-121.51405591613077, 38.58020735312375]
+			},
+			"properties": {
+				"Ballpark": "Sutter Health Park",
+				"Teams": [
+					{ "Team": "Sacramento River Cats", "Class": "Triple-A", "League": "Triple-A West" },
+					{ "Team": "Sacramento State Hornets", "Class": "NCAA", "League": "Western Athletic Conference" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.89314019914372, 40.74096067996548]
+			},
+			"properties": {
+				"Ballpark": "Smith's Ballpark",
+				"Teams": [
+					{ "Team": "Salt Lake Bees", "Class": "Triple-A", "League": "Triple-A West" },
+					{ "Team": "Utah Utes", "Class": "NCAA", "League": "Pac-12 Conference" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.49775104792201, 47.23781638494464]
+			},
+			"properties": {
+				"Ballpark": "Cheney Stadium",
+				"Teams": [
+					{ "Team": "Tacoma Rainiers", "Class": "Triple-A", "League": "Triple-A West" }
+				]
+			}
 		}
 	]
 }
