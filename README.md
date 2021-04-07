@@ -1,10 +1,14 @@
-# GeoJSON-Ballparks
+ds# GeoJSON-Ballparks
 
 **Note: The project is going to shift how ballparks are maintained.  See [this blog post](https://spatiallyadjusted.com/geojson-ballparks-and-mlb-minor-league-realignment/) to learn more.**
 
 Ballparks of Professional teams in [GeoJSON](http://geojson.org).
 
-Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status/436588544329388032) if I had Lat/Longs for Major/Minor League ballparks.  I [pushed up a Gist](https://gist.github.com/cageyjames/9142310) and then realized this was a project worth putting effort into and defined the original goal to get all professional baseball team ballparks in GeoJSON format.  I'm using Wikipedia to define "[Professional Baseball](https://en.wikipedia.org/wiki/Professional_baseball)" but it is only for a guide.  My initial goal was to get all the North and South American teams (majors to rookie) mapped and then top tier teams from around the world.  Below is a list of teams that have been mapped, ones that are currently being worked on and a to-do list.  If you know of any teams outside of the New World that hasn't been mapped or isn't in the list below, I encourage you to add it so we can get it in.  Right now we're only using points to map the stadiums.  
+Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status/436588544329388032) if I had Lat/Longs for Major/Minor League ballparks.  I [pushed up a Gist](https://gist.github.com/cageyjames/9142310) and then realized this was a project worth putting effort into and defined the original goal to get all professional baseball team ballparks in GeoJSON format.  I'm using Wikipedia to define "[Professional Baseball](https://en.wikipedia.org/wiki/Professional_baseball)" but it is only for a guide.  My initial goal was to get all the North and South American teams (majors to rookie) mapped and then top tier teams from around the world.
+
+In 2021, [Major League Baseball](https://www.mlb.com/) reorganized all the [Minor League Baseball Teams](https://www.milb.com/). This basically affected over half of the ballparks mapped.  Mostly the league and class, but teams have left previous leagues and others have been eliminated or have gone to independent leagues.  Because of this, I am reviewing all the ballparks and instituing a new structure that has an array of teams at each stadium.
+
+Below is a list of teams that have been mapped, ones that are currently being worked on and a to-do list.  The new stadiums date from April 2, 2021.  Anything older would be in the [legacy-ballparks.geojson](https://github.com/cageyjames/GeoJSON-Ballparks/blob/master/legacy-ballparks.geojson). If you know of any teams outside of the the Americas that haven't been mapped or isn't in the list below, I encourage you to add it so we can get it in.  Right now we're only using points to map the stadiums.  
 
 There are over 450 ballparks around the world included.  If you find a league I haven't added yet, please fork and add it in yourself.
 
