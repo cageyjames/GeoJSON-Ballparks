@@ -1,4 +1,4 @@
-ds# GeoJSON-Ballparks
+# GeoJSON-Ballparks
 
 **Note: The project is going to shift how ballparks are maintained.  See [this blog post](https://spatiallyadjusted.com/geojson-ballparks-and-mlb-minor-league-realignment/) to learn more.**
 
@@ -23,7 +23,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | April 6, 2021 |
 | [Gulf Coast League](https://www.milb.com/gulf-coast) (Rookie) | April 7, 2021|
 | [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | April 7, 2021 |
-| [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Low-A) | April 7, 2021 |
+| [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 7, 2021 |
 
 ### Legacy (to be reviewed)
 | North America  | Update Date |
