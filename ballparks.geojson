@@ -576,7 +576,8 @@
 			"properties": {
 				"Ballpark": "CoolToday Park",
 				"Teams": [
-					{ "Team": "Atlanta Braves", "Class": "Spring Training", "League": "Grapefruit" }
+					{ "Team": "Atlanta Braves", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Gulf Coast League Braves", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -619,7 +620,8 @@
 				"Teams": [
 					{ "Team": "Detroit Tigers", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Lakeland Flying Tigers", "Class": "Low-A", "League": "Low-A Southeast" },
-					{ "Team": "Gulf Coast League Tigers", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Gulf Coast League Tigers East", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Gulf Coast League Tigers West", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -650,6 +652,8 @@
 				"Teams": [
 					{ "Team": "St. Louis Cardinals", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Miami Marlins", "Class": "Spring Training", "League": "Grapefruit" },
+					{ "Team": "Jupiter Hammerheads", "Class": "Low-A", "League": "Low-A Southeast" },
+					{ "Team": "Palm Beach Cardinals", "Class": "Low-A", "League": "Low-A Southeast" },
 					{ "Team": "Gulf Coast League Cardinals", "Class": "Rookie", "League": "Gulf Coast" },
 					{ "Team": "Gulf Coast League Marlins", "Class": "Rookie", "League": "Gulf Coast" }
 				]
@@ -696,7 +700,8 @@
 				"Teams": [
 					{ "Team": "New York Yankees", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Tampa Tarpons", "Class": "Low-A", "League": "Low-A Southeast" },
-					{ "Team": "Gulf Coast League Yankees", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Gulf Coast League Yankees East", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Gulf Coast League Yankees West", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -724,7 +729,8 @@
 				"Ballpark": "LECOM Park",
 				"Teams": [
 					{ "Team": "Pittsburg Pirates", "Class": "Spring Training", "League": "Grapefruit" },
-					{ "Team": "Bradenton Marauders", "Class": "Low-A", "League": "Low-A Southeast" }
+					{ "Team": "Bradenton Marauders", "Class": "Low-A", "League": "Low-A Southeast" },
+					{ "Team": "Gulf Coast League Pirates", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -753,6 +759,46 @@
 				"Teams": [
 					{ "Team": "Toronto Blue Jays", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Dunedin Blue Jays", "Class": "Low-A", "League": "Low-A Southwest" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.73180937359885, 27.973895421949173]
+			},
+			"properties": {
+				"Ballpark": "Carpenter Complex",
+				"Teams": [
+					{ "Team": "Gulf Coast League Phillies East", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Gulf Coast League Phillies West", "Class": "Rookie", "League": "Gulf Coast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.0160658357726, 29.209449194678776]
+			},
+			"properties": {
+				"Ballpark": "Radiology Associates Field at Jackie Robinson Ballpark",
+				"Teams": [
+					{ "Team": "Daytona Tortugas", "Class": "Low-A", "League": "Low-A Southeast" },
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.75611519764331, 28.032157258992815]
+			},
+			"properties": {
+				"Ballpark": "Bobby Mattick Training Center at Englebert Complex",
+				"Teams": [
+					{ "Team": "Gulf Coast League Blue Jays", "Class": "Rookie", "League": "Gulf Coast" },
 				]
 			}
 		}
