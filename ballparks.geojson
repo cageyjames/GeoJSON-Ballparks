@@ -933,6 +933,100 @@
 					{ "Team": "Tacoma Rainiers", "Class": "Triple-A", "League": "Triple-A West" }
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-83.01146468311569, 39.968913151810426]
+			},
+			"properties": {
+				"Ballpark": "Huntington Park",
+				"Teams": [
+					{ "Team": "Columbus Clippers", "Class": "Triple-A", "League": "Triple-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.169044270622326, 39.764543856318504]
+			},
+			"properties": {
+				"Ballpark": "Victory Field",
+				"Teams": [
+					{ "Team": "Indianapolis Indians", "Class": "Triple-A", "League": "Triple-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-93.61623966138842, 41.579893473340164]
+			},
+			"properties": {
+				"Ballpark": "Principal Park",
+				"Teams": [
+					{ "Team": "Iowa Cubs", "Class": "Triple-A", "League": "Triple-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-85.74465585419138, 38.25613456782562]
+			},
+			"properties": {
+				"Ballpark": "Louisville Slugger Field",
+				"Teams": [
+					{ "Team": "Louisville Bats", "Class": "Triple-A", "League": "Triple-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-96.10691077421696, 41.15151384667404]
+			},
+			"properties": {
+				"Ballpark": "Werner Park",
+				"Teams": [
+					{ "Team": "Omaha Storm Chasers", "Class": "Triple-A", "League": "Triple-A East" },
+					{ "Team": "Omaha Mavericks", "Class": "NCAA", "League": "Summit League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-93.08479296192826, 44.950925531281975]
+			},
+			"properties": {
+				"Ballpark": "CHS Field",
+				"Teams": [
+					{ "Team": "St. Paul Saints", "Class": "Triple-A", "League": "Triple-A East" },
+					{ "Team": "Hamine University", "Class": "NCAA", "League": "Minnesota Intercollegiate Athletic Conference" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-83.53911538951292, 41.64855258411921]
+			},
+			"properties": {
+				"Ballpark": "Fifth Third Field",
+				"Teams": [
+					{ "Team": "Toledo Mud Hens ", "Class": "Triple-A", "League": "Triple-A East" }
+				]
+			}
 		}
-	]
+	
+]
 }
