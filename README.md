@@ -24,7 +24,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Gulf Coast League](https://www.milb.com/gulf-coast) (Rookie) | April 7, 2021|
 | [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | April 7, 2021 |
 | [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 7, 2021 |
-| [Triple-A East (partial)](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 8, 2021 |
+| [Triple-A East](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 9, 2021 |
 
 ### Legacy (to be reviewed)
 | North America  | Update Date |
