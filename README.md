@@ -25,13 +25,11 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | April 7, 2021 |
 | [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 7, 2021 |
 | [Triple-A East](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 9, 2021 |
+| [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
 
 ### Legacy (to be reviewed)
 | North America  | Update Date |
 | ------------- | ------------- |
-| [International League](http://www.milb.com/index.jsp?sid=l117) (Class Triple-A) | March 2, 2020 |
-| [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Class Triple-A) | March 2, 2020 |
-| [Pacific Coast League](http://www.milb.com/index.jsp?sid=l112) (Class Triple-A) | March 1, 2020 |
 | [Eastern League](http://www.milb.com/index.jsp?sid=l113) (Class Double-A) | March 7, 2020 |
 | [Southern League](http://www.milb.com/index.jsp?sid=l111) (Class Double-A) | March 7, 2020 |
 | [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A) | March 7, 2020 |
@@ -92,6 +90,8 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [North Country Baseball League](https://web.archive.org/web/20151209141056/http://www.northcountrybaseballleague.com/) | League folded when teams moved to Empire Professional Baseball League |
 | [Thoroughbred League](https://web.archive.org/web/20171231192049/http://www.thoroughbredbaseball.com/) | League folded do to financial issues |
 | [United League Baseball](https://web.archive.org/web/20140625051415/http://www.unitedleaguebaseball.pointstreaksites.com/view/unitedleague) | League [declared bankruptcy](http://www.baseballessential.com/news/2015/01/15/united-league-baseball-folds-after-seven-seasons/) |
+| [International League](http://www.milb.com/index.jsp?sid=l117) (Class Triple-A) | Replaced by Triple-A East |
+| [Pacific Coast League](http://www.milb.com/index.jsp?sid=l112) (Class Triple-A) | Replaced by Triple-A West |
 
 ## To-Do
 

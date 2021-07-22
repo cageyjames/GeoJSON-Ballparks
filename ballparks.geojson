@@ -1211,6 +1211,266 @@
 					{ "Team": "Norfolk Tides", "Class": "Triple-A", "League": "Triple-A East" }
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-100.31575, 25.718517]
+			},
+			"properties": {
+				"Ballpark": "Estadio de Béisbol Monterrey",
+				"Teams": [
+					{ "Team": "Sultanes de Monterrey", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-101.659602, 21.145291]
+			},
+			"properties": {
+				"Ballpark": "Estadio Domingo Santana",
+				"Teams": [
+					{ "Team": "Bravos de Leon", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-104.689728, 24.015825]
+			},
+			"properties": {
+				"Ballpark": "Estadio Francisco Villa",
+				"Teams": [
+					{ "Team": "Generales de Durango", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-99.490624, 27.477872]
+			},
+			"properties": {
+				"Ballpark": "Parque la Junta",
+				"Teams": [
+					{ "Team": "Tecolotes de los Dos Laredos", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-99.45544, 27.55399]
+			},
+			"properties": {
+				"Ballpark": "Uni-Trade Stadium",
+				"Teams": [
+					{ "Team": "Tecolotes de los Dos Laredos", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-101.444117, 26.906914]
+			},
+			"properties": {
+				"Ballpark": "Estadio De Béisbol Monclova",
+				"Teams": [
+					{ "Team": "Acereros de Monclova", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-103.429178, 25.539575]
+			},
+			"properties": {
+				"Ballpark": "Estadio Revolución",
+				"Teams": [
+					{ "Team": "Algodoneros de Unión Laguna", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-104.68938525036941, 24.01607071987038]
+			},
+			"properties": {
+				"Ballpark": "Estadio Francisco Villa",
+				"Teams": [
+					{ "Team": "Generales de Durango", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-103.381528, 20.727361]
+			},
+			"properties": {
+				"Ballpark": "Estadio de Béisbol Charros de Jalisco y Atletismo",
+				"Teams": [
+					{ "Team": "Mariachis de Guadalajara", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-102.273542, 21.879776]
+			},
+			"properties": {
+				"Ballpark": "Parque Alberto Romo Chávez",
+				"Teams": [
+					{ "Team": "Rieleros de Aguascalientes", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-100.978806, 25.433653]
+			},
+			"properties": {
+				"Ballpark": "Estadio de Béisbol Francisco I. Madero",
+				"Teams": [
+					{ "Team": "Saraperos de Saltillo", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-116.91748, 32.483212]
+			},
+			"properties": {
+				"Ballpark": "Estadio Chevron",
+				"Teams": [
+					{ "Team": "Toros de Tijuana", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-99.085278, 19.403611]
+			},
+			"properties": {
+				"Ballpark": "Estadio Alfredo Harp Helú",
+				"Teams": [
+					{ "Team": "Diablos Rojos del México", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-96.12307206876005, 19.16504556424578]
+			},
+			"properties": {
+				"Ballpark": "Estadio Universitario Beto Ávila",
+				"Teams": [
+					{ "Team": "El Águila de Veracruz", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-96.713, 17.07]
+			},
+			"properties": {
+				"Ballpark": "Eduardo Vasconcelos Stadium",
+				"Teams": [
+					{ "Team": "Guerreros de Oaxaca", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-96.713, 17.07]
+			},
+			"properties": {
+				"Ballpark": "Parque Kukulcán Alamo",
+				"Teams": [
+					{ "Team": "Leones de Yucatán", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-92.944167, 17.976667]
+			},
+			"properties": {
+				"Ballpark": "Estadio Centenario 27 de Febrero",
+				"Teams": [
+					{ "Team": "Olmecas de Tabasco", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-98.165377, 19.075178]
+			},
+			"properties": {
+				"Ballpark": "Estadio Hermanos Serdán",
+				"Teams": [
+					{ "Team": "Pericos de Puebla", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-90.516906, 19.845797]
+			},
+			"properties": {
+				"Ballpark": "Estadio Nelson Barrera",
+				"Teams": [
+					{ "Team": "Piratas de Campeche", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.836861, 21.152525]
+			},
+			"properties": {
+				"Ballpark": "Estadio de Béisbol Beto Ávila",
+				"Teams": [
+					{ "Team": "Tigres de Quintana Roo", "Class": "Independent", "League": "Mexican League" }
+				]
+			}
 		}
 	]
 }
