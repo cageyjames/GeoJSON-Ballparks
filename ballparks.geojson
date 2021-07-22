@@ -1471,6 +1471,193 @@
 					{ "Team": "Tigres de Quintana Roo", "Class": "Independent", "League": "Mexican League" }
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.904988, 42.102769]
+			},
+			"properties": {
+				"Ballpark": "Mirabito Stadium",
+				"Teams": [
+					{ "Team": "Binghamton Rumble Ponies", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-72.673889, 41.771389]
+			},
+			"properties": {
+				"Ballpark": "Dunkin' Donuts Park",
+				"Teams": [
+					{ "Team": "Hartford Yard Goats", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-72.673889, 41.771389]
+			},
+			"properties": {
+				"Ballpark": "Northeast Delta Dental Stadium",
+				"Teams": [
+					{ "Team": "New Hampshire Fisher Cats", "Class": "Double-A", "League": "Double-A Northeast" },
+					{ "Team": "Hartford Hawks", "Class": "College", "League": "American East" },
+					{ "Team": "UConn Huskies", "Class": "Double-A", "League": "Big East" }
+					
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-70.278278, 43.656694]
+			},
+			"properties": {
+				"Ballpark": "Hadlock Field",
+				"Teams": [
+					{ "Team": "Portland Sea Dogs", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.933611, 40.365833]
+			},
+			"properties": {
+				"Ballpark": "FirstEnergy Stadium",
+				"Teams": [
+					{ "Team": "Reading Fightin Phils", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-71.466667, 42.980833]
+			},
+			"properties": {
+				"Ballpark": "Northeast Delta Dental Stadium",
+				"Teams": [
+					{ "Team": "New Hampshire Fisher Cats", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.55345891721379, 40.560914526247295]
+			},
+			"properties": {
+				"Ballpark": "TD Bank Ballpark",
+				"Teams": [
+					{ "Team": "Somerset Patriots", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.522202, 41.077924]
+			},
+			"properties": {
+				"Ballpark": "Canal Park",
+				"Teams": [
+					{ "Team": "Akron RubberDucks", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.394722, 40.473611]
+			},
+			"properties": {
+				"Ballpark": "Peoples Natural Gas Field",
+				"Teams": [
+					{ "Team": "Altoona Curve", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.70934, 38.94546]
+			},
+			"properties": {
+				"Ballpark": "Prince George's Stadium",
+				"Teams": [
+					{ "Team": "Bowie Baysox", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.08, 42.126944]
+			},
+			"properties": {
+				"Ballpark": "UPMC Park",
+				"Teams": [
+					{ "Team": "Erie SeaWolves", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.889977, 40.256428]
+			},
+			"properties": {
+				"Ballpark": "FNB Field",
+				"Teams": [
+					{ "Team": "Harrisburg Senators", "Class": "Double-A", "League": "Double-A Northeast" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.463733, 37.571806]
+			},
+			"properties": {
+				"Ballpark": "The Diamond",
+				"Teams": [
+					{ "Team": "Richmond Flying Squirrels", "Class": "Double-A", "League": "Double-A Northeast" },
+					{ "Team": "VCU Rams", "Class": "College", "League": "Atlantic-10" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.463733, 37.571806]
+			},
+			"properties": {
+				"Ballpark": "The Diamond",
+				"Teams": [
+					{ "Team": "Richmond Flying Squirrels", "Class": "Double-A", "League": "Double-A Northeast" },
+					{ "Team": "VCU Rams", "Class": "College", "League": "Atlantic-10" }
+				]
+			}
 		}
 	]
 }
