@@ -28,7 +28,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
 
 ### Legacy (to be reviewed)
-| North America  | Update Date |
+| North America  | Old Update Date |
 | ------------- | ------------- |
 | [Eastern League](http://www.milb.com/index.jsp?sid=l113) (Class Double-A) | March 7, 2020 |
 | [Southern League](http://www.milb.com/index.jsp?sid=l111) (Class Double-A) | March 7, 2020 |
