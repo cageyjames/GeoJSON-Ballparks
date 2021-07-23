@@ -26,6 +26,8 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 7, 2021 |
 | [Triple-A East](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 9, 2021 |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
+| [Double-A Northeast](https://en.wikipedia.org/wiki/Double-A_Northeast) (Double-A) | July 22, 2021 |
+| [Double-A South](https://en.wikipedia.org/wiki/Double-A_South) (Double-A) | July 22, 2021 |
 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
