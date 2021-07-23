@@ -1658,6 +1658,114 @@
 					{ "Team": "VCU Rams", "Class": "College", "League": "Atlantic-10" }
 				]
 			}
+		},
+				{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.810218, 33.50763]
+			},
+			"properties": {
+				"Ballpark": "Regions Field",
+				"Teams": [
+					{ "Team": "Birmingham Barons", "Class": "Double-A", "League": "Double-A South" },
+					{ "Team": "UAB Blazers", "Class": "Collage", "League": "Conference USA" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-85.313889, 35.054444]
+			},
+			"properties": {
+				"Ballpark": "AT&T Field",
+				"Teams": [
+					{ "Team": "Chattanooga Lookouts", "Class": "Double-A", "League": "Double-A South" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.724288, 34.683883]
+			},
+			"properties": {
+				"Ballpark": "Toyota Field",
+				"Teams": [
+					{ "Team": "Rocket City Trash Pandas", "Class": "Double-A", "League": "Double-A South" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-83.604444, 35.988889]
+			},
+			"properties": {
+				"Ballpark": "Smokies Stadium",
+				"Teams": [
+					{ "Team": "Tennessee Smokies", "Class": "Double-A", "League": "Double-A South" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.893463, 30.395741]
+			},
+			"properties": {
+				"Ballpark": "MGM Park",
+				"Teams": [
+					{ "Team": "Biloxi Shuckers", "Class": "Double-A", "League": "Double-A South" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-90.147969, 32.27391]
+			},
+			"properties": {
+				"Ballpark": "Trustmark Park",
+				"Teams": [
+					{ "Team": "Mississippi Braves", "Class": "Double-A", "League": "Double-A South" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.3106, 32.3822]
+ 	     },
+			},
+			"properties": {
+				"Ballpark": "Montgomery Riverwalk Stadium",
+				"Teams": [
+					{ "Team": "Montgomery Biscuits", "Class": "Double-A", "League": "Double-A South" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-87.219662, 30.404295]
+ 	     },
+			},
+			"properties": {
+				"Ballpark": "Admiral Fetterman Field",
+				"Teams": [
+					{ "Team": "Pensacola Blue Wahoos", "Class": "Double-A", "League": "Double-A South" },
+					{ "Team": "West Florida Argonauts", "Class": "College", "League": "Gulf South Conference" }
+				]
+			}
 		}
 	]
 }

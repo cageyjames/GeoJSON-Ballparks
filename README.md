@@ -30,7 +30,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
 | ------------- | ------------- |
-| [Southern League](http://www.milb.com/index.jsp?sid=l111) (Class Double-A) | March 7, 2020 |
 | [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A) | March 7, 2020 |
 | [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | March 7, 2020 |
 | [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | March 7, 2020 |
@@ -92,6 +91,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [International League](https://en.wikipedia.org/wiki/International_League) (Class Triple-A) | Replaced by Triple-A East |
 | [Pacific Coast League](https://en.wikipedia.org/wiki/Pacific_Coast_League) (Class Triple-A) | Replaced by Triple-A West |
 | [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(baseball)) (Class Double-A) | Replaced by Double-A Northeast |
+| [Southern League](https://en.wikipedia.org/wiki/Southern_League_(baseball)) (Class Double-A) | Replaced by Double-A South |
 
 ## To-Do
 
