@@ -1766,6 +1766,136 @@
 					{ "Team": "West Florida Argonauts", "Class": "College", "League": "Gulf South Conference" }
 				]
 			}
-		}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-92.272582, 34.755215]
+			},
+			"properties": {
+				"Ballpark": "Dickey-Stephens Park",
+				"Teams": [
+					{ "Team": "Arkansas Travelers", "Class": "Double-A", "League": "Double-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-94.195, 36.159167]
+			},
+			"properties": {
+				"Ballpark": "Arvest Ballpark",
+				"Teams": [
+					{ "Team": "Northwest Arkansas Naturals", "Class": "Double-A", "League": "Double-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-93.279722, 37.211111]
+			"properties": {
+				"Ballpark": "Hammons Field",
+				"Teams": [
+					{ "Team": "Springfield Cardinals", "Class": "Double-A", "League": "Double-A Central" },
+					{ "Team": "Missouri State Bears", "Class": "College", "League": "Missouri Valley" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-95.988056, 36.159722]
+			},
+			"properties": {
+				"Ballpark": "ONEOK Field",
+				"Teams": [
+					{ "Team": "Tulsa Drillers", "Class": "Double-A", "League": "Double-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-97.34524917960256, 37.68155929924873]
+			},
+			"properties": {
+				"Ballpark": "Riverfront Stadium",
+				"Teams": [
+					{ "Team": "Wichita Wind Surge", "Class": "Double-A", "League": "Double-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-101.831944, 35.205556]
+			},
+			"properties": {
+				"Ballpark": "Hodgetown",
+				"Teams": [
+					{ "Team": "Amarillo Sod Poodles", "Class": "Double-A", "League": "Double-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-97.399681, 27.809595]
+			},
+			"properties": {
+				"Ballpark": "Whataburger Field",
+				"Teams": [
+					{ "Team": "Corpus Christi Hooks", "Class": "Double-A", "League": "Double-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-96.81972, 33.098382]
+			},
+			"properties": {
+				"Ballpark": "Riders Field",
+				"Teams": [
+					{ "Team": "Frisco RoughRiders", "Class": "Double-A", "League": "Double-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-102.155799, 31.987332]
+			},
+			"properties": {
+				"Ballpark": "Momentum Bank Ballpark",
+				"Teams": [
+					{ "Team": "Midland RockHounds", "Class": "Double-A", "League": "Double-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-98.60144018417942, 29.40940596862813]
+			},
+			"properties": {
+				"Ballpark": "Nelson W. Wolff Municipal Stadium",
+				"Teams": [
+					{ "Team": "San Antonio Missions", "Class": "Double-A", "League": "Double-A Central" }
+				]
+			}
+		},
 	]
 }
