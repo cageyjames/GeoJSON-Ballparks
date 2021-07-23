@@ -1743,7 +1743,6 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [-86.3106, 32.3822]
- 	     },
 			},
 			"properties": {
 				"Ballpark": "Montgomery Riverwalk Stadium",
@@ -1757,7 +1756,6 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [-87.219662, 30.404295]
- 	     },
 			},
 			"properties": {
 				"Ballpark": "Admiral Fetterman Field",
@@ -1798,6 +1796,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [-93.279722, 37.211111]
+			},
 			"properties": {
 				"Ballpark": "Hammons Field",
 				"Teams": [
