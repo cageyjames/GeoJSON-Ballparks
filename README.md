@@ -29,6 +29,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Double-A Northeast](https://en.wikipedia.org/wiki/Double-A_Northeast) (Double-A) | July 22, 2021 |
 | [Double-A South](https://en.wikipedia.org/wiki/Double-A_South) (Double-A) | July 22, 2021 |
 | [Double-A Central](https://en.wikipedia.org/wiki/Double-A_Central) (Double-A) | July 22, 2021 |
+| [High-A West](https://en.wikipedia.org/wiki/High-A_West) (Double-A) | July 25, 2021 |
 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
@@ -38,7 +39,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | March 7, 2020 |
 | [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A) | March 8, 2020 |
 | [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | March 8, 2020 |
-| [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short) | March 22, 2020 |
 | [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | March 22, 2020 |
 | [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced) | March 22, 2020 |
 | [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced) | March 22, 2020 |
@@ -95,6 +95,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(baseball)) (Class Double-A) | Replaced by Double-A Northeast |
 | [Southern League](https://en.wikipedia.org/wiki/Southern_League_(baseball)) (Class Double-A) | Replaced by Double-A South |
 | [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A) | Replaced by Double-A Central |
+| [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short) | Replaced by High-A West |
 
 ## To-Do
 

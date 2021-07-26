@@ -1895,6 +1895,86 @@
 					{ "Team": "San Antonio Missions", "Class": "Double-A", "League": "Double-A Central" }
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-123.066, 44.059]
+			},
+			"properties": {
+				"Ballpark": "PK Park",
+				"Teams": [
+					{ "Team": "Eugene Emeralds", "Class": "High-A", "League": "High-A West" },
+					{ "Team": "Oregon Ducks", "Class": "College", "League": "Pacific" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.203, 47.967]
+			},
+			"properties": {
+				"Ballpark": "Funko Field",
+				"Teams": [
+					{ "Team": "Everett AquaSox", "Class": "High-A", "League": "High-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-122.9082, 45.5536]
+			},
+			"properties": {
+				"Ballpark": "Ron Tonkin Field",
+				"Teams": [
+					{ "Team": "Hillsboro Hops", "Class": "High-A", "League": "High-A West" },
+					{ "Team": "Vancouver Canadians", "Class": "High-A", "League": "High-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-123.1063, 49.2431]
+			},
+			"properties": {
+				"Ballpark": "Nat Bailey Stadium",
+				"Teams": [
+					{ "Team": "Vancouver Canadians", "Class": "High-A", "League": "High-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.345, 47.662]
+			},
+			"properties": {
+				"Ballpark": "Avista Stadium",
+				"Teams": [
+					{ "Team": "Spokane Indians", "Class": "High-A", "League": "High-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-119.172, 46.267]
+			},
+			"properties": {
+				"Ballpark": "Gesa Stadium",
+				"Teams": [
+					{ "Team": "Tri-City Dust Devils", "Class": "High-A", "League": "High-A West" }
+				]
+			}
 		}
 	]
 }
