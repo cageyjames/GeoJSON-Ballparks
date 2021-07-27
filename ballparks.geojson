@@ -1975,6 +1975,177 @@
 					{ "Team": "Tri-City Dust Devils", "Class": "High-A", "League": "High-A West" }
 				]
 			}
-		}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-84.185, 39.764167]
+			},
+			"properties": {
+				"Ballpark": "Day Air Ballpark",
+				"Teams": [
+					{ "Team": "Dayton Dragons", "Class": "High-A", "League": "High-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-85.142861, 41.074056]
+			},
+			"properties": {
+				"Ballpark": "Parkview Field",
+				"Teams": [
+					{ "Team": "Fort Wayne TinCaps", "Class": "High-A", "League": "High-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-84.236703, 43.609169]
+			},
+			"properties": {
+				"Ballpark": "Dow Diamond",
+				"Teams": [
+					{ "Team": "Great Lakes Loons", "Class": "High-A", "League": "High-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.435556, 41.641111]
+			},
+			"properties": {
+				"Ballpark": "Classic Park",
+				"Teams": [
+					{ "Team": "Lake County Captains", "Class": "High-A", "League": "High-A Central" },
+					{ "Team": "Lake Erie Storm", "Class": "College", "League": "Great Midwest Athletic Conference" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-84.545278, 42.734722]
+			},
+			"properties": {
+				"Ballpark": "Jackson Field",
+				"Teams": [
+					{ "Team": "Lansing Lugnuts", "Class": "High-A", "League": "High-A Central" },
+					{ "Team": "Michigan State Spartans", "Class": "College", "League": "Big Ten" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-85.659832, 43.040195]
+			},
+			"properties": {
+				"Ballpark": "LMCU Ballpark",
+				"Teams": [
+					{ "Team": "West Michigan Whitecaps", "Class": "High-A", "League": "High-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-89.039896, 42.496598]
+			},
+			"properties": {
+				"Ballpark": "ABC Supply Stadium",
+				"Teams": [
+					{ "Team": "Beloit Snappers", "Class": "High-A", "League": "High-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-89.007947, 42.53539]
+			},
+			"properties": {
+				"Ballpark": "Harry C. Pohlman Field",
+				"Teams": [					
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-91.686389, 41.968056]
+			},
+			"properties": {
+				"Ballpark": "Veterans Memorial Stadium",
+				"Teams": [
+					{ "Team": "Cedar Rapids Kernels", "Class": "High-A", "League": "High-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-89.5975, 40.6875]
+			},
+			"properties": {
+				"Ballpark": "Dozer Park",
+				"Teams": [
+					{ "Team": "Peoria Chiefs", "Class": "High-A", "League": "High-A Central" },
+					{ "Team": "Bradley Braves", "Class": "College", "League": "Missouri Valley" }					
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-90.582242, 41.518669]
+			},
+			"properties": {
+				"Ballpark": "Modern Woodmen Park",
+				"Teams": [
+					{ "Team": "Quad Cities River Bandits", "Class": "High-A", "League": "High-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.255478, 41.670394]
+			},
+			"properties": {
+				"Ballpark": "Four Winds Field at Coveleski Stadium",
+				"Teams": [
+					{ "Team": "South Bend Cubs", "Class": "High-A", "League": "High-A Central" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-88.468742, 44.283524]
+			},
+			"properties": {
+				"Ballpark": "Neuroscience Group Field at Fox Cities Stadium",
+				"Teams": [
+					{ "Team": "Wisconsin Timber Rattlers", "Class": "High-A", "League": "High-A Central" }
+				]
+			}
+		},
 	]
 }
