@@ -1544,19 +1544,6 @@
 			"type": "Feature",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [-71.466667, 42.980833]
-			},
-			"properties": {
-				"Ballpark": "Northeast Delta Dental Stadium",
-				"Teams": [
-					{ "Team": "New Hampshire Fisher Cats", "Class": "Double-A", "League": "Double-A Northeast" }
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
 				"coordinates": [-74.55345891721379, 40.560914526247295]
 			},
 			"properties": {
