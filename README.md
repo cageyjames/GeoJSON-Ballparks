@@ -29,18 +29,17 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Double-A Northeast](https://en.wikipedia.org/wiki/Double-A_Northeast) (Double-A) | July 22, 2021 |
 | [Double-A South](https://en.wikipedia.org/wiki/Double-A_South) (Double-A) | July 22, 2021 |
 | [Double-A Central](https://en.wikipedia.org/wiki/Double-A_Central) (Double-A) | July 22, 2021 |
-| [High-A West](https://en.wikipedia.org/wiki/High-A_West) (Double-A) | July 25, 2021 |
-| [High-A Central](https://en.wikipedia.org/wiki/High-A_Central) (Double-A) | July 26, 2021 |
+| [High-A West](https://en.wikipedia.org/wiki/High-A_West) (High-A) | July 25, 2021 |
+| [High-A Central](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | July 26, 2021 |
+| [High-A East](https://en.wikipedia.org/wiki/High-A_East) (High-A) | August 7, 2021 |
 
 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
 | ------------- | ------------- |
 | [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | March 7, 2020 |
-| [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | March 7, 2020 |
 | [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | March 7, 2020 |
 | [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | March 8, 2020 |
-| [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | March 22, 2020 |
 | [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced) | March 22, 2020 |
 | [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced) | March 22, 2020 |
 | [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall) | March 21, 2020 |
@@ -97,7 +96,10 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Southern League](https://en.wikipedia.org/wiki/Southern_League_(baseball)) (Class Double-A) | Replaced by Double-A South |
 | [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A) | Replaced by Double-A Central |
 | [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short) | Replaced by High-A West |
-| [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A) | Replaced by High-A Central |
+| [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A) | Replaced by High-A Central and High-A East |
+| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by High-A East and Low-A East |
+| [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | Replaced by High-A East, Perfect Game League, MLB Draft League, Futures Collegiate Baseball League and Frontier League |
+| [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | Replaced by High-A East, Low-A East and MLB Draft League |
 
 ## To-Do
 

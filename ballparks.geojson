@@ -2133,6 +2133,164 @@
 					{ "Team": "Wisconsin Timber Rattlers", "Class": "High-A", "League": "High-A Central" }
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-76.185985, 39.530873]
+			},
+			"properties": {
+				"Ballpark": "Leidos Field at Ripken Stadium",
+				"Teams": [
+					{ "Team": "Aberdeen IronBirds", "Class": "High-A", "League": "High-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.984353, 40.574547]
+			},
+			"properties": {
+				"Ballpark": "Maimonides Park",
+				"Teams": [
+					{ "Team": "Brooklyn Cyclones", "Class": "High-A", "League": "High-A East" },
+					{ "Team": "NYU Violets", "Class": "College", "League": "UAA" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-73.961067, 41.527911]
+			},
+			"properties": {
+				"Ballpark": "Dutchess Stadium",
+				"Teams": [
+					{ "Team": "Hudson Valley Renegades", "Class": "High-A", "League": "High-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.186667, 40.075278]
+			},
+			"properties": {
+				"Ballpark": "FirstEnergy Park",
+				"Teams": [
+					{ "Team": "Jersey Shore BlueClaws", "Class": "High-A", "League": "High-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.564444, 39.732222]
+			},
+			"properties": {
+				"Ballpark": "Daniel S. Frawley Stadium",
+				"Teams": [
+					{ "Team": "Wilmington Blue Rocks", "Class": "High-A", "League": "High-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.549167, 35.587222]
+			},
+			"properties": {
+				"Ballpark": "McCormick Field",
+				"Teams": [
+					{ "Team": "Asheville Tourists", "Class": "High-A", "League": "High-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-86.440906, 36.996778]
+			},
+			"properties": {
+				"Ballpark": "Bowling Green Ballpark",
+				"Teams": [
+					{ "Team": "Bowling Green Hot Rods", "Class": "High-A", "League": "High-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-79.794722, 36.076667]
+			},
+			"properties": {
+				"Ballpark": "First National Bank Field",
+				"Teams": [
+					{ "Team": "Greensboro Grasshoppers", "Class": "High-A", "League": "High-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.4082, 34.8422]
+			},
+			"properties": {
+				"Ballpark": "Fluor Field at the West End",
+				"Teams": [
+					{ "Team": "Greenville Drive", "Class": "High-A", "League": "High-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.378611, 35.749167]
+			},
+			"properties": {
+				"Ballpark": "L. P. Frans Stadium",
+				"Teams": [
+					{ "Team": "Hickory Crawdads", "Class": "High-A", "League": "High-A East" },
+					{ "Team": "Catawba Valley Stars", "Class": "Collegiate Summer Baseball", "League": "Great South League" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-85.167222, 34.285833]
+			},
+			"properties": {
+				"Ballpark": "State Mutual Stadium",
+				"Teams": [
+					{ "Team": "Rome Braves", "Class": "High-A", "League": "High-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.255962, 36.091602]
+			},
+			"properties": {
+				"Ballpark": "Truist Stadium",
+				"Teams": [
+					{ "Team": "Winston-Salem Dash", "Class": "High-A", "League": "High-A East" }
+				]
+			}
 		}
 	]
 }
