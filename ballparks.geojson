@@ -2291,6 +2291,111 @@
 					{ "Team": "Winston-Salem Dash", "Class": "High-A", "League": "High-A East" }
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-119.7905, 36.7321]
+			},
+			"properties": {
+				"Ballpark": "Chukchansi Park",
+				"Teams": [
+					{ "Team": "Fresno Grizzlies", "Class": "Low-A", "League": "Low-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-121.000814, 37.622658]
+			},
+			"properties": {
+				"Ballpark": "John Thurman Field",
+				"Teams": [
+					{ "Team": "Modesto Nuts", "Class": "Low-A", "League": "Low-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-121.862222, 37.320556]
+			},
+			"properties": {
+				"Ballpark": "Excite Ballpark",
+				"Teams": [
+					{ "Team": "San Jose Giants", "Class": "Low-A", "League": "Low-A West" },
+					{ "Team": "San Jose Spartans", "Class": "College", "League": "Mountain West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-121.297956, 37.954856]
+			},
+			"properties": {
+				"Ballpark": "Banner Island Ballpark",
+				"Teams": [
+					{ "Team": "Stockton Ports", "Class": "Low-A", "League": "Low-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.295278, 34.097222]
+			},
+			"properties": {
+				"Ballpark": "San Manuel Stadium",
+				"Teams": [
+					{ "Team": "Inland Empire 66ers", "Class": "Low-A", "League": "Low-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.301944, 33.654167]
+			},
+			"properties": {
+				"Ballpark": "Lake Elsinore Diamond",
+				"Teams": [
+					{ "Team": "Lake Elsinore Storm", "Class": "Low-A", "League": "Low-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-117.54797, 34.102765]
+			},
+			"properties": {
+				"Ballpark": "LoanMart Field",
+				"Teams": [
+					{ "Team": "Rancho Cucamonga Quakes", "Class": "Low-A", "League": "Low-A West" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-119.304722, 36.3325]
+			},
+			"properties": {
+				"Ballpark": "Valley Strong Ballpark",
+				"Teams": [
+					{ "Team": "Visalia Rawhide", "Class": "Low-A", "League": "Low-A West" }
+				]
+			}
 		}
 	]
 }

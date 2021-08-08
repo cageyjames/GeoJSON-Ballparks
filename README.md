@@ -32,12 +32,12 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [High-A West](https://en.wikipedia.org/wiki/High-A_West) (High-A) | July 25, 2021 |
 | [High-A Central](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | July 26, 2021 |
 | [High-A East](https://en.wikipedia.org/wiki/High-A_East) (High-A) | August 7, 2021 |
+| [Low-A West](https://en.wikipedia.org/wiki/Low-A_West) (Low-A) | August 8, 2021 |
 
 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
 | ------------- | ------------- |
-| [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | March 7, 2020 |
 | [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | March 7, 2020 |
 | [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | March 8, 2020 |
 | [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced) | March 22, 2020 |
@@ -91,7 +91,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Thoroughbred League](https://web.archive.org/web/20171231192049/http://www.thoroughbredbaseball.com/) | League folded do to financial issues |
 | [United League Baseball](https://web.archive.org/web/20140625051415/http://www.unitedleaguebaseball.pointstreaksites.com/view/unitedleague) | League [declared bankruptcy](http://www.baseballessential.com/news/2015/01/15/united-league-baseball-folds-after-seven-seasons/) |
 | [International League](https://en.wikipedia.org/wiki/International_League) (Class Triple-A) | Replaced by Triple-A East |
-| [Pacific Coast League](https://en.wikipedia.org/wiki/Pacific_Coast_League) (Class Triple-A) | Replaced by Triple-A West |
+| [Pacific Coast League](https://en.wikipedia.org/wiki/Pacific_Coast_League) (Class Triple-A) | Replaced by Triple-A West and Low-A West |
 | [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(baseball)) (Class Double-A) | Replaced by Double-A Northeast |
 | [Southern League](https://en.wikipedia.org/wiki/Southern_League_(baseball)) (Class Double-A) | Replaced by Double-A South |
 | [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A) | Replaced by Double-A Central |
@@ -100,6 +100,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by High-A East and Low-A East |
 | [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | Replaced by High-A East, Perfect Game League, MLB Draft League, Futures Collegiate Baseball League and Frontier League |
 | [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | Replaced by High-A East, Low-A East and MLB Draft League |
+| [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | Replaced by Low-A West |
 
 ## To-Do
 
