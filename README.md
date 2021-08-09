@@ -33,13 +33,13 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [High-A Central](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | July 26, 2021 |
 | [High-A East](https://en.wikipedia.org/wiki/High-A_East) (High-A) | August 7, 2021 |
 | [Low-A West](https://en.wikipedia.org/wiki/Low-A_West) (Low-A) | August 8, 2021 |
+| [Low-A East](https://en.wikipedia.org/wiki/Low-A_East) (Low-A) | August 9, 2021 |
 
 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
 | ------------- | ------------- |
 | [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | March 7, 2020 |
-| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | March 8, 2020 |
 | [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced) | March 22, 2020 |
 | [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced) | March 22, 2020 |
 | [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall) | March 21, 2020 |
@@ -101,6 +101,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | Replaced by High-A East, Perfect Game League, MLB Draft League, Futures Collegiate Baseball League and Frontier League |
 | [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | Replaced by High-A East, Low-A East and MLB Draft League |
 | [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | Replaced by Low-A West |
+| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by High-A East, Low-A East and Atlantic League of Professional Baseball |
 
 ## To-Do
 
