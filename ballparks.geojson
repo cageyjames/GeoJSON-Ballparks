@@ -2396,6 +2396,164 @@
 					{ "Team": "Visalia Rawhide", "Class": "Low-A", "League": "Low-A West" }
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-75.529444, 38.369722]
+			},
+			"properties": {
+				"Ballpark": "Arthur W. Perdue Stadium",
+				"Teams": [
+					{ "Team": "Delmarva Shorebirds", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.35214, 38.68396]
+			},
+			"properties": {
+				"Ballpark": "FredNats Ballpark",
+				"Teams": [
+					{ "Team": "Fredericksburg Nationals", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-79.165623, 37.392816]
+			},
+			"properties": {
+				"Ballpark": "Bank of the James Stadium",
+				"Teams": [
+					{ "Team": "Lynchburg Hillcats", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.036667, 37.285278]
+			},
+			"properties": {
+				"Ballpark": "Salem Memorial Ballpark",
+				"Teams": [
+					{ "Team": "Salem Red Sox", "Class": "Low-A", "League": "Low-A East" },
+					{ "Team": "Roanoke Maroons", "Class": "College", "League": "Old Dominion Athletic Conference" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.27, 35.817222]
+			},
+			"properties": {
+				"Ballpark": "Five County Stadium",
+				"Teams": [
+					{ "Team": "Carolina Mudcats", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-77.574167, 35.27]
+			},
+			"properties": {
+				"Ballpark": "Grainger Stadium",
+				"Teams": [
+					{ "Team": "Down East Wood Ducks", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.883382, 35.055914]
+			},
+			"properties": {
+				"Ballpark": "Segra Stadium",
+				"Teams": [
+					{ "Team": "Fayetteville Woodpeckers", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},		
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.626667, 35.499167]
+			},
+			"properties": {
+				"Ballpark": "Atrium Health Ballpark",
+				"Teams": [
+					{ "Team": "Kannapolis Cannon Ballers", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},	
+ 		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.973889, 33.483889]
+			},
+			"properties": {
+				"Ballpark": "SRP Park",
+				"Teams": [
+					{ "Team": "Augusta GreenJackets", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},	
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-79.961111, 32.790278]
+			},
+			"properties": {
+				"Ballpark": "Joseph P. Riley, Jr. Park",
+				"Teams": [
+					{ "Team": "Charleston RiverDogs", "Class": "Low-A", "League": "Low-A East" },
+					{ "Team": "The Citadel Bulldogs", "Class": "College", "League": "Southern" }
+				]
+			}
+		},
+ 		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.031397, 34.017417]
+			},
+			"properties": {
+				"Ballpark": "Segra Park",
+				"Teams": [
+					{ "Team": "Columbia Fireflies", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},	
+ 		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-78.8845, 33.711682]
+			},
+			"properties": {
+				"Ballpark": "TicketReturn.Com Field at Pelicans Ballpark",
+				"Teams": [
+					{ "Team": "Myrtle Beach Pelicans", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
 		}
 	]
 }
