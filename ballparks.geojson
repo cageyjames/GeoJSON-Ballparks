@@ -403,7 +403,7 @@
 				"Teams": [
 					{ "Team": "Arizona Diamondbacks", "Class": "Spring Training", "League": "Cactus" },
 					{ "Team": "Colorado Rockies", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Salt River Rafters", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Salt River Rafters", "Class": "Off Season", "League": "Arizona Complex League" },
 					{ "Team": "Arizona League Diamondbacks", "Class": "Rookie", "League": "Arizona League" }
 				]
 			}
@@ -418,7 +418,7 @@
 				"Ballpark": "Sloan Park",
 				"Teams": [
 					{ "Team": "Chicago Cubs", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Mesa Solar Sox", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Mesa Solar Sox", "Class": "Off Season", "League": "Arizona Complex League" },
 					{ "Team": "Arizona League Cubs 1", "Class": "Rookie", "League": "Arizona League" },
 					{ "Team": "Arizona League Cubs 2", "Class": "Rookie", "League": "Arizona League" }
 				]
@@ -436,7 +436,7 @@
 					{ "Team": "Chicago White Sox", "Class": "Spring Training", "League": "Cactus" },
 					{ "Team": "Los Angeles Dodgers", "Class": "Spring Training", "League": "Cactus" },
 					{ "Team": "Arizona League Dodgers Lasorda", "Class": "Rookie", "League": "Arizona League" },
-					{ "Team": "Glendale Desert Dogs", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Glendale Desert Dogs", "Class": "Off Season", "League": "Arizona Complex League" },
 					{ "Team": "Arizona League White Sox", "Class": "Rookie", "League": "Arizona League" },
 					{ "Team": "Arizona League Dodgers Mota", "Class": "Rookie", "League": "Arizona League" }
 				]
@@ -470,7 +470,7 @@
 				"Teams": [
 					{ "Team": "Kansas City Royals", "Class": "Spring Training", "League": "Cactus" },
 					{ "Team": "Texas Rangers", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Surprise Saguaros", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Surprise Saguaros", "Class": "Off Season", "League": "Arizona Complex League" },
 					{ "Team": "Arizona League Rangers", "Class": "Rookie", "League": "Arizona League" },
 					{ "Team": "Arizona League Royals", "Class": "Rookie", "League": "Arizona League" }
 				]
@@ -529,8 +529,8 @@
 				"Teams": [
 					{ "Team": "San Diego Padres", "Class": "Spring Training", "League": "Cactus" },
 					{ "Team": "Seattle Mariners", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Peoria Javelinas", "Class": "Off Season", "League": "Arizona Fall League" },
-					{ "Team": "Peoria Saguaros", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Peoria Javelinas", "Class": "Off Season", "League": "Arizona Complex League" },
+					{ "Team": "Peoria Saguaros", "Class": "Off Season", "League": "Arizona Complex League" },
 					{ "Team": "Arizona League Mariners", "Class": "Rookie", "League": "Arizona League" },
 					{ "Team": "Arizona League Padres 1", "Class": "Rookie", "League": "Arizona League" },
 					{ "Team": "Arizona League Padres 2", "Class": "Rookie", "League": "Arizona League" }
@@ -547,7 +547,7 @@
 				"Ballpark": "Scottsdale Stadium",
 				"Teams": [
 					{ "Team": "San Francisco Giants", "Class": "Spring Training", "League": "Cactus" },
-					{ "Team": "Scottsdale Scorpions", "Class": "Off Season", "League": "Arizona Fall League" },
+					{ "Team": "Scottsdale Scorpions", "Class": "Off Season", "League": "Arizona Complex League" },
 					{ "Team": "Arizona League Giants Black", "Class": "Rookie", "League": "Arizona League" },
 					{ "Team": "Arizona League Giants Orange", "Class": "Rookie", "League": "Arizona League" }
 				]
@@ -577,7 +577,7 @@
 				"Ballpark": "CoolToday Park",
 				"Teams": [
 					{ "Team": "Atlanta Braves", "Class": "Spring Training", "League": "Grapefruit" },
-					{ "Team": "Gulf Coast League Braves", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Braves", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -591,7 +591,7 @@
 				"Ballpark": "Ed Smith Stadium",
 				"Teams": [
 					{ "Team": "Baltimore Orioles", "Class": "Spring Training", "League": "Grapefruit" },
-					{ "Team": "Gulf Coast League Orioles", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Orioles", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -605,7 +605,7 @@
 				"Ballpark": "JetBlue Park at Fenway South",
 				"Teams": [
 					{ "Team": "Boston Red Sox", "Class": "Spring Training", "League": "Grapefruit" },
-					{ "Team": "Gulf Coast League Red Sox", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Red Sox", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -620,8 +620,8 @@
 				"Teams": [
 					{ "Team": "Detroit Tigers", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Lakeland Flying Tigers", "Class": "Low-A", "League": "Low-A Southeast" },
-					{ "Team": "Gulf Coast League Tigers East", "Class": "Rookie", "League": "Gulf Coast" },
-					{ "Team": "Gulf Coast League Tigers West", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Tigers East", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Florida Complex League Tigers West", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -636,8 +636,8 @@
 				"Teams": [
 					{ "Team": "Houston Astros", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Washington Nationals", "Class": "Spring Training", "League": "Grapefruit" },
-					{ "Team": "Gulf Coast League Astros", "Class": "Rookie", "League": "Gulf Coast" },
-					{ "Team": "Gulf Coast League Nationals", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Astros", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Florida Complex League Nationals", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -654,8 +654,8 @@
 					{ "Team": "Miami Marlins", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Jupiter Hammerheads", "Class": "Low-A", "League": "Low-A Southeast" },
 					{ "Team": "Palm Beach Cardinals", "Class": "Low-A", "League": "Low-A Southeast" },
-					{ "Team": "Gulf Coast League Cardinals", "Class": "Rookie", "League": "Gulf Coast" },
-					{ "Team": "Gulf Coast League Marlins", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Cardinals", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Florida Complex League Marlins", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -670,7 +670,7 @@
 				"Teams": [
 					{ "Team": "Minnesota Twins", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Fort Myers Might Mussels", "Class": "Low-A", "League": "Low-A Southeast" },
-					{ "Team": "Gulf Coast League Twins", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Twins", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -685,7 +685,7 @@
 				"Teams": [
 					{ "Team": "New York Mets", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "St. Lucie Mets", "Class": "Low-A", "League": "Low-A Southeast" },
-					{ "Team": "Gulf Coast League Mets", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Mets", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -700,8 +700,8 @@
 				"Teams": [
 					{ "Team": "New York Yankees", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Tampa Tarpons", "Class": "Low-A", "League": "Low-A Southeast" },
-					{ "Team": "Gulf Coast League Yankees East", "Class": "Rookie", "League": "Gulf Coast" },
-					{ "Team": "Gulf Coast League Yankees West", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Yankees East", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Florida Complex League Yankees West", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -730,7 +730,7 @@
 				"Teams": [
 					{ "Team": "Pittsburg Pirates", "Class": "Spring Training", "League": "Grapefruit" },
 					{ "Team": "Bradenton Marauders", "Class": "Low-A", "League": "Low-A Southeast" },
-					{ "Team": "Gulf Coast League Pirates", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Pirates", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -744,7 +744,7 @@
 				"Ballpark": "Charlotte Sports Park",
 				"Teams": [
 					{ "Team": "Tampa Bay Rays", "Class": "Spring Training", "League": "Grapefruit" },
-					{ "Team": "Gulf Coast League Rays", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Rays", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -771,8 +771,8 @@
 			"properties": {
 				"Ballpark": "Carpenter Complex",
 				"Teams": [
-					{ "Team": "Gulf Coast League Phillies East", "Class": "Rookie", "League": "Gulf Coast" },
-					{ "Team": "Gulf Coast League Phillies West", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Phillies East", "Class": "Rookie", "League": "Gulf Coast" },
+					{ "Team": "Florida Complex League Phillies West", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
@@ -799,7 +799,7 @@
 			"properties": {
 				"Ballpark": "Bobby Mattick Training Center at Englebert Complex",
 				"Teams": [
-					{ "Team": "Gulf Coast League Blue Jays", "Class": "Rookie", "League": "Gulf Coast" }
+					{ "Team": "Florida Complex League Blue Jays", "Class": "Rookie", "League": "Gulf Coast" }
 				]
 			}
 		},
