@@ -34,12 +34,12 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | August 9, 2021 |
 | [Arizona Complex League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | August 9, 2021 |
 | [Florida Complex League](https://www.milb.com/gulf-coast) (Rookie) | August 9, 2021|
+| [Appalachian League](https://www.mlb.com/appalachian-league) (Rookie Advanced) | August 10, 2021 |
 
 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
 | ------------- | ------------- |
-| [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced) | March 22, 2020 |
 | [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced) | March 22, 2020 |
 | [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall) | March 21, 2020 |
 | [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |

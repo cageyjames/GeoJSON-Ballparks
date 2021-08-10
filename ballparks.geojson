@@ -1052,7 +1052,7 @@
 				"Ballpark": "Arm & Hammer Park",
 				"Teams": [
 					{ "Team": "Buffalo Bisons", "Class": "Triple-A", "League": "Triple-A East" },
-					{ "Team": "Trenton Thunder", "Class": "Summer", "League": "MLB Draft League" }
+					{ "Team": "Trenton Thunder", "Class": "Collegiate Summer Baseball", "League": "MLB Draft League" }
 				]
 			}
 		},
@@ -2553,6 +2553,98 @@
 				"Ballpark": "TicketReturn.Com Field at Pelicans Ballpark",
 				"Teams": [
 					{ "Team": "Myrtle Beach Pelicans", "Class": "Low-A", "League": "Low-A East" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.246389, 37.249444]
+			},
+			"properties": {
+				"Ballpark": "Bowen Field at Peters Park",
+				"Teams": [
+					{ "Team": "Bluefield Ridge Runners", "Class": "Collegiate Summer Baseball", "League": "Appalachian" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-79.41002051972005, 36.08712156115252]
+			},
+			"properties": {
+				"Ballpark": "Burlington Athletic Stadium",
+				"Teams": [
+					{ "Team": "Burlington Sock Puppets", "Class": "Collegiate Summer Baseball", "League": "Appalachian" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-79.3725, 36.575833]
+			},
+			"properties": {
+				"Ballpark": "American Legion Field",
+				"Teams": [
+					{ "Team": "Danville Otterbots", "Class": "Collegiate Summer Baseball", "League": "Appalachian" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-81.105278, 37.358333]
+			},
+			"properties": {
+				"Ballpark": "H. P. Hunnicutt Field",
+				"Teams": [
+					{ "Team": "Princeton WhistlePigs", "Class": "Collegiate Summer Baseball", "League": "Appalachian" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-80.775556, 37.039306]
+			},
+			"properties": {
+				"Ballpark": "Motor Mile Field at Calfee Park",
+				"Teams": [
+					{ "Team": "Pulaski River Turtles", "Class": "Collegiate Summer Baseball", "League": "Appalachian" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.756115, 36.173149]
+			},
+			"properties": {
+				"Ballpark": "Pioneer Park",
+				"Teams": [
+					{ "Team": "Greenville Flyboys", "Class": "Collegiate Summer Baseball", "League": "Appalachian" },
+					{ "Team": "Tusculum University Pioneers", "Class": "College", "League": "South Atlantic Conference" }
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-82.598611, 36.562778]
+			},
+			"properties": {
+				"Ballpark": "Hunter Wright Stadium",
+				"Teams": [
+					{ "Team": "Kingsport Axmen", "Class": "Collegiate Summer Baseball", "League": "Appalachian" }
 				]
 			}
 		}
