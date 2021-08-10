@@ -785,7 +785,8 @@
 			"properties": {
 				"Ballpark": "Radiology Associates Field at Jackie Robinson Ballpark",
 				"Teams": [
-					{ "Team": "Daytona Tortugas", "Class": "Low-A", "League": "Low-A Southeast" }
+					{ "Team": "Daytona Tortugas", "Class": "Low-A", "League": "Low-A Southeast" },
+					{ "Team": "Bethune–Cookman Wildcats", "Class": "College", "League": "SWAC" }
 				]
 			}
 		},

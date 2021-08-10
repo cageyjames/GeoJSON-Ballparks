@@ -22,7 +22,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Arizona League](https://www.milb.com/arizona) (Rookie) | April 6, 2021 |
 | [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | April 6, 2021 |
 | [Gulf Coast League](https://www.milb.com/gulf-coast) (Rookie) | April 7, 2021|
-| [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | April 7, 2021 |
 | [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 7, 2021 |
 | [Triple-A East](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 9, 2021 |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
@@ -34,12 +33,12 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [High-A East](https://en.wikipedia.org/wiki/High-A_East) (High-A) | August 7, 2021 |
 | [Low-A West](https://en.wikipedia.org/wiki/Low-A_West) (Low-A) | August 8, 2021 |
 | [Low-A East](https://en.wikipedia.org/wiki/Low-A_East) (Low-A) | August 9, 2021 |
+| [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | April 7, 2021 |
 
 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
 | ------------- | ------------- |
-| [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | March 7, 2020 |
 | [Appalachian League](http://www.milb.com/index.jsp?sid=l120) (Rookie Advanced) | March 22, 2020 |
 | [Pioneer League](http://www.milb.com/index.jsp?sid=l128) (Rookie Advanced) | March 22, 2020 |
 | [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall) | March 21, 2020 |
@@ -102,6 +101,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | Replaced by High-A East, Low-A East and MLB Draft League |
 | [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | Replaced by Low-A West |
 | [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by High-A East, Low-A East and Atlantic League of Professional Baseball |
+| [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | Replaced by Low-A Southeast |
 
 ## To-Do
 
