@@ -20,8 +20,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | April 2, 2021 |
 | [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | April 6, 2021 |
 | [Arizona League](https://www.milb.com/arizona) (Rookie) | April 6, 2021 |
-| [Arizona Complex League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | April 6, 2021 |
-| [Florida Complex League](https://www.milb.com/gulf-coast) (Rookie) | April 7, 2021|
 | [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 7, 2021 |
 | [Triple-A East](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 9, 2021 |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
@@ -33,7 +31,9 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [High-A East](https://en.wikipedia.org/wiki/High-A_East) (High-A) | August 7, 2021 |
 | [Low-A West](https://en.wikipedia.org/wiki/Low-A_West) (Low-A) | August 8, 2021 |
 | [Low-A East](https://en.wikipedia.org/wiki/Low-A_East) (Low-A) | August 9, 2021 |
-| [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | April 7, 2021 |
+| [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | August 9, 2021 |
+| [Arizona Complex League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | August 9, 2021 |
+| [Florida Complex League](https://www.milb.com/gulf-coast) (Rookie) | August 9, 2021|
 
 
 ### Legacy (to be reviewed)
