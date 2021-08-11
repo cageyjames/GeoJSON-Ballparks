@@ -14,7 +14,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 ## Baseball Leagues and Last Updated Dates
 
-| North America  | Update Date |
+| Major and Minor League Baseball  | Update Date |
 | ------------- | ------------- |
 | [Major League Baseball](http://mlb.com) (American League and National League) | April 2, 2021 |
 | [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | April 2, 2021 |
@@ -22,7 +22,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Arizona League](https://www.milb.com/arizona) (Rookie) | April 6, 2021 |
 | [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 7, 2021 |
 | [Triple-A East](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 9, 2021 |
-| [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
 | [Double-A Northeast](https://en.wikipedia.org/wiki/Double-A_Northeast) (Double-A) | July 22, 2021 |
 | [Double-A South](https://en.wikipedia.org/wiki/Double-A_South) (Double-A) | July 22, 2021 |
 | [Double-A Central](https://en.wikipedia.org/wiki/Double-A_Central) (Double-A) | July 22, 2021 |
@@ -34,8 +33,14 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | August 9, 2021 |
 | [Arizona Complex League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | August 9, 2021 |
 | [Florida Complex League](https://www.milb.com/gulf-coast) (Rookie) | August 9, 2021|
+
+| Collegiate Summer Baseball  | Update Date |
+| ------------- | ------------- |
 | [Appalachian League](https://www.mlb.com/appalachian-league) (Rookie Advanced) | August 10, 2021 |
 
+| Caribbean/Latin America  | Update Date |
+| ------------- | ------------- |
+| [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
@@ -64,7 +69,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [KBO League](http://www.koreabaseball.com/) (South Korea) | March 12, 2020 |
 | [Nippon Professional Baseball](http://www.npb.or.jp) (Japan) | March 12, 2020 |
 
-| Caribbean/South America  | Update Date |
+| Caribbean/Latin America  | Update Date |
 | ------------- | ------------- |
 | [Colombian Professional Baseball League](https://en.wikipedia.org/wiki/Colombian_Professional_Baseball_League) (Columbia) | March 19, 2020 |
 | [Cuban National Series](https://en.wikipedia.org/wiki/Cuban_National_Series) (Cuba) | March 22, 2020 |
