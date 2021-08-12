@@ -54,7 +54,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Pacific Association of Professional Baseball Clubs](http://pacproclubs.pointstreaksites.com/view/pacproclubs/) (Independent) | March 22, 2020 |
 | [Pecos League](http://pecosleague.com/) (Independent) | March 20, 2020 |
 | [United Shore Professional Baseball League](https://en.wikipedia.org/wiki/United_Shore_Professional_Baseball_League) (Independent) | March 26, 2020 |
-| [The Western League](https://en.wikipedia.org/wiki/The_Western_League) (Independent) | March 23, 2020 |
+| [The Western League](http://thewesternleague.com) (Independent) | March 23, 2020 |
 | [Alaska Baseball League](http://alaskabaseballleague.org/) (Amateur Collegiate Summer Baseball League) | March 5, 2020 |
 | [Cape Cod Baseball League](http://www.capecodbaseball.org/) (Amateur Collegiate Summer Baseball League) | March 12, 2020 |
 | [Coastal Plain League](http://www.coastalplain.com) (Amateur Collegiate Summer Baseball League) | March 19, 2020 |
