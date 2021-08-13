@@ -2647,6 +2647,125 @@
 					{ "Team": "Kingsport Axmen", "Class": "Collegiate Summer Baseball", "League": "Appalachian" }
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-108.511111, 45.790278]
+			},
+			"properties": {
+				"Ballpark": "Dehler Park",
+				"Teams": [
+					{ "Team": "Billings Mustangs", "Class": "Independent", "League": "Pioneer" },
+					{ "Team": "Montana State University Billings Yellowjackets", "Class": "College", "League": "Great Northwest Athletic Conference" }					
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.259467, 47.516919]
+			},
+			"properties": {
+				"Ballpark": "Centene Stadium",
+				"Teams": [
+					{ "Team": "Great Falls Voyagers", "Class": "Independent", "League": "Pioneer" }				
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-112.037861, 43.505161]
+			},
+			"properties": {
+				"Ballpark": "Melaleuca Field",
+				"Teams": [
+					{ "Team": "Idaho Falls Chukars", "Class": "Independent", "League": "Pioneer" }				
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-114.007294, 46.873431]
+			},
+			"properties": {
+				"Ballpark": "Ogren Park at Allegiance Field",
+				"Teams": [
+					{ "Team": "Missoula PaddleHeads", "Class": "Independent", "League": "Pioneer" }				
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-116.27870348647242, 43.65622796161355]
+			},
+			"properties": {
+				"Ballpark": "Memorial Stadium",
+				"Teams": [
+					{ "Team": "Boise Hawks", "Class": "Independent", "League": "Pioneer" }				
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-108.550404, 39.076684]
+			},
+			"properties": {
+				"Ballpark": "Suplizio Field",
+				"Teams": [
+					{ "Team": "Grand Junction Rockies", "Class": "Independent", "League": "Pioneer" },
+					{ "Team": "Colorado Mesa Mavericks", "Class": "College", "League": "Rocky Mountain Athletic Conference" }				
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-111.974845, 41.223779]
+			},
+			"properties": {
+				"Ballpark": "Lindquist Field",
+				"Teams": [
+					{ "Team": "Ogden Raptors", "Class": "Independent", "League": "Pioneer" }				
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-104.710311, 38.894172]
+			},
+			"properties": {
+				"Ballpark": "UCHealth Park",
+				"Teams": [
+					{ "Team": "Rocky Mountain Vibes", "Class": "Independent", "League": "Pioneer" }				
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-104.878889, 40.471389]
+			},
+			"properties": {
+				"Ballpark": "Future Legends Complex",
+				"Teams": [
+					{ "Team": "Northern Colorado Owlz", "Class": "Independent", "League": "Pioneer" }				
+				]
+			}
 		}
 	]
 }
