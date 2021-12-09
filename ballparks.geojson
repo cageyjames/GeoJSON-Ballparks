@@ -101,7 +101,7 @@
 			"properties": {
 				"Ballpark": "Progressive Field",
 				"Teams": [
-					{ "Team": "Cleveland Indians", "Class": "Majors", "League": "Major League Baseball" }
+					{ "Team": "Cleveland Guardians", "Class": "Majors", "League": "Major League Baseball" }
 				]
 			}
 		},
@@ -114,7 +114,7 @@
 			"properties": {
 				"Ballpark": "Coors Field",
 				"Teams": [
-					{ "Team": "Coloradao Rockies", "Class": "Majors", "League": "Major League Baseball" }
+					{ "Team": "Colorado Rockies", "Class": "Majors", "League": "Major League Baseball" }
 				]
 			}
 		},
