@@ -812,7 +812,7 @@
 			"properties": {
 				"Ballpark": "Rio Grande Credit Union Field at Isotopes Park",
 				"Teams": [
-					{ "Team": "Albuquerque Isotopes", "Class": "Triple-A", "League": "Triple-A West" }
+					{ "Team": "Albuquerque Isotopes", "Class": "Triple-A", "League": "Pacific Coast League" }
 				]
 			}
 		},
@@ -825,7 +825,7 @@
 			"properties": {
 				"Ballpark": "Southwest University Park",
 				"Teams": [
-					{ "Team": "El Paso Chihuahuas", "Class": "Triple-A", "League": "Triple-A West" }
+					{ "Team": "El Paso Chihuahuas", "Class": "Triple-A", "League": "Pacific Coast League" }
 				]
 			}
 		},
@@ -838,7 +838,7 @@
 			"properties": {
 				"Ballpark": "Chickasaw Bricktown Ballpark",
 				"Teams": [
-					{ "Team": "Oklahoma City Dodgers", "Class": "Triple-A", "League": "Triple-A West" }
+					{ "Team": "Oklahoma City Dodgers", "Class": "Triple-A", "League": "Pacific Coast League" }
 				]
 			}
 		},
@@ -851,7 +851,7 @@
 			"properties": {
 				"Ballpark": "Dell Diamond",
 				"Teams": [
-					{ "Team": "Round Rock Express", "Class": "Triple-A", "League": "Triple-A West" }
+					{ "Team": "Round Rock Express", "Class": "Triple-A", "League": "Pacific Coast League" }
 				]
 			}
 		},
@@ -864,7 +864,7 @@
 			"properties": {
 				"Ballpark": "Constellation Field",
 				"Teams": [
-					{ "Team": "Sugar Land Skeeters", "Class": "Triple-A", "League": "Triple-A West" }
+					{ "Team": "Sugar Land Skeeters", "Class": "Triple-A", "League": "Pacific Coast League" }
 				]
 			}
 		},
@@ -877,7 +877,7 @@
 			"properties": {
 				"Ballpark": "Las Vegas Ballpark",
 				"Teams": [
-					{ "Team": "Las Vegas Aviators", "Class": "Triple-A", "League": "Triple-A West" }
+					{ "Team": "Las Vegas Aviators", "Class": "Triple-A", "League": "Pacific Coast League" }
 				]
 			}
 		},
@@ -890,7 +890,7 @@
 			"properties": {
 				"Ballpark": "Greater Nevada Field",
 				"Teams": [
-					{ "Team": "Reno Aces", "Class": "Triple-A", "League": "Triple-A West" }
+					{ "Team": "Reno Aces", "Class": "Triple-A", "League": "Pacific Coast League" }
 				]
 			}
 		},
@@ -903,7 +903,7 @@
 			"properties": {
 				"Ballpark": "Sutter Health Park",
 				"Teams": [
-					{ "Team": "Sacramento River Cats", "Class": "Triple-A", "League": "Triple-A West" },
+					{ "Team": "Sacramento River Cats", "Class": "Triple-A", "League": "Pacific Coast League" },
 					{ "Team": "Sacramento State Hornets", "Class": "NCAA", "League": "Western Athletic Conference" }
 				]
 			}
@@ -917,7 +917,7 @@
 			"properties": {
 				"Ballpark": "Smith's Ballpark",
 				"Teams": [
-					{ "Team": "Salt Lake Bees", "Class": "Triple-A", "League": "Triple-A West" },
+					{ "Team": "Salt Lake Bees", "Class": "Triple-A", "League": "Pacific Coast League" },
 					{ "Team": "Utah Utes", "Class": "NCAA", "League": "Pac-12 Conference" }
 				]
 			}
@@ -931,7 +931,7 @@
 			"properties": {
 				"Ballpark": "Cheney Stadium",
 				"Teams": [
-					{ "Team": "Tacoma Rainiers", "Class": "Triple-A", "League": "Triple-A West" }
+					{ "Team": "Tacoma Rainiers", "Class": "Triple-A", "League": "Pacific Coast League" }
 				]
 			}
 		},
@@ -944,7 +944,7 @@
 			"properties": {
 				"Ballpark": "Huntington Park",
 				"Teams": [
-					{ "Team": "Columbus Clippers", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Columbus Clippers", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -957,7 +957,7 @@
 			"properties": {
 				"Ballpark": "Victory Field",
 				"Teams": [
-					{ "Team": "Indianapolis Indians", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Indianapolis Indians", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -970,7 +970,7 @@
 			"properties": {
 				"Ballpark": "Principal Park",
 				"Teams": [
-					{ "Team": "Iowa Cubs", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Iowa Cubs", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -983,7 +983,7 @@
 			"properties": {
 				"Ballpark": "Louisville Slugger Field",
 				"Teams": [
-					{ "Team": "Louisville Bats", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Louisville Bats", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -996,7 +996,7 @@
 			"properties": {
 				"Ballpark": "Werner Park",
 				"Teams": [
-					{ "Team": "Omaha Storm Chasers", "Class": "Triple-A", "League": "Triple-A East" },
+					{ "Team": "Omaha Storm Chasers", "Class": "Triple-A", "League": "International League" },
 					{ "Team": "Omaha Mavericks", "Class": "NCAA", "League": "Summit League" }
 				]
 			}
@@ -1010,7 +1010,7 @@
 			"properties": {
 				"Ballpark": "CHS Field",
 				"Teams": [
-					{ "Team": "St. Paul Saints", "Class": "Triple-A", "League": "Triple-A East" },
+					{ "Team": "St. Paul Saints", "Class": "Triple-A", "League": "International League" },
 					{ "Team": "Hamine University", "Class": "NCAA", "League": "Minnesota Intercollegiate Athletic Conference" }
 				]
 			}
@@ -1024,7 +1024,7 @@
 			"properties": {
 				"Ballpark": "Fifth Third Field",
 				"Teams": [
-					{ "Team": "Toledo Mud Hens", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Toledo Mud Hens", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1037,7 +1037,7 @@
 			"properties": {
 				"Ballpark": "Sahlen Field",
 				"Teams": [
-					{ "Team": "Buffalo Bisons", "Class": "Triple-A", "League": "Triple-A East" },
+					{ "Team": "Buffalo Bisons", "Class": "Triple-A", "League": "International League" },
 					{ "Team": "Toronto Blue Jays", "Class": "Majors", "League": "Major League Baseball" }
 				]
 			}
@@ -1051,7 +1051,6 @@
 			"properties": {
 				"Ballpark": "Arm & Hammer Park",
 				"Teams": [
-					{ "Team": "Buffalo Bisons", "Class": "Triple-A", "League": "Triple-A East" },
 					{ "Team": "Trenton Thunder", "Class": "Collegiate Summer Baseball", "League": "MLB Draft League" }
 				]
 			}
@@ -1065,7 +1064,7 @@
 			"properties": {
 				"Ballpark": "Coca Cola Park",
 				"Teams": [
-					{ "Team": "Lehigh Valley IronPigs", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Lehigh Valley IronPigs", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1078,7 +1077,7 @@
 			"properties": {
 				"Ballpark": "Frontier Field",
 				"Teams": [
-					{ "Team": "Rochester Red Wings", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Rochester Red Wings", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1091,7 +1090,7 @@
 			"properties": {
 				"Ballpark": "PNC Field",
 				"Teams": [
-					{ "Team": "Scranton/Wilkes-Barre RailRiders", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Scranton/Wilkes-Barre RailRiders", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1104,7 +1103,7 @@
 			"properties": {
 				"Ballpark": "NBT Bank Stadium",
 				"Teams": [
-					{ "Team": "Syracuse Mets", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Syracuse Mets", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1117,7 +1116,7 @@
 			"properties": {
 				"Ballpark": "Polar Park",
 				"Teams": [
-					{ "Team": "Worcester Red Sox", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Worcester Red Sox", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1130,7 +1129,7 @@
 			"properties": {
 				"Ballpark": "Truist Field",
 				"Teams": [
-					{ "Team": "Charlotte Knights", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Charlotte Knights", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1143,7 +1142,7 @@
 			"properties": {
 				"Ballpark": "Durham Bulls Athletic Park",
 				"Teams": [
-					{ "Team": "Durham Bulls", "Class": "Triple-A", "League": "Triple-A East" },
+					{ "Team": "Durham Bulls", "Class": "Triple-A", "League": "International League" },
 					{ "Team": "Duke Blue Devilr", "Class": "NCAA", "League": "Atlantic Coast Conference" }
 				]
 			}
@@ -1157,7 +1156,7 @@
 			"properties": {
 				"Ballpark": "Coolray Field",
 				"Teams": [
-					{ "Team": "Gwinnett Stripers", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Gwinnett Stripers", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1170,7 +1169,7 @@
 			"properties": {
 				"Ballpark": "121 Financial Park",
 				"Teams": [
-					{ "Team": "Jacksonville Jumbo Shrimp", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Jacksonville Jumbo Shrimp", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1183,7 +1182,7 @@
 			"properties": {
 				"Ballpark": "AutoZone Park",
 				"Teams": [
-					{ "Team": "Memphis Redbirds", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Memphis Redbirds", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1196,7 +1195,7 @@
 			"properties": {
 				"Ballpark": "First Horizon Park",
 				"Teams": [
-					{ "Team": "Nashville Sounds", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Nashville Sounds", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1209,7 +1208,7 @@
 			"properties": {
 				"Ballpark": "Harbor Park",
 				"Teams": [
-					{ "Team": "Norfolk Tides", "Class": "Triple-A", "League": "Triple-A East" }
+					{ "Team": "Norfolk Tides", "Class": "Triple-A", "League": "International League" }
 				]
 			}
 		},
@@ -1482,7 +1481,7 @@
 			"properties": {
 				"Ballpark": "Mirabito Stadium",
 				"Teams": [
-					{ "Team": "Binghamton Rumble Ponies", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Binghamton Rumble Ponies", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1495,7 +1494,7 @@
 			"properties": {
 				"Ballpark": "Dunkin' Donuts Park",
 				"Teams": [
-					{ "Team": "Hartford Yard Goats", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Hartford Yard Goats", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1508,7 +1507,7 @@
 			"properties": {
 				"Ballpark": "Northeast Delta Dental Stadium",
 				"Teams": [
-					{ "Team": "New Hampshire Fisher Cats", "Class": "Double-A", "League": "Double-A Northeast" },
+					{ "Team": "New Hampshire Fisher Cats", "Class": "Double-A", "League": "Eastern League" },
 					{ "Team": "Hartford Hawks", "Class": "College", "League": "American East" },
 					{ "Team": "UConn Huskies", "Class": "Double-A", "League": "Big East" }
 					
@@ -1524,7 +1523,7 @@
 			"properties": {
 				"Ballpark": "Hadlock Field",
 				"Teams": [
-					{ "Team": "Portland Sea Dogs", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Portland Sea Dogs", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1537,7 +1536,7 @@
 			"properties": {
 				"Ballpark": "FirstEnergy Stadium",
 				"Teams": [
-					{ "Team": "Reading Fightin Phils", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Reading Fightin Phils", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1550,7 +1549,7 @@
 			"properties": {
 				"Ballpark": "TD Bank Ballpark",
 				"Teams": [
-					{ "Team": "Somerset Patriots", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Somerset Patriots", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1563,7 +1562,7 @@
 			"properties": {
 				"Ballpark": "Canal Park",
 				"Teams": [
-					{ "Team": "Akron RubberDucks", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Akron RubberDucks", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1576,7 +1575,7 @@
 			"properties": {
 				"Ballpark": "Peoples Natural Gas Field",
 				"Teams": [
-					{ "Team": "Altoona Curve", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Altoona Curve", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1589,7 +1588,7 @@
 			"properties": {
 				"Ballpark": "Prince George's Stadium",
 				"Teams": [
-					{ "Team": "Bowie Baysox", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Bowie Baysox", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1602,7 +1601,7 @@
 			"properties": {
 				"Ballpark": "UPMC Park",
 				"Teams": [
-					{ "Team": "Erie SeaWolves", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Erie SeaWolves", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1615,7 +1614,7 @@
 			"properties": {
 				"Ballpark": "FNB Field",
 				"Teams": [
-					{ "Team": "Harrisburg Senators", "Class": "Double-A", "League": "Double-A Northeast" }
+					{ "Team": "Harrisburg Senators", "Class": "Double-A", "League": "Eastern League" }
 				]
 			}
 		},
@@ -1628,21 +1627,7 @@
 			"properties": {
 				"Ballpark": "The Diamond",
 				"Teams": [
-					{ "Team": "Richmond Flying Squirrels", "Class": "Double-A", "League": "Double-A Northeast" },
-					{ "Team": "VCU Rams", "Class": "College", "League": "Atlantic-10" }
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [-77.463733, 37.571806]
-			},
-			"properties": {
-				"Ballpark": "The Diamond",
-				"Teams": [
-					{ "Team": "Richmond Flying Squirrels", "Class": "Double-A", "League": "Double-A Northeast" },
+					{ "Team": "Richmond Flying Squirrels", "Class": "Double-A", "League": "Eastern League" },
 					{ "Team": "VCU Rams", "Class": "College", "League": "Atlantic-10" }
 				]
 			}
@@ -1656,7 +1641,7 @@
 			"properties": {
 				"Ballpark": "Regions Field",
 				"Teams": [
-					{ "Team": "Birmingham Barons", "Class": "Double-A", "League": "Double-A South" },
+					{ "Team": "Birmingham Barons", "Class": "Double-A", "League": "Southern League" },
 					{ "Team": "UAB Blazers", "Class": "Collage", "League": "Conference USA" }
 				]
 			}
@@ -1670,7 +1655,7 @@
 			"properties": {
 				"Ballpark": "AT&T Field",
 				"Teams": [
-					{ "Team": "Chattanooga Lookouts", "Class": "Double-A", "League": "Double-A South" }
+					{ "Team": "Chattanooga Lookouts", "Class": "Double-A", "League": "Southern League" }
 				]
 			}
 		},
@@ -1683,7 +1668,7 @@
 			"properties": {
 				"Ballpark": "Toyota Field",
 				"Teams": [
-					{ "Team": "Rocket City Trash Pandas", "Class": "Double-A", "League": "Double-A South" }
+					{ "Team": "Rocket City Trash Pandas", "Class": "Double-A", "League": "Southern League" }
 				]
 			}
 		},
@@ -1696,7 +1681,7 @@
 			"properties": {
 				"Ballpark": "Smokies Stadium",
 				"Teams": [
-					{ "Team": "Tennessee Smokies", "Class": "Double-A", "League": "Double-A South" }
+					{ "Team": "Tennessee Smokies", "Class": "Double-A", "League": "Southern League" }
 				]
 			}
 		},
@@ -1709,7 +1694,7 @@
 			"properties": {
 				"Ballpark": "MGM Park",
 				"Teams": [
-					{ "Team": "Biloxi Shuckers", "Class": "Double-A", "League": "Double-A South" }
+					{ "Team": "Biloxi Shuckers", "Class": "Double-A", "League": "Southern League" }
 				]
 			}
 		},
@@ -1722,7 +1707,7 @@
 			"properties": {
 				"Ballpark": "Trustmark Park",
 				"Teams": [
-					{ "Team": "Mississippi Braves", "Class": "Double-A", "League": "Double-A South" }
+					{ "Team": "Mississippi Braves", "Class": "Double-A", "League": "Southern League" }
 				]
 			}
 		},
@@ -1735,7 +1720,7 @@
 			"properties": {
 				"Ballpark": "Montgomery Riverwalk Stadium",
 				"Teams": [
-					{ "Team": "Montgomery Biscuits", "Class": "Double-A", "League": "Double-A South" }
+					{ "Team": "Montgomery Biscuits", "Class": "Double-A", "League": "Southern League" }
 				]
 			}
 		},
@@ -1748,7 +1733,7 @@
 			"properties": {
 				"Ballpark": "Admiral Fetterman Field",
 				"Teams": [
-					{ "Team": "Pensacola Blue Wahoos", "Class": "Double-A", "League": "Double-A South" },
+					{ "Team": "Pensacola Blue Wahoos", "Class": "Double-A", "League": "Southern League" },
 					{ "Team": "West Florida Argonauts", "Class": "College", "League": "Gulf South Conference" }
 				]
 			}
@@ -1762,7 +1747,7 @@
 			"properties": {
 				"Ballpark": "Dickey-Stephens Park",
 				"Teams": [
-					{ "Team": "Arkansas Travelers", "Class": "Double-A", "League": "Double-A Central" }
+					{ "Team": "Arkansas Travelers", "Class": "Double-A", "League": "Texas League" }
 				]
 			}
 		},
@@ -1775,7 +1760,7 @@
 			"properties": {
 				"Ballpark": "Arvest Ballpark",
 				"Teams": [
-					{ "Team": "Northwest Arkansas Naturals", "Class": "Double-A", "League": "Double-A Central" }
+					{ "Team": "Northwest Arkansas Naturals", "Class": "Double-A", "League": "Texas League" }
 				]
 			}
 		},
@@ -1788,7 +1773,7 @@
 			"properties": {
 				"Ballpark": "Hammons Field",
 				"Teams": [
-					{ "Team": "Springfield Cardinals", "Class": "Double-A", "League": "Double-A Central" },
+					{ "Team": "Springfield Cardinals", "Class": "Double-A", "League": "Texas League" },
 					{ "Team": "Missouri State Bears", "Class": "College", "League": "Missouri Valley" }
 				]
 			}
@@ -1802,7 +1787,7 @@
 			"properties": {
 				"Ballpark": "ONEOK Field",
 				"Teams": [
-					{ "Team": "Tulsa Drillers", "Class": "Double-A", "League": "Double-A Central" }
+					{ "Team": "Tulsa Drillers", "Class": "Double-A", "League": "Texas League" }
 				]
 			}
 		},
@@ -1815,7 +1800,7 @@
 			"properties": {
 				"Ballpark": "Riverfront Stadium",
 				"Teams": [
-					{ "Team": "Wichita Wind Surge", "Class": "Double-A", "League": "Double-A Central" }
+					{ "Team": "Wichita Wind Surge", "Class": "Double-A", "League": "Texas League" }
 				]
 			}
 		},
@@ -1828,7 +1813,7 @@
 			"properties": {
 				"Ballpark": "Hodgetown",
 				"Teams": [
-					{ "Team": "Amarillo Sod Poodles", "Class": "Double-A", "League": "Double-A Central" }
+					{ "Team": "Amarillo Sod Poodles", "Class": "Double-A", "League": "Texas League" }
 				]
 			}
 		},
@@ -1841,7 +1826,7 @@
 			"properties": {
 				"Ballpark": "Whataburger Field",
 				"Teams": [
-					{ "Team": "Corpus Christi Hooks", "Class": "Double-A", "League": "Double-A Central" }
+					{ "Team": "Corpus Christi Hooks", "Class": "Double-A", "League": "Texas League" }
 				]
 			}
 		},
@@ -1854,7 +1839,7 @@
 			"properties": {
 				"Ballpark": "Riders Field",
 				"Teams": [
-					{ "Team": "Frisco RoughRiders", "Class": "Double-A", "League": "Double-A Central" }
+					{ "Team": "Frisco RoughRiders", "Class": "Double-A", "League": "Texas League" }
 				]
 			}
 		},
@@ -1867,7 +1852,7 @@
 			"properties": {
 				"Ballpark": "Momentum Bank Ballpark",
 				"Teams": [
-					{ "Team": "Midland RockHounds", "Class": "Double-A", "League": "Double-A Central" }
+					{ "Team": "Midland RockHounds", "Class": "Double-A", "League": "Texas League" }
 				]
 			}
 		},
@@ -1880,7 +1865,7 @@
 			"properties": {
 				"Ballpark": "Nelson W. Wolff Municipal Stadium",
 				"Teams": [
-					{ "Team": "San Antonio Missions", "Class": "Double-A", "League": "Double-A Central" }
+					{ "Team": "San Antonio Missions", "Class": "Double-A", "League": "Texas League" }
 				]
 			}
 		},

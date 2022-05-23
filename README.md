@@ -20,11 +20,11 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | April 2, 2021 |
 | [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | April 6, 2021 |
 | [Arizona League](https://www.milb.com/arizona) (Rookie) | April 6, 2021 |
-| [Triple-A West](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 7, 2021 |
-| [Triple-A East](https://en.wikipedia.org/wiki/Triple-A_West) (Triple-A) | April 9, 2021 |
-| [Double-A Northeast](https://en.wikipedia.org/wiki/Double-A_Northeast) (Double-A) | July 22, 2021 |
-| [Double-A South](https://en.wikipedia.org/wiki/Double-A_South) (Double-A) | July 22, 2021 |
-| [Double-A Central](https://en.wikipedia.org/wiki/Double-A_Central) (Double-A) | July 22, 2021 |
+| [Pacific Coast League](https://en.wikipedia.org/wiki/Pacific_Coast_League) (Triple-A) | May 23, 2022 |
+| [International League](https://en.wikipedia.org/wiki/International_League) (Triple-A) | May 23, 2022 |
+| [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(1938–present)) (Double-A) | May 23, 2022 |
+| [Southern League](https://en.wikipedia.org/wiki/Southern_League_(1964–present)) (Double-A) | May 23, 2022 |
+| [Texas League](https://en.wikipedia.org/wiki/Texas_League) (Double-A) | May 23, 2022 |
 | [High-A West](https://en.wikipedia.org/wiki/High-A_West) (High-A) | July 25, 2021 |
 | [High-A Central](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | July 26, 2021 |
 | [High-A East](https://en.wikipedia.org/wiki/High-A_East) (High-A) | August 7, 2021 |
@@ -49,7 +49,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 ### Legacy (to be reviewed)
 | North America  | Old Update Date |
 | ------------- | ------------- |
-| [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall) | March 21, 2020 |
 | [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |
 | [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent) | March 22, 2020 |
 | [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent) | March 24, 2020 |
@@ -113,6 +112,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 ## To-Do
 
+* [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall) | March 21, 2020 |
 * [Elitserien](https://en.wikipedia.org/wiki/Elitserien_(baseball)) (Sweden)
 * [Prospect League](https://en.wikipedia.org/wiki/Prospect_League) (College)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
