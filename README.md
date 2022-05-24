@@ -46,7 +46,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | ------------- | ------------- |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
 
-### Legacy (to be reviewed)
+### Legacy (to be reviewed - see referenced Gist above)
 | North America  | Old Update Date |
 | ------------- | ------------- |
 | [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |
