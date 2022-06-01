@@ -25,9 +25,9 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(1938–present)) (Double-A) | May 23, 2022 |
 | [Southern League](https://en.wikipedia.org/wiki/Southern_League_(1964–present)) (Double-A) | May 23, 2022 |
 | [Texas League](https://en.wikipedia.org/wiki/Texas_League) (Double-A) | May 23, 2022 |
-| [Northwest League](https://en.wikipedia.org/wiki/High-A_West) (High-A) | July 25, 2021 |
-| [Midwest League](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | July 26, 2021 |
-| [South Atlantic League](https://en.wikipedia.org/wiki/High-A_East) (High-A) | August 7, 2021 |
+| [Northwest League](https://en.wikipedia.org/wiki/High-A_West) (High-A) | June 1, 2022 |
+| [Midwest League](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | June 1, 2022 |
+| [South Atlantic League](https://en.wikipedia.org/wiki/High-A_East) (High-A) | June 1, 2022 |
 | [Low-A West](https://en.wikipedia.org/wiki/Low-A_West) (Low-A) | August 8, 2021 |
 | [Low-A East](https://en.wikipedia.org/wiki/Low-A_East) (Low-A) | August 9, 2021 |
 | [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | August 9, 2021 |
