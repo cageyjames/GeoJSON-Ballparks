@@ -1878,7 +1878,7 @@
 			"properties": {
 				"Ballpark": "PK Park",
 				"Teams": [
-					{ "Team": "Eugene Emeralds", "Class": "High-A", "League": "High-A West" },
+					{ "Team": "Eugene Emeralds", "Class": "High-A", "League": "Northwest League" },
 					{ "Team": "Oregon Ducks", "Class": "College", "League": "Pacific" }
 				]
 			}
@@ -1892,7 +1892,7 @@
 			"properties": {
 				"Ballpark": "Funko Field",
 				"Teams": [
-					{ "Team": "Everett AquaSox", "Class": "High-A", "League": "High-A West" }
+					{ "Team": "Everett AquaSox", "Class": "High-A", "League": "Northwest League" }
 				]
 			}
 		},
@@ -1905,8 +1905,8 @@
 			"properties": {
 				"Ballpark": "Ron Tonkin Field",
 				"Teams": [
-					{ "Team": "Hillsboro Hops", "Class": "High-A", "League": "High-A West" },
-					{ "Team": "Vancouver Canadians", "Class": "High-A", "League": "High-A West" }
+					{ "Team": "Hillsboro Hops", "Class": "High-A", "League": "Northwest League" },
+					{ "Team": "Vancouver Canadians", "Class": "High-A", "League": "Northwest League" }
 				]
 			}
 		},
@@ -1919,7 +1919,7 @@
 			"properties": {
 				"Ballpark": "Nat Bailey Stadium",
 				"Teams": [
-					{ "Team": "Vancouver Canadians", "Class": "High-A", "League": "High-A West" }
+					{ "Team": "Vancouver Canadians", "Class": "High-A", "League": "Northwest League" }
 				]
 			}
 		},
@@ -1932,7 +1932,7 @@
 			"properties": {
 				"Ballpark": "Avista Stadium",
 				"Teams": [
-					{ "Team": "Spokane Indians", "Class": "High-A", "League": "High-A West" }
+					{ "Team": "Spokane Indians", "Class": "High-A", "League": "Northwest League" }
 				]
 			}
 		},
@@ -1945,7 +1945,7 @@
 			"properties": {
 				"Ballpark": "Gesa Stadium",
 				"Teams": [
-					{ "Team": "Tri-City Dust Devils", "Class": "High-A", "League": "High-A West" }
+					{ "Team": "Tri-City Dust Devils", "Class": "High-A", "League": "Northwest League" }
 				]
 			}
 		},
@@ -1958,7 +1958,7 @@
 			"properties": {
 				"Ballpark": "Day Air Ballpark",
 				"Teams": [
-					{ "Team": "Dayton Dragons", "Class": "High-A", "League": "High-A Central" }
+					{ "Team": "Dayton Dragons", "Class": "High-A", "League": "Midwest League" }
 				]
 			}
 		},
@@ -1971,7 +1971,7 @@
 			"properties": {
 				"Ballpark": "Parkview Field",
 				"Teams": [
-					{ "Team": "Fort Wayne TinCaps", "Class": "High-A", "League": "High-A Central" }
+					{ "Team": "Fort Wayne TinCaps", "Class": "High-A", "League": "Midwest League" }
 				]
 			}
 		},
@@ -1984,7 +1984,7 @@
 			"properties": {
 				"Ballpark": "Dow Diamond",
 				"Teams": [
-					{ "Team": "Great Lakes Loons", "Class": "High-A", "League": "High-A Central" }
+					{ "Team": "Great Lakes Loons", "Class": "High-A", "League": "Midwest League" }
 				]
 			}
 		},
@@ -1997,7 +1997,7 @@
 			"properties": {
 				"Ballpark": "Classic Park",
 				"Teams": [
-					{ "Team": "Lake County Captains", "Class": "High-A", "League": "High-A Central" },
+					{ "Team": "Lake County Captains", "Class": "High-A", "League": "Midwest League" },
 					{ "Team": "Lake Erie Storm", "Class": "College", "League": "Great Midwest Athletic Conference" }
 				]
 			}
@@ -2011,7 +2011,7 @@
 			"properties": {
 				"Ballpark": "Jackson Field",
 				"Teams": [
-					{ "Team": "Lansing Lugnuts", "Class": "High-A", "League": "High-A Central" },
+					{ "Team": "Lansing Lugnuts", "Class": "High-A", "League": "Midwest League" },
 					{ "Team": "Michigan State Spartans", "Class": "College", "League": "Big Ten" }
 				]
 			}
@@ -2025,7 +2025,7 @@
 			"properties": {
 				"Ballpark": "LMCU Ballpark",
 				"Teams": [
-					{ "Team": "West Michigan Whitecaps", "Class": "High-A", "League": "High-A Central" }
+					{ "Team": "West Michigan Whitecaps", "Class": "High-A", "League": "Midwest League" }
 				]
 			}
 		},
@@ -2038,7 +2038,7 @@
 			"properties": {
 				"Ballpark": "ABC Supply Stadium",
 				"Teams": [
-					{ "Team": "Beloit Snappers", "Class": "High-A", "League": "High-A Central" }
+					{ "Team": "Beloit Snappers", "Class": "High-A", "League": "Midwest League" }
 				]
 			}
 		},
@@ -2063,7 +2063,7 @@
 			"properties": {
 				"Ballpark": "Veterans Memorial Stadium",
 				"Teams": [
-					{ "Team": "Cedar Rapids Kernels", "Class": "High-A", "League": "High-A Central" }
+					{ "Team": "Cedar Rapids Kernels", "Class": "High-A", "League": "Midwest League" }
 				]
 			}
 		},
@@ -2076,7 +2076,7 @@
 			"properties": {
 				"Ballpark": "Dozer Park",
 				"Teams": [
-					{ "Team": "Peoria Chiefs", "Class": "High-A", "League": "High-A Central" },
+					{ "Team": "Peoria Chiefs", "Class": "High-A", "League": "Midwest League" },
 					{ "Team": "Bradley Braves", "Class": "College", "League": "Missouri Valley" }					
 				]
 			}
@@ -2090,7 +2090,7 @@
 			"properties": {
 				"Ballpark": "Modern Woodmen Park",
 				"Teams": [
-					{ "Team": "Quad Cities River Bandits", "Class": "High-A", "League": "High-A Central" }
+					{ "Team": "Quad Cities River Bandits", "Class": "High-A", "League": "Midwest League" }
 				]
 			}
 		},
@@ -2103,7 +2103,7 @@
 			"properties": {
 				"Ballpark": "Four Winds Field at Coveleski Stadium",
 				"Teams": [
-					{ "Team": "South Bend Cubs", "Class": "High-A", "League": "High-A Central" }
+					{ "Team": "South Bend Cubs", "Class": "High-A", "League": "Midwest League" }
 				]
 			}
 		},
@@ -2116,7 +2116,7 @@
 			"properties": {
 				"Ballpark": "Neuroscience Group Field at Fox Cities Stadium",
 				"Teams": [
-					{ "Team": "Wisconsin Timber Rattlers", "Class": "High-A", "League": "High-A Central" }
+					{ "Team": "Wisconsin Timber Rattlers", "Class": "High-A", "League": "Midwest League" }
 				]
 			}
 		},
@@ -2129,7 +2129,7 @@
 			"properties": {
 				"Ballpark": "Leidos Field at Ripken Stadium",
 				"Teams": [
-					{ "Team": "Aberdeen IronBirds", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Aberdeen IronBirds", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},
@@ -2142,7 +2142,7 @@
 			"properties": {
 				"Ballpark": "Maimonides Park",
 				"Teams": [
-					{ "Team": "Brooklyn Cyclones", "Class": "High-A", "League": "High-A East" },
+					{ "Team": "Brooklyn Cyclones", "Class": "High-A", "League": "South Atlantic League" },
 					{ "Team": "NYU Violets", "Class": "College", "League": "UAA" }
 				]
 			}
@@ -2156,7 +2156,7 @@
 			"properties": {
 				"Ballpark": "Dutchess Stadium",
 				"Teams": [
-					{ "Team": "Hudson Valley Renegades", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Hudson Valley Renegades", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},
@@ -2169,7 +2169,7 @@
 			"properties": {
 				"Ballpark": "FirstEnergy Park",
 				"Teams": [
-					{ "Team": "Jersey Shore BlueClaws", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Jersey Shore BlueClaws", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},
@@ -2182,7 +2182,7 @@
 			"properties": {
 				"Ballpark": "Daniel S. Frawley Stadium",
 				"Teams": [
-					{ "Team": "Wilmington Blue Rocks", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Wilmington Blue Rocks", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},
@@ -2195,7 +2195,7 @@
 			"properties": {
 				"Ballpark": "McCormick Field",
 				"Teams": [
-					{ "Team": "Asheville Tourists", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Asheville Tourists", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},
@@ -2208,7 +2208,7 @@
 			"properties": {
 				"Ballpark": "Bowling Green Ballpark",
 				"Teams": [
-					{ "Team": "Bowling Green Hot Rods", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Bowling Green Hot Rods", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},
@@ -2221,7 +2221,7 @@
 			"properties": {
 				"Ballpark": "First National Bank Field",
 				"Teams": [
-					{ "Team": "Greensboro Grasshoppers", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Greensboro Grasshoppers", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},
@@ -2234,7 +2234,7 @@
 			"properties": {
 				"Ballpark": "Fluor Field at the West End",
 				"Teams": [
-					{ "Team": "Greenville Drive", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Greenville Drive", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},
@@ -2247,7 +2247,7 @@
 			"properties": {
 				"Ballpark": "L. P. Frans Stadium",
 				"Teams": [
-					{ "Team": "Hickory Crawdads", "Class": "High-A", "League": "High-A East" },
+					{ "Team": "Hickory Crawdads", "Class": "High-A", "League": "South Atlantic League" },
 					{ "Team": "Catawba Valley Stars", "Class": "Collegiate Summer Baseball", "League": "Great South League" }
 				]
 			}
@@ -2261,7 +2261,7 @@
 			"properties": {
 				"Ballpark": "State Mutual Stadium",
 				"Teams": [
-					{ "Team": "Rome Braves", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Rome Braves", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},
@@ -2274,7 +2274,7 @@
 			"properties": {
 				"Ballpark": "Truist Stadium",
 				"Teams": [
-					{ "Team": "Winston-Salem Dash", "Class": "High-A", "League": "High-A East" }
+					{ "Team": "Winston-Salem Dash", "Class": "High-A", "League": "South Atlantic League" }
 				]
 			}
 		},

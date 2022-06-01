@@ -25,9 +25,9 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(1938–present)) (Double-A) | May 23, 2022 |
 | [Southern League](https://en.wikipedia.org/wiki/Southern_League_(1964–present)) (Double-A) | May 23, 2022 |
 | [Texas League](https://en.wikipedia.org/wiki/Texas_League) (Double-A) | May 23, 2022 |
-| [High-A West](https://en.wikipedia.org/wiki/High-A_West) (High-A) | July 25, 2021 |
-| [High-A Central](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | July 26, 2021 |
-| [High-A East](https://en.wikipedia.org/wiki/High-A_East) (High-A) | August 7, 2021 |
+| [Northwest League](https://en.wikipedia.org/wiki/High-A_West) (High-A) | July 25, 2021 |
+| [Midwest League](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | July 26, 2021 |
+| [South Atlantic League](https://en.wikipedia.org/wiki/High-A_East) (High-A) | August 7, 2021 |
 | [Low-A West](https://en.wikipedia.org/wiki/Low-A_West) (Low-A) | August 8, 2021 |
 | [Low-A East](https://en.wikipedia.org/wiki/Low-A_East) (Low-A) | August 9, 2021 |
 | [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | August 9, 2021 |
@@ -101,13 +101,13 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(baseball)) (Class Double-A) | Replaced by Double-A Northeast |
 | [Southern League](https://en.wikipedia.org/wiki/Southern_League_(baseball)) (Class Double-A) | Replaced by Double-A South |
 | [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A) | Replaced by Double-A Central |
-| [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short) | Replaced by High-A West |
-| [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A) | Replaced by High-A Central and High-A East |
-| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by High-A East and Low-A East |
-| [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | Replaced by High-A East, Perfect Game League, MLB Draft League, Futures Collegiate Baseball League and Frontier League |
-| [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | Replaced by High-A East, Low-A East and MLB Draft League |
+| [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short) | Replaced by Northwest League |
+| [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A) | Replaced by Midwest League and South Atlantic League |
+| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by South Atlantic League and Low-A East |
+| [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | Replaced by South Atlantic League, Perfect Game League, MLB Draft League, Futures Collegiate Baseball League and Frontier League |
+| [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | Replaced by South Atlantic League, Low-A East and MLB Draft League |
 | [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | Replaced by Low-A West |
-| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by High-A East, Low-A East and Atlantic League of Professional Baseball |
+| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by South Atlantic League, Low-A East and Atlantic League of Professional Baseball |
 | [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | Replaced by Low-A Southeast |
 
 ## To-Do
