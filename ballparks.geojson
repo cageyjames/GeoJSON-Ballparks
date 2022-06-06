@@ -2287,7 +2287,7 @@
 			"properties": {
 				"Ballpark": "Chukchansi Park",
 				"Teams": [
-					{ "Team": "Fresno Grizzlies", "Class": "Low-A", "League": "Low-A West" }
+					{ "Team": "Fresno Grizzlies", "Class": "Low-A", "League": "California League" }
 				]
 			}
 		},
@@ -2300,7 +2300,7 @@
 			"properties": {
 				"Ballpark": "John Thurman Field",
 				"Teams": [
-					{ "Team": "Modesto Nuts", "Class": "Low-A", "League": "Low-A West" }
+					{ "Team": "Modesto Nuts", "Class": "Low-A", "League": "California League" }
 				]
 			}
 		},
@@ -2313,7 +2313,7 @@
 			"properties": {
 				"Ballpark": "Excite Ballpark",
 				"Teams": [
-					{ "Team": "San Jose Giants", "Class": "Low-A", "League": "Low-A West" },
+					{ "Team": "San Jose Giants", "Class": "Low-A", "League": "California League" },
 					{ "Team": "San Jose Spartans", "Class": "College", "League": "Mountain West" }
 				]
 			}
@@ -2327,7 +2327,7 @@
 			"properties": {
 				"Ballpark": "Banner Island Ballpark",
 				"Teams": [
-					{ "Team": "Stockton Ports", "Class": "Low-A", "League": "Low-A West" }
+					{ "Team": "Stockton Ports", "Class": "Low-A", "League": "California League" }
 				]
 			}
 		},
@@ -2340,7 +2340,7 @@
 			"properties": {
 				"Ballpark": "San Manuel Stadium",
 				"Teams": [
-					{ "Team": "Inland Empire 66ers", "Class": "Low-A", "League": "Low-A West" }
+					{ "Team": "Inland Empire 66ers", "Class": "Low-A", "League": "California League" }
 				]
 			}
 		},
@@ -2353,7 +2353,7 @@
 			"properties": {
 				"Ballpark": "Lake Elsinore Diamond",
 				"Teams": [
-					{ "Team": "Lake Elsinore Storm", "Class": "Low-A", "League": "Low-A West" }
+					{ "Team": "Lake Elsinore Storm", "Class": "Low-A", "League": "California League" }
 				]
 			}
 		},
@@ -2366,7 +2366,7 @@
 			"properties": {
 				"Ballpark": "LoanMart Field",
 				"Teams": [
-					{ "Team": "Rancho Cucamonga Quakes", "Class": "Low-A", "League": "Low-A West" }
+					{ "Team": "Rancho Cucamonga Quakes", "Class": "Low-A", "League": "California League" }
 				]
 			}
 		},
@@ -2379,7 +2379,7 @@
 			"properties": {
 				"Ballpark": "Valley Strong Ballpark",
 				"Teams": [
-					{ "Team": "Visalia Rawhide", "Class": "Low-A", "League": "Low-A West" }
+					{ "Team": "Visalia Rawhide", "Class": "Low-A", "League": "California League" }
 				]
 			}
 		},
