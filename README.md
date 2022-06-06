@@ -29,8 +29,8 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Midwest League](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | June 1, 2022 |
 | [South Atlantic League](https://en.wikipedia.org/wiki/High-A_East) (High-A) | June 1, 2022 |
 | [California League](https://en.wikipedia.org/wiki/California_League) (Low-A) | August 8, 2021 |
-| [Low-A East](https://en.wikipedia.org/wiki/Low-A_East) (Low-A) | August 9, 2021 |
-| [Low-A Southeast](https://en.wikipedia.org/wiki/Low-A_Southeast) (Low-A) | August 9, 2021 |
+| [Carolina League](https://en.wikipedia.org/wiki/Carolina_League) (Low-A) | August 9, 2021 |
+| [Florida State League](https://en.wikipedia.org/wiki/Florida_State_League) (Low-A) | August 9, 2021 |
 | [Arizona Complex League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | August 9, 2021 |
 | [Florida Complex League](https://www.milb.com/gulf-coast) (Rookie) | August 9, 2021|
 
