@@ -3406,340 +3406,854 @@
         "coordinates": [-82.506667, 27.980278]
       }
     },
-    {
+{
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Athletics",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Academia de Béisbol de los Atléticos de Oakland",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.85026321583607, 18.597869766050085]
+        "coordinates": [
+          -69.62514681,
+          18.45723525
+        ]
+      },
+      "properties": {
+        "team": "DSL Arizona Black",
+        "league": "Dominican Summer League",
+        "division": "Baseball City",
+        "stadium": "Arizona Diamondbacks AZPB DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Blue Jays",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Toronto Blue Jays DR Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.62514681204456, 18.45723525359505]
+        "coordinates": [
+          -69.62514681,
+          18.45723525
+        ]
+      },
+      "properties": {
+        "team": "DSL Arizona Red",
+        "league": "Dominican Summer League",
+        "division": "Baseball City",
+        "stadium": "Arizona Diamondbacks AZPB DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Braves",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Academia de Los Bravos de Atlanta DR",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.70035962722346, 18.537971744269637]
+        "coordinates": [
+          -69.62514681,
+          18.45723525
+        ]
+      },
+      "properties": {
+        "team": "DSL Blue Jays",
+        "league": "Dominican Summer League",
+        "division": "Baseball City",
+        "stadium": "Toronto Blue Jays DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Brewers",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Milwaukee Brewers Baseball DR Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.73961715095349, 18.520923535734635]
+        "coordinates": [
+          -69.62321632,
+          18.46170018
+        ]
+      },
+      "properties": {
+        "team": "DSL Orioles Black",
+        "league": "Dominican Summer League",
+        "division": "Baseball City",
+        "stadium": "Baltimore Orioles DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Cardinals",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Academia St Louis Cardinals",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.56881624497188, 18.456796148060793]
+        "coordinates": [
+          -69.62321632,
+          18.46170018
+        ]
+      },
+      "properties": {
+        "team": "DSL Orioles Orange",
+        "league": "Dominican Summer League",
+        "division": "Baseball City",
+        "stadium": "Baltimore Orioles DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Cubs",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Chicago Cubs Dominican Baseball Academy DR",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.64632978610997, 18.51102443849412]
+        "coordinates": [
+          -70.11966879,
+          18.29946395
+        ]
+      },
+      "properties": {
+        "team": "DSL Padres Brown",
+        "league": "Dominican Summer League",
+        "division": "Baseball City",
+        "stadium": "Academia Padres San Diego DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Diamondbacks",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Arizona Diamondbacks AZPB DR",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.62340777262789, 18.459166467683893]
+        "coordinates": [
+          -70.11966879,
+          18.29946395
+        ]
+      },
+      "properties": {
+        "team": "DSL Padres Gold",
+        "league": "Dominican Summer League",
+        "division": "Baseball City",
+        "stadium": "Academia Padres San Diego DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Dodgers",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Campo de béisbol Las Palmas de los dodgers DR",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.72061206447135, 18.535120492708504]
+        "coordinates": [
+          -69.62112087,
+          18.4609703
+        ]
+      },
+      "properties": {
+        "team": "DSL White Sox",
+        "league": "Dominican Summer League",
+        "division": "Baseball City",
+        "stadium": "White Sox DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Giants",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Academia De Béisbol Felipe Alou",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.60766798376987, 18.480907640941957]
+        "coordinates": [
+          -69.70035963,
+          18.53797174
+        ]
+      },
+      "properties": {
+        "team": "DSL Braves",
+        "league": "Dominican Summer League",
+        "division": "North",
+        "stadium": "Academia de Los Bravos de Atlanta DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Guardians",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Cleveland Guardians Baseball DR Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.74002321685681, 18.51553063605579]
+        "coordinates": [
+          -69.73961715,
+          18.52092354
+        ]
+      },
+      "properties": {
+        "team": "DSL Brewers Blue",
+        "league": "Dominican Summer League",
+        "division": "North",
+        "stadium": "Milwaukee Brewers Baseball DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Marlins",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Miami Marlins Baseball Academy DR",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.57834874935634, 18.46866486129586]
+        "coordinates": [
+          -69.73961715,
+          18.52092354
+        ]
+      },
+      "properties": {
+        "team": "DSL Brewers Gold",
+        "league": "Dominican Summer League",
+        "division": "North",
+        "stadium": "Milwaukee Brewers Baseball DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Mets",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "New York Mets DR Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.58368065719819, 18.46715807549743]
+        "coordinates": [
+          -69.72061206,
+          18.53512049
+        ]
+      },
+      "properties": {
+        "team": "DSL Dodgers Bautista",
+        "league": "Dominican Summer League",
+        "division": "North",
+        "stadium": "Campo de b\u00e9isbol Las Palmas de los Dodgers",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Nationals",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Washington Nationals Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.5804345389293, 18.465596098129154]
+        "coordinates": [
+          -69.72061206,
+          18.53512049
+        ]
+      },
+      "properties": {
+        "team": "DSL Dodgers Mega",
+        "league": "Dominican Summer League",
+        "division": "North",
+        "stadium": "Campo de b\u00e9isbol Las Palmas de los Dodgers",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Orioles",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Baltimore Orioles DR Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.62321632025127, 18.461700177531952]
+        "coordinates": [
+          -69.74002322,
+          18.51553064
+        ]
+      },
+      "properties": {
+        "team": "DSL Guardians Goryl",
+        "league": "Dominican Summer League",
+        "division": "North",
+        "stadium": "Cleveland Guardians Baseball DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Phillies",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Philadelphia Phillies Baseball Academy",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.57328527428788, 18.45701755063249]
+        "coordinates": [
+          -69.74002322,
+          18.51553064
+        ]
+      },
+      "properties": {
+        "team": "DSL Guardians Mendoza",
+        "league": "Dominican Summer League",
+        "division": "North",
+        "stadium": "Cleveland Guardians Baseball DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Pirates",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Academia de Baseball de Los Piratas de Pittsburgh",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.649873661224, 18.51356493564804]
+        "coordinates": [
+          -69.5739071,
+          18.46238418
+        ]
+      },
+      "properties": {
+        "team": "DSL Colorado",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "Rockies of Colorado Academy DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Rays",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Academia de Baseball Tampa Bay Rays",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.72595064763725, 18.53330459924766]
+        "coordinates": [
+          -69.5739071,
+          18.46238418
+        ]
+      },
+      "properties": {
+        "team": "DSL Rockies",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "Rockies of Colorado Academy DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Red Sox",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Boston Red Sox Baseball Academy D.R.",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.71484437932386, 18.51165605343832]
+        "coordinates": [
+          -69.57834875,
+          18.46866486
+        ]
+      },
+      "properties": {
+        "team": "DSL Marlins",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "Miami Marlins Baseball Academy DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Reds",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Baseball City (Boca Chica)",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.73440408889452, 18.53960908277438]
+        "coordinates": [
+          -69.57834875,
+          18.46866486
+        ]
+      },
+      "properties": {
+        "team": "DSL Miami",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "Miami Marlins Baseball Academy DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Rockies",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Rockies of Colorado Academy",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.57390710373323, 18.46238417523851]
+        "coordinates": [
+          -69.58368066,
+          18.46715808
+        ]
+      },
+      "properties": {
+        "team": "DSL Mets Blue",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "New York Mets DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Royals",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Kansas City Royals DR Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.73512984240547, 18.534100944513785]
+        "coordinates": [
+          -69.58368066,
+          18.46715808
+        ]
+      },
+      "properties": {
+        "team": "DSL Mets Orange",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "New York Mets DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Twins",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "Minnesota Twins DR Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.57589422746145, 18.45820334549772]
+        "coordinates": [
+          -69.57821222,
+          18.4710863
+        ]
+      },
+      "properties": {
+        "team": "DSL Rangers Blue",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "Texas Rangers Baseball DR Complex",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL White Sox",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "White Sox DR Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.62112086533806, 18.460970299376648]
+        "coordinates": [
+          -69.5797544,
+          18.4709184
+        ]
+      },
+      "properties": {
+        "team": "DSL Rangers Red",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "Texas Rangers Baseball Academy DR",
+        "class": "Rookie"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Team": "DSL Yankees",
-        "League": "Dominican Summer League",
-        "Division": "N/A",
-        "Stadium": "New York Yankees DR Complex",
-        "Class": "Rookie"
-      },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.57027465614559, 18.45911708964322]
+        "coordinates": [
+          -69.57027466,
+          18.45911709
+        ]
+      },
+      "properties": {
+        "team": "DSL NYY Bombers",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "New York Yankees DR Complex",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.57027466,
+          18.45911709
+        ]
+      },
+      "properties": {
+        "team": "DSL NYY Yankees",
+        "league": "Dominican Summer League",
+        "division": "Northeast",
+        "stadium": "New York Yankees DR Complex",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.73656049,
+          18.53750251
+        ]
+      },
+      "properties": {
+        "team": "DSL Astros Blue",
+        "league": "Dominican Summer League",
+        "division": "Northwest",
+        "stadium": "Houston Astros DR Complex",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.73656049,
+          18.53750251
+        ]
+      },
+      "properties": {
+        "team": "DSL Astros Orange",
+        "league": "Dominican Summer League",
+        "division": "Northwest",
+        "stadium": "Houston Astros DR Complex",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.85026322,
+          18.59786977
+        ]
+      },
+      "properties": {
+        "team": "DSL Athletics",
+        "league": "Dominican Summer League",
+        "division": "Northwest",
+        "stadium": "Academia de B\u00e9isbol de los Atl\u00e9ticos de Oakland",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.72595065,
+          18.5333046
+        ]
+      },
+      "properties": {
+        "team": "DSL Rays",
+        "league": "Dominican Summer League",
+        "division": "Northwest",
+        "stadium": "Academia de Baseball Tampa Bay Rays DR",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.72595065,
+          18.5333046
+        ]
+      },
+      "properties": {
+        "team": "DSL Tampa Bay",
+        "league": "Dominican Summer League",
+        "division": "Northwest",
+        "stadium": "Academia de Baseball Tampa Bay Rays DR",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.73440409,
+          18.53960908
+        ]
+      },
+      "properties": {
+        "team": "DSL Reds",
+        "league": "Dominican Summer League",
+        "division": "Northwest",
+        "stadium": "Cincinnati Reds DR Complex",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.73512984,
+          18.53410094
+        ]
+      },
+      "properties": {
+        "team": "DSL Royals Blue",
+        "league": "Dominican Summer League",
+        "division": "Northwest",
+        "stadium": "Kansas City Royals DR Complex",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.73512984,
+          18.53410094
+        ]
+      },
+      "properties": {
+        "team": "DSL Royals Gold",
+        "league": "Dominican Summer League",
+        "division": "Northwest",
+        "stadium": "Kansas City Royals DR Complex",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.64632979,
+          18.51102444
+        ]
+      },
+      "properties": {
+        "team": "DSL Cubs Blue",
+        "league": "Dominican Summer League",
+        "division": "San Pedro",
+        "stadium": "Chicago Cubs Dominican Baseball Academy DR",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.64632979,
+          18.51102444
+        ]
+      },
+      "properties": {
+        "team": "DSL Cubs Red",
+        "league": "Dominican Summer League",
+        "division": "San Pedro",
+        "stadium": "Chicago Cubs Dominican Baseball Academy DR",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.64987366,
+          18.51356494
+        ]
+      },
+      "properties": {
+        "team": "DSL Pirates Black",
+        "league": "Dominican Summer League",
+        "division": "San Pedro",
+        "stadium": "Academia de Baseball de Los Piratas de Pittsburgh",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.64987366,
+          18.51356494
+        ]
+      },
+      "properties": {
+        "team": "DSL Pirates Gold",
+        "league": "Dominican Summer League",
+        "division": "San Pedro",
+        "stadium": "Academia de Baseball de Los Piratas de Pittsburgh",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71484438,
+          18.51165605
+        ]
+      },
+      "properties": {
+        "team": "DSL Red Sox Blue",
+        "league": "Dominican Summer League",
+        "division": "San Pedro",
+        "stadium": "Boston Red Sox Baseball Academy DR",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.71484438,
+          18.51165605
+        ]
+      },
+      "properties": {
+        "team": "DSL Red Sox Red",
+        "league": "Dominican Summer League",
+        "division": "San Pedro",
+        "stadium": "Boston Red Sox Baseball Academy DR",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.23975336,
+          18.49892501
+        ]
+      },
+      "properties": {
+        "team": "DSL Tigers 1",
+        "league": "Dominican Summer League",
+        "division": "San Pedro",
+        "stadium": "Detroit Tigers DR Facility",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.23975336,
+          18.49892501
+        ]
+      },
+      "properties": {
+        "team": "DSL Tigers 2",
+        "league": "Dominican Summer League",
+        "division": "San Pedro",
+        "stadium": "Detroit Tigers DR Facility",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.58286637,
+          18.46479879
+        ]
+      },
+      "properties": {
+        "team": "DSL Angels",
+        "league": "Dominican Summer League",
+        "division": "South",
+        "stadium": "Los Angeles Angels of Anaheim DR Complex",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.56881624,
+          18.45679615
+        ]
+      },
+      "properties": {
+        "team": "DSL Cardinals",
+        "league": "Dominican Summer League",
+        "division": "South",
+        "stadium": "Academia St Louis Cardinals",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.60766798,
+          18.48090764
+        ]
+      },
+      "properties": {
+        "team": "DSL Giants Black",
+        "league": "Dominican Summer League",
+        "division": "South",
+        "stadium": "San Francisco Giants DR Complex",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.60766798,
+          18.48090764
+        ]
+      },
+      "properties": {
+        "team": "DSL Giants Orange",
+        "league": "Dominican Summer League",
+        "division": "South",
+        "stadium": "Academia De B\u00e9isbol Felipe Alou",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.60866304,
+          18.47746197
+        ]
+      },
+      "properties": {
+        "team": "DSL Mariners",
+        "league": "Dominican Summer League",
+        "division": "South",
+        "stadium": "Academia Marinero de Seattle",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.58043454,
+          18.4655961
+        ]
+      },
+      "properties": {
+        "team": "DSL Nationals",
+        "league": "Dominican Summer League",
+        "division": "South",
+        "stadium": "Nationals Complex Dominican",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.57328527,
+          18.45701755
+        ]
+      },
+      "properties": {
+        "team": "DSL Phillies Red",
+        "league": "Dominican Summer League",
+        "division": "South",
+        "stadium": "Philadelphia Phillies Baseball Academy DR",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.57328527,
+          18.45701755
+        ]
+      },
+      "properties": {
+        "team": "DSL Phillies White",
+        "league": "Dominican Summer League",
+        "division": "South",
+        "stadium": "Philadelphia Phillies Baseball Academy DR",
+        "class": "Rookie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.57589423,
+          18.45820335
+        ]
+      },
+      "properties": {
+        "team": "DSL Twins",
+        "league": "Dominican Summer League",
+        "division": "South",
+        "stadium": "Minnesota Twins DR Complex",
+        "class": "Rookie"
       }
     },
     {
