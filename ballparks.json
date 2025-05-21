@@ -1,0 +1,3830 @@
+{
+  "name": "ballparks",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Baltimore Orioles",
+        "League": "American",
+        "Division": "East",
+        "Stadium": "Oriole Park at Camden Yards",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.621667,
+          39.283889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Boston Red Sox",
+        "League": "American",
+        "Division": "East",
+        "Stadium": "Fenway Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0975,
+          42.346389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "New York Yankees",
+        "League": "American",
+        "Division": "East",
+        "Stadium": "Yankee Stadium",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.926389,
+          40.829167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Tampa Bay Rays",
+        "League": "American",
+        "Division": "East",
+        "Stadium": "George M. Steinbrenner Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.506667,
+          27.980278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Toronto Blue Jays",
+        "League": "American",
+        "Division": "East",
+        "Stadium": "Rogers Centre",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39,
+          43.641389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Chicago White Sox",
+        "League": "American",
+        "Division": "Central",
+        "Stadium": "Rate Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.633889,
+          41.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Cleveland Guardians",
+        "League": "American",
+        "Division": "Central",
+        "Stadium": "Progressive Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.685278,
+          41.495833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Detroit Tigers",
+        "League": "American",
+        "Division": "Central",
+        "Stadium": "Comerica Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.048611,
+          42.339167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Kansas City Royals",
+        "League": "American",
+        "Division": "Central",
+        "Stadium": "Kauffman Stadium",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.479167,
+          39.051389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Minnesota Twins",
+        "League": "American",
+        "Division": "Central",
+        "Stadium": "Target Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.278333,
+          44.981667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Oakland Athletics",
+        "League": "American",
+        "Division": "West",
+        "Stadium": "Sutter Health Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.513889,
+          38.580278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Houston Astros",
+        "League": "American",
+        "Division": "West",
+        "Stadium": "Daikin Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.355556,
+          29.756944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Los Angeles Angels",
+        "League": "American",
+        "Division": "West",
+        "Stadium": "Angel Stadium",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.883056,
+          33.800278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Seattle Mariners",
+        "League": "American",
+        "Division": "West",
+        "Stadium": "T-Mobile Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3325,
+          47.591389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Texas Rangers",
+        "League": "American",
+        "Division": "West",
+        "Stadium": "Globe Life Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.083056,
+          32.751389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Atlanta Braves",
+        "League": "National",
+        "Division": "East",
+        "Stadium": "Truist Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.454722,
+          33.953889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Miami Marlins",
+        "League": "National",
+        "Division": "East",
+        "Stadium": "loanDepot Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.221389,
+          25.776111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "New York Mets",
+        "League": "National",
+        "Division": "East",
+        "Stadium": "Citi Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.833333,
+          40.757222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Philadelphia Phillies",
+        "League": "National",
+        "Division": "East",
+        "Stadium": "Citizens Bank Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.166389,
+          39.905833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Washington Nationals",
+        "League": "National",
+        "Division": "East",
+        "Stadium": "Nationals Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.008889,
+          38.873889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Chicago Cubs",
+        "League": "National",
+        "Division": "Central",
+        "Stadium": "Wrigley Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.655556,
+          41.948333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Cincinnati Reds",
+        "League": "National",
+        "Division": "Central",
+        "Stadium": "Great American Ball Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.505833,
+          39.095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Milwaukee Brewers",
+        "League": "National",
+        "Division": "Central",
+        "Stadium": "American Family Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.968056,
+          43.040833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Pittsburgh Pirates",
+        "League": "National",
+        "Division": "Central",
+        "Stadium": "PNC Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.009722,
+          40.4475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "St. Louis Cardinals",
+        "League": "National",
+        "Division": "Central",
+        "Stadium": "Busch Stadium",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.193056,
+          38.625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Arizona Diamondbacks",
+        "League": "National",
+        "Division": "West",
+        "Stadium": "Chase Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.080278,
+          33.454444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Colorado Rockies",
+        "League": "National",
+        "Division": "West",
+        "Stadium": "Coors Field",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.994444,
+          39.756389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Los Angeles Dodgers",
+        "League": "National",
+        "Division": "West",
+        "Stadium": "Dodger Stadium",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239444,
+          34.081111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "San Diego Padres",
+        "League": "National",
+        "Division": "West",
+        "Stadium": "Petco Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.156944,
+          32.707778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "San Francisco Giants",
+        "League": "National",
+        "Division": "West",
+        "Stadium": "Oracle Park",
+        "Class": "MLB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.389722,
+          37.795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Arizona Diamondbacks",
+        "League": "National",
+        "Division": "Cactus League",
+        "Stadium": "Salt River Fields at Talking Stick",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89,
+          33.5105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Atlanta Braves",
+        "League": "National",
+        "Division": "Grapefruit League",
+        "Stadium": "CoolToday Park",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.230278,
+          27.530556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Baltimore Orioles",
+        "League": "American",
+        "Division": "Grapefruit League",
+        "Stadium": "Ed Smith Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.509722,
+          27.3375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Boston Red Sox",
+        "League": "American",
+        "Division": "Grapefruit League",
+        "Stadium": "JetBlue Park",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.813056,
+          26.595556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Chicago Cubs",
+        "League": "National",
+        "Division": "Cactus League",
+        "Stadium": "Sloan Park",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.881944,
+          33.431111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Chicago White Sox",
+        "League": "American",
+        "Division": "Cactus League",
+        "Stadium": "Camelback Ranch",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.258889,
+          33.519444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Cincinnati Reds",
+        "League": "National",
+        "Division": "Cactus League",
+        "Stadium": "Goodyear Ballpark",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3925,
+          33.438333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Cleveland Guardians",
+        "League": "American",
+        "Division": "Cactus League",
+        "Stadium": "Goodyear Ballpark",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3925,
+          33.438333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Colorado Rockies",
+        "League": "National",
+        "Division": "Cactus League",
+        "Stadium": "Salt River Fields at Talking Stick",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.89,
+          33.5105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Detroit Tigers",
+        "League": "American",
+        "Division": "Grapefruit League",
+        "Stadium": "Joker Marchant Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.953889,
+          28.0475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Houston Astros",
+        "League": "American",
+        "Division": "Grapefruit League",
+        "Stadium": "The Ballpark of The Palm Beaches",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.170556,
+          26.772778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Kansas City Royals",
+        "League": "American",
+        "Division": "Cactus League",
+        "Stadium": "Surprise Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.377778, 33.627778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Los Angeles Angels",
+        "League": "American",
+        "Division": "Cactus League",
+        "Stadium": "Tempe Diablo Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.983333,
+          33.371944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Los Angeles Dodgers",
+        "League": "National",
+        "Division": "Cactus League",
+        "Stadium": "Camelback Ranch",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.258889,
+          33.519444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Miami Marlins",
+        "League": "National",
+        "Division": "Grapefruit League",
+        "Stadium": "Roger Dean Chevrolet Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.119722,
+          26.890833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Milwaukee Brewers",
+        "League": "National",
+        "Division": "Cactus League",
+        "Stadium": "American Family Fields of Phoenix",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.145278,
+          33.508611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Minnesota Twins",
+        "League": "American",
+        "Division": "Grapefruit League",
+        "Stadium": "Hammond Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.914444,
+          26.555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "New York Mets",
+        "League": "National",
+        "Division": "Grapefruit League",
+        "Stadium": "Clover Park",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.337056,
+          27.276667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "New York Yankees",
+        "League": "American",
+        "Division": "Grapefruit League",
+        "Stadium": "George M. Steinbrenner Field",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.506667,
+          27.980278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Oakland Athletics",
+        "League": "American",
+        "Division": "Cactus League",
+        "Stadium": "Hohokam Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.795833,
+          33.411111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Philadelphia Phillies",
+        "League": "National",
+        "Division": "Grapefruit League",
+        "Stadium": "BayCare Ballpark",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.758056,
+          27.943889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Pittsburgh Pirates",
+        "League": "National",
+        "Division": "Grapefruit League",
+        "Stadium": "LECOM Park",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5625,
+          27.489722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "San Diego Padres",
+        "League": "National",
+        "Division": "Cactus League",
+        "Stadium": "Peoria Sports Complex",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.233333,
+          33.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "San Francisco Giants",
+        "League": "National",
+        "Division": "Cactus League",
+        "Stadium": "Scottsdale Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.887778,
+          33.4875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Seattle Mariners",
+        "League": "American",
+        "Division": "Cactus League",
+        "Stadium": "Peoria Sports Complex",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.233333,
+          33.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "St. Louis Cardinals",
+        "League": "National",
+        "Division": "Grapefruit League",
+        "Stadium": "Roger Dean Chevrolet Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.119722,
+          26.890833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Tampa Bay Rays",
+        "League": "American",
+        "Division": "Grapefruit League",
+        "Stadium": "Charlotte Sports Park",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.203056,
+          26.906667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Texas Rangers",
+        "League": "American",
+        "Division": "Cactus League",
+        "Stadium": "Surprise Stadium",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.377778, 33.627778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Toronto Blue Jays",
+        "League": "American",
+        "Division": "Grapefruit League",
+        "Stadium": "TD Ballpark",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.798333,
+          27.8925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Washington Nationals",
+        "League": "National",
+        "Division": "Grapefruit League",
+        "Stadium": "The Ballpark of The Palm Beaches",
+        "Class": "Spring Training"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.170556,
+          26.772778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Buffalo Bisons",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "Sahlen Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.878333,
+          42.891389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Charlotte Knights",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "Truist Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.845833,
+          35.228611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Durham Bulls",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "Durham Bulls Athletic Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.902778,
+          35.973333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Jacksonville Jumbo Shrimp",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "VyStar Veterans Memorial Arena",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.641389,
+          30.324722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Lehigh Valley IronPigs",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "Coca-Cola Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.469444,
+          40.638611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Norfolk Tides",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "Harbor Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.283333,
+          36.847222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Rochester Red Wings",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "Innovative Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.603611,
+          43.153056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Scranton/Wilkes-Barre RailRiders",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "PNC Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.760278,
+          41.361944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Syracuse Mets",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "NBT Bank Stadium",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.158333,
+          43.069167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Worcester Red Sox",
+        "League": "International",
+        "Division": "East",
+        "Stadium": "Polar Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.794444,
+          42.259722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Columbus Clippers",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "Huntington Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.004167,
+          39.9625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Gwinnett Stripers",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "Coolray Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.069722,
+          34.039167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Indianapolis Indians",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "Victory Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.170833,
+          39.768333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Iowa Cubs",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "Principal Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.627778,
+          41.590278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Louisville Bats",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "Louisville Slugger Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.734167,
+          38.253056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Memphis Redbirds",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "AutoZone Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.05,
+          35.149722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Nashville Sounds",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "First Horizon Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.785556,
+          36.168611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Omaha Storm Chasers",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "Werner Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.088889,
+          41.163889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "St. Paul Saints",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "CHS Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.092222,
+          44.950556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Toledo Mud Hens",
+        "League": "International",
+        "Division": "West",
+        "Stadium": "Fifth Third Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.541667,
+          41.6525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Albuquerque Isotopes",
+        "League": "Pacific Coast",
+        "Division": "East",
+        "Stadium": "Rio Grande Credit Union Field at Isotopes Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.614167,
+          35.073889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "El Paso Chihuahuas",
+        "League": "Pacific Coast",
+        "Division": "East",
+        "Stadium": "Southwest University Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.508333,
+          31.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Oklahoma City Dodgers",
+        "League": "Pacific Coast",
+        "Division": "East",
+        "Stadium": "Chickasaw Bricktown Ballpark",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5125,
+          35.461944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Round Rock Express",
+        "League": "Pacific Coast",
+        "Division": "East",
+        "Stadium": "Dell Diamond",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.616667,
+          30.511944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Sugar Land Space Cowboys",
+        "League": "Pacific Coast",
+        "Division": "East",
+        "Stadium": "Constellation Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.629167,
+          29.594444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Las Vegas Aviators",
+        "League": "Pacific Coast",
+        "Division": "West",
+        "Stadium": "Las Vegas Ballpark",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.336111,
+          36.052778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Reno Aces",
+        "League": "Pacific Coast",
+        "Division": "West",
+        "Stadium": "Greater Nevada Field",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.827778,
+          39.525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Sacramento River Cats",
+        "League": "Pacific Coast",
+        "Division": "West",
+        "Stadium": "Sutter Health Park",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.516667,
+          38.5875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Salt Lake Bees",
+        "League": "Pacific Coast",
+        "Division": "West",
+        "Stadium": "Daybreak Field at America First Square",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.890278,
+          40.531944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Tacoma Rainiers",
+        "League": "Pacific Coast",
+        "Division": "West",
+        "Stadium": "Cheney Stadium",
+        "Class": "AAA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.490833,
+          47.222778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Akron RubberDucks",
+        "League": "Eastern",
+        "Division": "Southwest",
+        "Stadium": "Canal Park",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.509444,
+          41.081111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Altoona Curve",
+        "League": "Eastern",
+        "Division": "Southwest",
+        "Stadium": "Peoples Natural Gas Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.371667,
+          40.505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Binghamton Rumble Ponies",
+        "League": "Eastern",
+        "Division": "Northeast",
+        "Stadium": "Mirabito Stadium",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.913889,
+          42.090833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Bowie Baysox",
+        "League": "Eastern",
+        "Division": "Southwest",
+        "Stadium": "Prince George's Stadium",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.724722,
+          38.905556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Erie SeaWolves",
+        "League": "Eastern",
+        "Division": "Southwest",
+        "Stadium": "UPMC Park",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.085833,
+          42.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Harrisburg Senators",
+        "League": "Eastern",
+        "Division": "Southwest",
+        "Stadium": "FNB Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.878333,
+          40.256667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Hartford Yard Goats",
+        "League": "Eastern",
+        "Division": "Northeast",
+        "Stadium": "Dunkin' Park",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.676389,
+          41.768333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "New Hampshire Fisher Cats",
+        "League": "Eastern",
+        "Division": "Northeast",
+        "Stadium": "Delta Dental Stadium",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.451667,
+          42.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Portland Sea Dogs",
+        "League": "Eastern",
+        "Division": "Northeast",
+        "Stadium": "Hadlock Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.276667,
+          43.649444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Reading Fightin Phils",
+        "League": "Eastern",
+        "Division": "Northeast",
+        "Stadium": "FirstEnergy Stadium",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.901944,
+          40.353611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Richmond Flying Squirrels",
+        "League": "Eastern",
+        "Division": "Southwest",
+        "Stadium": "The Diamond",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.456111,
+          37.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Somerset Patriots",
+        "League": "Eastern",
+        "Division": "Northeast",
+        "Stadium": "TD Bank Ballpark",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.545,
+          40.570833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Birmingham Barons",
+        "League": "Southern",
+        "Division": "North",
+        "Stadium": "Regions Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.796944,
+          33.500833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Biloxi Shuckers",
+        "League": "Southern",
+        "Division": "South",
+        "Stadium": "Keesler Federal Park",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.881944,
+          30.392778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Chattanooga Lookouts",
+        "League": "Southern",
+        "Division": "North",
+        "Stadium": "AT&T Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.301667,
+          35.054167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Mississippi Braves",
+        "League": "Southern",
+        "Division": "South",
+        "Stadium": "Trustmark Park",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.035833,
+          32.275278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Montgomery Biscuits",
+        "League": "Southern",
+        "Division": "South",
+        "Stadium": "Montgomery Riverwalk Stadium",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.304722,
+          32.379722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Pensacola Blue Wahoos",
+        "League": "Southern",
+        "Division": "South",
+        "Stadium": "Blue Wahoos Stadium",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.228611,
+          30.405556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Rocket City Trash Pandas",
+        "League": "Southern",
+        "Division": "North",
+        "Stadium": "Toyota Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.776944,
+          34.628889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Tennessee Smokies",
+        "League": "Southern",
+        "Division": "North",
+        "Stadium": "Smokies Stadium",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.605556,
+          35.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Amarillo Sod Poodles",
+        "League": "Texas",
+        "Division": "South",
+        "Stadium": "HODGETOWN",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.821111,
+          35.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Arkansas Travelers",
+        "League": "Texas",
+        "Division": "North",
+        "Stadium": "Dickey-Stephens Park",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.253056,
+          34.781111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Corpus Christi Hooks",
+        "League": "Texas",
+        "Division": "South",
+        "Stadium": "Whataburger Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.384167,
+          27.813333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Frisco RoughRiders",
+        "League": "Texas",
+        "Division": "South",
+        "Stadium": "Riders Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.828889,
+          33.122222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Midland RockHounds",
+        "League": "Texas",
+        "Division": "South",
+        "Stadium": "Momentum Bank Ballpark",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.147222,
+          32.012222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Northwest Arkansas Naturals",
+        "League": "Texas",
+        "Division": "North",
+        "Stadium": "Arvest Ballpark",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.136389,
+          36.195278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "San Antonio Missions",
+        "League": "Texas",
+        "Division": "South",
+        "Stadium": "Nelson W. Wolff Municipal Stadium",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.600833,
+          29.436667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Springfield Cardinals",
+        "League": "Texas",
+        "Division": "North",
+        "Stadium": "Hammons Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.290556,
+          37.215833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Tulsa Drillers",
+        "League": "Texas",
+        "Division": "North",
+        "Stadium": "ONEOK Field",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.984444,
+          36.154444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Wichita Wind Surge",
+        "League": "Texas",
+        "Division": "North",
+        "Stadium": "Riverfront Stadium",
+        "Class": "AA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.345556,
+          37.681944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Eugene Emeralds",
+        "League": "Northwest League",
+        "Division": "N/A",
+        "Stadium": "PK Park",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.041111,
+          44.064167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Everett AquaSox",
+        "League": "Northwest League",
+        "Division": "N/A",
+        "Stadium": "Funko Field",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.217222,
+          47.985833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Hillsboro Hops",
+        "League": "Northwest League",
+        "Division": "N/A",
+        "Stadium": "Hillsboro Ballpark",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97,
+          45.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Spokane Indians",
+        "League": "Northwest League",
+        "Division": "N/A",
+        "Stadium": "Avista Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.330833,
+          47.628889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Tri-City Dust Devils",
+        "League": "Northwest League",
+        "Division": "N/A",
+        "Stadium": "Gesa Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.112222,
+          46.2375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Vancouver Canadians",
+        "League": "Northwest League",
+        "Division": "N/A",
+        "Stadium": "Nat Bailey Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1075,
+          49.239722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Dayton Dragons",
+        "League": "Midwest League",
+        "Division": "East",
+        "Stadium": "Day Air Ballpark",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.193333,
+          39.758889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Fort Wayne TinCaps",
+        "League": "Midwest League",
+        "Division": "East",
+        "Stadium": "Parkview Field",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.146389,
+          41.073889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Great Lakes Loons",
+        "League": "Midwest League",
+        "Division": "East",
+        "Stadium": "Dow Diamond",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.253056,
+          43.600833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Lake County Captains",
+        "League": "Midwest League",
+        "Division": "East",
+        "Stadium": "Classic Park",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.45,
+          41.695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Lansing Lugnuts",
+        "League": "Midwest League",
+        "Division": "East",
+        "Stadium": "Jackson Field",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.545,
+          42.733889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "West Michigan Whitecaps",
+        "League": "Midwest League",
+        "Division": "East",
+        "Stadium": "LMCU Ballpark",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.676111,
+          43.035833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Beloit Sky Carp",
+        "League": "Midwest League",
+        "Division": "West",
+        "Stadium": "ABC Supply Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.036944,
+          42.509444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Cedar Rapids Kernels",
+        "League": "Midwest League",
+        "Division": "West",
+        "Stadium": "Veterans Memorial Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.674444,
+          41.986389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Peoria Chiefs",
+        "League": "Midwest League",
+        "Division": "West",
+        "Stadium": "Dozer Park",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.592778,
+          40.686944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Quad Cities River Bandits",
+        "League": "Midwest League",
+        "Division": "West",
+        "Stadium": "Modern Woodmen Park",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.570833,
+          41.526944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "South Bend Cubs",
+        "League": "Midwest League",
+        "Division": "West",
+        "Stadium": "Four Winds Field at Coveleski Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.276667,
+          41.676667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Wisconsin Timber Rattlers",
+        "League": "Midwest League",
+        "Division": "West",
+        "Stadium": "Neuroscience Group Field at Fox Cities Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.324722,
+          44.262222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Aberdeen IronBirds",
+        "League": "South Atlantic League",
+        "Division": "North",
+        "Stadium": "Leidos Field at Ripken Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.152778,
+          39.516667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Brooklyn Cyclones",
+        "League": "South Atlantic League",
+        "Division": "North",
+        "Stadium": "Maimonides Park",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980556,
+          40.572222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Greensboro Grasshoppers",
+        "League": "South Atlantic League",
+        "Division": "North",
+        "Stadium": "First National Bank Field",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.788889,
+          36.074167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Hudson Valley Renegades",
+        "League": "South Atlantic League",
+        "Division": "North",
+        "Stadium": "Heritage Financial Park",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.934722,
+          41.584444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Jersey Shore BlueClaws",
+        "League": "South Atlantic League",
+        "Division": "North",
+        "Stadium": "ShoreTown Ballpark",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.195,
+          40.101944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Wilmington Blue Rocks",
+        "League": "South Atlantic League",
+        "Division": "North",
+        "Stadium": "Daniel S. Frawley Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.555,
+          39.745278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Asheville Tourists",
+        "League": "South Atlantic League",
+        "Division": "South",
+        "Stadium": "McCormick Field",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.540556,
+          35.595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Bowling Green Hot Rods",
+        "League": "South Atlantic League",
+        "Division": "South",
+        "Stadium": "Bowling Green Ballpark",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.451667,
+          36.985833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Greenville Drive",
+        "League": "South Atlantic League",
+        "Division": "South",
+        "Stadium": "Fluor Field at the West End",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.395833,
+          34.845833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Hub City Spartanburgers",
+        "League": "South Atlantic League",
+        "Division": "South",
+        "Stadium": "Fifth Third Park",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.919444,
+          34.947222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Rome Emperors",
+        "League": "South Atlantic League",
+        "Division": "South",
+        "Stadium": "AdventHealth Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.175,
+          34.253056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Winston-Salem Dash",
+        "League": "South Atlantic League",
+        "Division": "South",
+        "Stadium": "Truist Stadium",
+        "Class": "High-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2375,
+          36.095833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Fresno Grizzlies",
+        "League": "California League",
+        "Division": "North",
+        "Stadium": "Chukchansi Park",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.791111,
+          36.731389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Modesto Nuts",
+        "League": "California League",
+        "Division": "North",
+        "Stadium": "John Thurman Field",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.985,
+          37.626667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "San Jose Giants",
+        "League": "California League",
+        "Division": "North",
+        "Stadium": "Excite Ballpark",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.868889,
+          37.327778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Stockton Ports",
+        "League": "California League",
+        "Division": "North",
+        "Stadium": "Banner Island Ballpark",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.291389,
+          37.950556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Inland Empire 66ers",
+        "League": "California League",
+        "Division": "South",
+        "Stadium": "San Manuel Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.289722,
+          34.089722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Lake Elsinore Storm",
+        "League": "California League",
+        "Division": "South",
+        "Stadium": "Lake Elsinore Diamond",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.33,
+          33.6525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Rancho Cucamonga Quakes",
+        "League": "California League",
+        "Division": "South",
+        "Stadium": "LoanMart Field",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.584444,
+          34.112222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Visalia Rawhide",
+        "League": "California League",
+        "Division": "South",
+        "Stadium": "Valley Strong Ballpark",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.293889,
+          36.336111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Carolina Mudcats",
+        "League": "Carolina League",
+        "Division": "North",
+        "Stadium": "Five County Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.331389,
+          35.817778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Delmarva Shorebirds",
+        "League": "Carolina League",
+        "Division": "North",
+        "Stadium": "Arthur W. Perdue Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.555,
+          38.366944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Fayetteville Woodpeckers",
+        "League": "Carolina League",
+        "Division": "North",
+        "Stadium": "Segra Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.883611,
+          35.052778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Fredericksburg Nationals",
+        "League": "Carolina League",
+        "Division": "North",
+        "Stadium": "Virginia Credit Union Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45,
+          38.276667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Lynchburg Hillcats",
+        "League": "Carolina League",
+        "Division": "North",
+        "Stadium": "Bank of the James Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.154444,
+          37.403056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Salem Red Sox",
+        "League": "Carolina League",
+        "Division": "North",
+        "Stadium": "Salem Memorial Ballpark",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.035833,
+          37.274444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Augusta GreenJackets",
+        "League": "Carolina League",
+        "Division": "South",
+        "Stadium": "SRP Park",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9675,
+          33.500833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Charleston RiverDogs",
+        "League": "Carolina League",
+        "Division": "South",
+        "Stadium": "Joseph P. Riley Jr. Park",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.986389,
+          32.768333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Columbia Fireflies",
+        "League": "Carolina League",
+        "Division": "South",
+        "Stadium": "Segra Park",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.034722,
+          34.012222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Hickory Crawdads",
+        "League": "Carolina League",
+        "Division": "South",
+        "Stadium": "L. P. Frans Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.371667,
+          35.734722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Kannapolis Cannon Ballers",
+        "League": "Carolina League",
+        "Division": "South",
+        "Stadium": "Atrium Health Ballpark",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.626667,
+          35.469167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Myrtle Beach Pelicans",
+        "League": "Carolina League",
+        "Division": "South",
+        "Stadium": "Pelicans Ballpark",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.868889,
+          33.703333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Daytona Tortugas",
+        "League": "Florida State League",
+        "Division": "East",
+        "Stadium": "Jackie Robinson Ballpark",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.020278,
+          29.227778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Jupiter Hammerheads",
+        "League": "Florida State League",
+        "Division": "East",
+        "Stadium": "Roger Dean Chevrolet Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.119722,
+          26.890833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Palm Beach Cardinals",
+        "League": "Florida State League",
+        "Division": "East",
+        "Stadium": "Roger Dean Chevrolet Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.119722,
+          26.890833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "St. Lucie Mets",
+        "League": "Florida State League",
+        "Division": "East",
+        "Stadium": "Clover Park",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.337056,
+          27.276667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Bradenton Marauders",
+        "League": "Florida State League",
+        "Division": "West",
+        "Stadium": "LECOM Park",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5625,
+          27.489722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Clearwater Threshers",
+        "League": "Florida State League",
+        "Division": "West",
+        "Stadium": "BayCare Ballpark",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.758056,
+          27.943889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Dunedin Blue Jays",
+        "League": "Florida State League",
+        "Division": "West",
+        "Stadium": "TD Ballpark",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.798333,
+          27.8925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Fort Myers Mighty Mussels",
+        "League": "Florida State League",
+        "Division": "West",
+        "Stadium": "Hammond Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.914444,
+          26.555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Lakeland Flying Tigers",
+        "League": "Florida State League",
+        "Division": "West",
+        "Stadium": "Joker Marchant Stadium",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.953889,
+          28.0475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Tampa Tarpons",
+        "League": "Florida State League",
+        "Division": "West",
+        "Stadium": "George M. Steinbrenner Field",
+        "Class": "Single-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.506667,
+          27.980278
+        ]
+      }
+    },
+        {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Athletics",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Fitch Park",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.795833, 33.411111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Brewers",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "American Family Fields of Phoenix",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.145278, 33.508611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Cubs",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Sloan Park",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.881944, 33.431111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Diamondbacks",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Salt River Fields at Talking Stick",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890, 33.5105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Dodgers",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Camelback Ranch",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.258889, 33.519444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Giants",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Scottsdale Stadium",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.887778, 33.4875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Guardians",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Goodyear Ballpark",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.3925, 33.438333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Mariners",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Peoria Sports Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.233333, 33.64]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Padres",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Peoria Sports Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.233333, 33.64]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Rangers",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Surprise Stadium",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.377778, 33.627778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Reds",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Goodyear Ballpark",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.3925, 33.438333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Rockies",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Salt River Fields at Talking Stick",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890, 33.5105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL Royals",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Surprise Stadium",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.377778, 33.627778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "ACL White Sox",
+        "League": "Arizona Complex League",
+        "Division": "N/A",
+        "Stadium": "Camelback Ranch",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.258889, 33.519444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Blue Jays",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "TD Ballpark",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.798333, 27.8925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Cardinals",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "Roger Dean Chevrolet Stadium",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.119722, 26.890833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Marlins",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "Roger Dean Chevrolet Stadium",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.119722, 26.890833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Mets",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "Clover Park",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.337056, 27.276667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Orioles",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "Ed Smith Stadium",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.509722, 27.3375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Phillies",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "BayCare Ballpark",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.758056, 27.943889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Pirates",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "LECOM Park",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.5625, 27.489722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Rays",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "Charlotte Sports Park",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.203056, 26.906667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Red Sox",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "JetBlue Park",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.813056, 26.595556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Twins",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "Hammond Stadium",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.914444, 26.555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "FCL Yankees",
+        "League": "Florida Complex League",
+        "Division": "N/A",
+        "Stadium": "George M. Steinbrenner Field",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.506667, 27.980278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Athletics",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Academia de Béisbol de los Atléticos de Oakland",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.85026321583607, 18.597869766050085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Blue Jays",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Toronto Blue Jays DR Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.62514681204456, 18.45723525359505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Braves",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Academia de Los Bravos de Atlanta DR",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.70035962722346, 18.537971744269637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Brewers",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Milwaukee Brewers Baseball DR Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.73961715095349, 18.520923535734635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Cardinals",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Academia St Louis Cardinals",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.56881624497188, 18.456796148060793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Cubs",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Chicago Cubs Dominican Baseball Academy DR",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.64632978610997, 18.51102443849412]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Diamondbacks",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Arizona Diamondbacks AZPB DR",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.62340777262789, 18.459166467683893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Dodgers",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Campo de béisbol Las Palmas de los dodgers DR",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.72061206447135, 18.535120492708504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Giants",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Academia De Béisbol Felipe Alou",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.60766798376987, 18.480907640941957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Guardians",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Cleveland Guardians Baseball DR Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.74002321685681, 18.51553063605579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Marlins",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Miami Marlins Baseball Academy DR",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.57834874935634, 18.46866486129586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Mets",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "New York Mets DR Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.58368065719819, 18.46715807549743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Nationals",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Washington Nationals Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.5804345389293, 18.465596098129154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Orioles",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Baltimore Orioles DR Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.62321632025127, 18.461700177531952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Phillies",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Philadelphia Phillies Baseball Academy",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.57328527428788, 18.45701755063249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Pirates",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Academia de Baseball de Los Piratas de Pittsburgh",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.649873661224, 18.51356493564804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Rays",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Academia de Baseball Tampa Bay Rays",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.72595064763725, 18.53330459924766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Red Sox",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Boston Red Sox Baseball Academy D.R.",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.71484437932386, 18.51165605343832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Reds",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Baseball City (Boca Chica)",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.73440408889452, 18.53960908277438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Rockies",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Rockies of Colorado Academy",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.57390710373323, 18.46238417523851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Royals",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Kansas City Royals DR Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.73512984240547, 18.534100944513785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Twins",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "Minnesota Twins DR Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.57589422746145, 18.45820334549772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL White Sox",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "White Sox DR Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.62112086533806, 18.460970299376648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "DSL Yankees",
+        "League": "Dominican Summer League",
+        "Division": "N/A",
+        "Stadium": "New York Yankees DR Complex",
+        "Class": "Rookie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.57027465614559, 18.45911708964322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Glendale Desert Dogs",
+        "League": "Arizona Fall League",
+        "Division": "West",
+        "Stadium": "Camelback Ranch",
+        "Class": "Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.258889, 33.519444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Peoria Javelinas",
+        "League": "Arizona Fall League",
+        "Division": "West",
+        "Stadium": "Peoria Sports Complex",
+        "Class": "Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.233333, 33.64]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Surprise Saguaros",
+        "League": "Arizona Fall League",
+        "Division": "West",
+        "Stadium": "Surprise Stadium",
+        "Class": "Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.377778, 33.627778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Mesa Solar Sox",
+        "League": "Arizona Fall League",
+        "Division": "East",
+        "Stadium": "Sloan Park",
+        "Class": "Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.881944, 33.431111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Salt River Rafters",
+        "League": "Arizona Fall League",
+        "Division": "East",
+        "Stadium": "Salt River Fields at Talking Stick",
+        "Class": "Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.890, 33.5105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Scottsdale Scorpions",
+        "League": "Arizona Fall League",
+        "Division": "East",
+        "Stadium": "Scottsdale Stadium",
+        "Class": "Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.887778, 33.4875]
+      }
+    }
+  ]
+}
