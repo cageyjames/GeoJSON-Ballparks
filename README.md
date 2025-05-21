@@ -1,14 +1,12 @@
 # GeoJSON-Ballparks
 
-**Note: The project is going to shift how ballparks are maintained.  See [this blog post](https://spatiallyadjusted.com/geojson-ballparks-and-mlb-minor-league-realignment/) to learn more.**
-
 Ballparks of Professional teams in [GeoJSON](http://geojson.org).
 
 Back in early 2014, [Steve Pousty asked me](https://twitter.com/TheSteve0/status/436588544329388032) if I had Lat/Longs for Major/Minor League ballparks.  I [pushed up a Gist](https://gist.github.com/cageyjames/9142310) and then realized this was a project worth putting effort into and defined the original goal to get all professional baseball team ballparks in GeoJSON format.  I'm using Wikipedia to define "[Professional Baseball](https://en.wikipedia.org/wiki/Professional_baseball)" but it is only for a guide.  My initial goal was to get all the North and South American teams (majors to rookie) mapped and then top tier teams from around the world.
 
-In 2021, [Major League Baseball](https://www.mlb.com/) reorganized all the [Minor League Baseball Teams](https://www.milb.com/). This basically affected over half of the ballparks mapped.  Mostly the league and class, but teams have left previous leagues and others have been eliminated or have gone on to independent leagues.  Because of this, I am reviewing all the ballparks and instituing a new structure that has an array of teams at each stadium.
+In 2021, [Major League Baseball](https://www.mlb.com/) reorganized all the [Minor League Baseball Teams](https://www.milb.com/). This basically affected over half of the ballparks mapped.  Mostly the league and class, but teams have left previous leagues and others have been eliminated or have gone on to independent leagues.
 
-Below is a list of teams that have been mapped, ones that are currently being worked on and a to-do list.  The new stadiums date from April 2, 2021.  Anything older would be in the [legacy ballparks Gist](https://gist.github.com/cageyjames/1fbaec6902c54acb5d04dffa4158aec6). If you know of any teams outside of the the Americas that haven't been mapped or isn't in the list below, I encourage you to add it so we can get it in.  Right now we're only using points to map the stadiums.  
+Below is a list of teams that have been mapped, ones that are currently being worked on and a to-do list.  The new stadiums date from May 21, 2025.  Anything older would be in the [legacy ballparks Gist](https://gist.github.com/cageyjames/1fbaec6902c54acb5d04dffa4158aec6). If you know of any teams outside of the the Americas that haven't been mapped or isn't in the list below, I encourage you to add it so we can get it in.  Right now we're only using points to map the stadiums.  
 
 There are over 450 ballparks around the world included.  If you find a league I haven't added yet, please fork and add it in yourself.
 
@@ -16,39 +14,30 @@ There are over 450 ballparks around the world included.  If you find a league I 
 
 | Major and Minor League Baseball  | Update Date |
 | ------------- | ------------- |
-| [Major League Baseball](http://mlb.com) (American League and National League) | April 2, 2021 |
-| [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | April 2, 2021 |
-| [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | April 6, 2021 |
-| [Arizona League](https://www.milb.com/arizona) (Rookie) | April 6, 2021 |
-| [Pacific Coast League](https://en.wikipedia.org/wiki/Pacific_Coast_League) (Triple-A) | May 23, 2022 |
-| [International League](https://en.wikipedia.org/wiki/International_League) (Triple-A) | May 23, 2022 |
-| [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(1938–present)) (Double-A) | May 23, 2022 |
-| [Southern League](https://en.wikipedia.org/wiki/Southern_League_(1964–present)) (Double-A) | May 23, 2022 |
-| [Texas League](https://en.wikipedia.org/wiki/Texas_League) (Double-A) | May 23, 2022 |
-| [Northwest League](https://en.wikipedia.org/wiki/High-A_West) (High-A) | June 1, 2022 |
-| [Midwest League](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | June 1, 2022 |
-| [South Atlantic League](https://en.wikipedia.org/wiki/High-A_East) (High-A) | June 1, 2022 |
-| [California League](https://en.wikipedia.org/wiki/California_League) (Low-A) | June 6, 2021 |
-| [Carolina League](https://en.wikipedia.org/wiki/Carolina_League) (Low-A) | June 6, 2021 |
-| [Florida State League](https://en.wikipedia.org/wiki/Florida_State_League) (Low-A) | June 6, 2021 |
-| [Arizona Complex League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | August 9, 2021 |
-| [Florida Complex League](https://www.milb.com/gulf-coast) (Rookie) | August 9, 2021|
-
-| Collegiate Summer Baseball  | Update Date |
-| ------------- | ------------- |
-| [Appalachian League](https://www.mlb.com/appalachian-league) (Rookie Advanced) | August 10, 2021 |
-
-| Independent Baseball  | Update Date |
-| ------------- | ------------- |
-| [Pioneer League](http://www.pioneerleague.com/) (Rookie Advanced) | March 22, 2020 |
-
-| Caribbean/Latin America  | Update Date |
-| ------------- | ------------- |
-| [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
+| [Major League Baseball](http://mlb.com) (American League and National League) | May 21, 2025 |
+| [Arizona Cactus League](http://www.cactusleague.com) (Spring Training) | May 21, 2025 |
+| [Florida Grapefruit League](http://www.floridagrapefruitleague.com) (Spring Training) | May 21, 2025 |
+| [Pacific Coast League](https://en.wikipedia.org/wiki/Pacific_Coast_League) (Triple-A) | May 21, 2025 |
+| [International League](https://en.wikipedia.org/wiki/International_League) (Triple-A) | May 21, 2025 |
+| [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(1938–present)) (Double-A) | May 21, 2025 |
+| [Southern League](https://en.wikipedia.org/wiki/Southern_League_(1964–present)) (Double-A) | May 21, 2025 |
+| [Texas League](https://en.wikipedia.org/wiki/Texas_League) (Double-A) | May 21, 2025 |
+| [Northwest League](https://en.wikipedia.org/wiki/High-A_West) (High-A) | May 21, 2025 |
+| [Midwest League](https://en.wikipedia.org/wiki/High-A_Central) (High-A) | May 21, 2025 |
+| [South Atlantic League](https://en.wikipedia.org/wiki/High-A_East) (High-A) | May 21, 2025 |
+| [California League](https://en.wikipedia.org/wiki/California_League) (Low-A) | May 21, 2025 |
+| [Carolina League](https://en.wikipedia.org/wiki/Carolina_League) (Low-A) | May 21, 2025 |
+| [Florida State League](https://en.wikipedia.org/wiki/Florida_State_League) (Low-A) | May 21, 2025 |
+| [Arizona Complex League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Rookie) | May 21, 2025 |
+| [Florida Complex League](https://www.milb.com/gulf-coast) (Rookie) | May 21, 2025 |
+| [Dominican Summer League](https://en.wikipedia.org/wiki/Dominican_Summer_League) (Rookie) | May 21, 2025 |
 
 ### Legacy (to be reviewed - see referenced Gist above)
 | North America  | Old Update Date |
 | ------------- | ------------- |
+| [Appalachian League](https://www.mlb.com/appalachian-league) (Rookie Advanced) | August 10, 2021 |
+| [Pioneer League](http://www.pioneerleague.com/) (Rookie Advanced) | March 22, 2020 |
+| [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
 | [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |
 | [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent) | March 22, 2020 |
 | [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent) | March 24, 2020 |
