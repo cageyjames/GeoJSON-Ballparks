@@ -4339,6 +4339,90 @@
         "type": "Point",
         "coordinates": [-111.887778, 33.4875]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.413333, 39.401389]
+      },
+      "properties": {
+        "team": "Frederick Keys",
+        "league": "MLB Draft League",
+        "division": "East",
+        "stadium": "Nymeo Field at Harry Grove Stadium",
+        "class": "Showcase"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.755241, 41.218453]
+      },
+      "properties": {
+        "team": "Mahoning Valley Scrappers",
+        "league": "MLB Draft League",
+        "division": "East",
+        "stadium": "Eastwood Field",
+        "class": "Showcase"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.850833, 40.811944]
+      },
+      "properties": {
+        "team": "State College Spikes",
+        "league": "MLB Draft League",
+        "division": "East",
+        "stadium": "Medlar Field at Lubrano Park",
+        "class": "Showcase"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.7609, 40.2032]
+      },
+      "properties": {
+        "team": "Trenton Thunder",
+        "league": "MLB Draft League",
+        "division": "East",
+        "stadium": "Trenton Thunder Ballpark",
+        "class": "Showcase"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.995833, 39.644722]
+      },
+      "properties": {
+        "team": "West Virginia Black Bears",
+        "league": "MLB Draft League",
+        "division": "East",
+        "stadium": "Kendrick Family Ballpark",
+        "class": "Showcase"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.047067, 41.242347]
+      },
+      "properties": {
+        "team": "Williamsport Crosscutters",
+        "league": "MLB Draft League",
+        "division": "East",
+        "stadium": "Journey Bank Ballpark",
+        "class": "Showcase"
+      }
     }
   ]
 }
