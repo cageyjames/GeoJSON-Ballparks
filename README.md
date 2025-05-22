@@ -31,6 +31,8 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Arizona Complex League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Rookie) | May 21, 2025 |
 | [Florida Complex League](https://www.milb.com/gulf-coast) (Rookie) | May 21, 2025 |
 | [Dominican Summer League](https://en.wikipedia.org/wiki/Dominican_Summer_League) (Rookie) | May 21, 2025 |
+| [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | May 22, 2025 |
+| [MLB Draft League](https://en.wikipedia.org/wiki/MLB_Draft_League) (Showcase) | May 22, 2025 |
 
 ### Legacy (to be reviewed - see referenced Gist above)
 | North America  | Old Update Date |
