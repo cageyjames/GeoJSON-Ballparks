@@ -87,23 +87,11 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [North Country Baseball League](https://web.archive.org/web/20151209141056/http://www.northcountrybaseballleague.com/) | League folded when teams moved to Empire Professional Baseball League |
 | [Thoroughbred League](https://web.archive.org/web/20171231192049/http://www.thoroughbredbaseball.com/) | League folded do to financial issues |
 | [United League Baseball](https://web.archive.org/web/20140625051415/http://www.unitedleaguebaseball.pointstreaksites.com/view/unitedleague) | League [declared bankruptcy](http://www.baseballessential.com/news/2015/01/15/united-league-baseball-folds-after-seven-seasons/) |
-| [International League](https://en.wikipedia.org/wiki/International_League) (Class Triple-A) | Replaced by Triple-A East |
-| [Pacific Coast League](https://en.wikipedia.org/wiki/Pacific_Coast_League) (Class Triple-A) | Replaced by Triple-A West and Low-A West |
-| [Eastern League](https://en.wikipedia.org/wiki/Eastern_League_(baseball)) (Class Double-A) | Replaced by Double-A Northeast |
-| [Southern League](https://en.wikipedia.org/wiki/Southern_League_(baseball)) (Class Double-A) | Replaced by Double-A South |
-| [Texas League](http://www.milb.com/index.jsp?sid=l109) (Class Double-A) | Replaced by Double-A Central |
-| [Northwest League](http://www.milb.com/index.jsp?sid=l126) (A Short) | Replaced by Northwest League |
-| [Midwest League](http://www.milb.com/index.jsp?sid=l118) (Class A) | Replaced by Midwest League and South Atlantic League |
-| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by South Atlantic League and Low-A East |
 | [New York-Penn League](http://www.milb.com/index.jsp?sid=l127) (A Short) | Replaced by South Atlantic League, Perfect Game League, MLB Draft League, Futures Collegiate Baseball League and Frontier League |
-| [Carolina League](http://www.milb.com/index.jsp?sid=l122) (Class A-Advanced) | Replaced by South Atlantic League, Low-A East and MLB Draft League |
-| [California League](http://www.milb.com/index.jsp?sid=l110) (Class A-Advanced) | Replaced by Low-A West |
-| [South Atlantic League](http://www.milb.com/index.jsp?sid=l116) (Class A) | Replaced by South Atlantic League, Low-A East and Atlantic League of Professional Baseball |
-| [Florida State League](http://www.milb.com/index.jsp?sid=l123) (Class A-Advanced) | Replaced by Low-A Southeast |
 
 ## To-Do
 
-* [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall) | March 21, 2020 |
+* [Mexican Pacific League](https://en.wikipedia.org/wiki/Mexican_Pacific_League) (Fall)
 * [Elitserien](https://en.wikipedia.org/wiki/Elitserien_(baseball)) (Sweden)
 * [Prospect League](https://en.wikipedia.org/wiki/Prospect_League) (College)
 * [Dominican Summer League](http://www.milb.com/index.jsp?sid=l130) (Rookie)
