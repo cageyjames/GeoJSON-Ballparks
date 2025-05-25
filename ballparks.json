@@ -4423,6 +4423,210 @@
         "stadium": "Journey Bank Ballpark",
         "class": "Showcase"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Chicago Dogs",
+        "League": "American Association",
+        "Division": "East",
+        "Stadium": "Impact Field",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.871736,
+          41.978213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Cleburne Railroaders",
+        "League": "American Association",
+        "Division": "South",
+        "Stadium": "La Moderna Field",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.412694,
+          32.374417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Fargo-Moorhead RedHawks",
+        "League": "American Association",
+        "Division": "West",
+        "Stadium": "Newman Outdoor Field",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.804269,
+          46.898489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Gary SouthShore RailCats",
+        "League": "American Association",
+        "Division": "East",
+        "Stadium": "U.S. Steel Yard",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.332217,
+          41.602869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Kansas City Monarchs",
+        "League": "American Association",
+        "Division": "West",
+        "Stadium": "Legends Field",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.830833,
+          39.124444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Lake Country DockHounds",
+        "League": "American Association",
+        "Division": "East",
+        "Stadium": "Wisconsin Brewing Company Park",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4755,
+          43.0665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Milwaukee Milkmen",
+        "League": "American Association",
+        "Division": "East",
+        "Stadium": "Franklin Field",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.016389,
+          42.918611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Kane County Cougars",
+        "League": "American Association",
+        "Division": "East",
+        "Stadium": "Northwestern Medicine Field",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.281756,
+          41.88065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Lincoln Saltdogs",
+        "League": "American Association",
+        "Division": "West",
+        "Stadium": "Haymarket Park",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.71391,
+          40.82279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Sioux City Explorers",
+        "League": "American Association",
+        "Division": "West",
+        "Stadium": "MercyOne Field at Lewis and Clark Park",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.364217,
+          42.443047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Sioux Falls Canaries",
+        "League": "American Association",
+        "Division": "West",
+        "Stadium": "Sioux Falls Stadium",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7492,
+          43.559721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Team": "Winnipeg Goldeyes",
+        "League": "American Association",
+        "Division": "West",
+        "Stadium": "Blue Cross Park",
+        "Class": "MLB Partner League"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.133314,
+          49.893831
+        ]
+      }
     }
   ]
 }

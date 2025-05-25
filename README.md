@@ -33,6 +33,7 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Dominican Summer League](https://en.wikipedia.org/wiki/Dominican_Summer_League) (Rookie) | May 21, 2025 |
 | [Arizona Fall League](https://en.wikipedia.org/wiki/Arizona_Fall_League) (Fall) | May 22, 2025 |
 | [MLB Draft League](https://en.wikipedia.org/wiki/MLB_Draft_League) (Showcase) | May 22, 2025 |
+| [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | May 25, 2025 |
 
 ### Legacy (to be reviewed - see referenced Gist above)
 | North America  | Old Update Date |
@@ -40,7 +41,6 @@ There are over 450 ballparks around the world included.  If you find a league I 
 | [Appalachian League](https://www.mlb.com/appalachian-league) (Rookie Advanced) | August 10, 2021 |
 | [Pioneer League](http://www.pioneerleague.com/) (Rookie Advanced) | March 22, 2020 |
 | [Mexican League](http://www.milb.com/index.jsp?sid=l125) (Independent) | July 22, 2021 |
-| [American Association of Independent Professional Baseball](http://www.americanassociationbaseball.com) (Independent) | March 22, 2020 |
 | [Atlantic League of Professional Baseball](http://www.atlanticleague.com/) (Independent) | March 22, 2020 |
 | [Empire Professional Baseball League](https://en.wikipedia.org/wiki/Empire_Professional_Baseball_League) (Independent) | March 24, 2020 |
 | [Frontier League](http://www.frontierleague.com/) (Independent) | March 22, 2020 |
